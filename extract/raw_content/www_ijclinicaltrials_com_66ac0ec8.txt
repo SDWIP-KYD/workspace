@@ -1,0 +1,309 @@
+# Source URL: https://www.ijclinicaltrials.com/index.php/ijct/article/view/704
+# Content Length: 11464 characters
+# Extracted at: 2026-02-26 15:34:13
+#============================================================
+
+
+
+
+Comparative, randomized-controlled trial on efficacy and safety of Lactobacillus rhamnosus GG and Saccharomyces boulardii in treatment of acute diarrhea in Indian children (COMPARE-GG trial)
+| International Journal of Clinical Trials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#pkp_content_main)
+[Skip to main navigation menu](#siteNav)
+[Skip to site footer](#pkp_content_footer)
+
+Open Menu
+
+[International Journal of Clinical Trials](						https://www.ijclinicaltrials.com/index.php/ijct/index
+					)
+
+
+* [Home](https://www.ijclinicaltrials.com/index.php/ijct/index)
+* [About](https://www.ijclinicaltrials.com/index.php/ijct/about)
+  + [About the Journal](https://www.ijclinicaltrials.com/index.php/ijct/about)
+  + [Submissions](https://www.ijclinicaltrials.com/index.php/ijct/about/submissions)
+  + [Editorial Team](https://www.ijclinicaltrials.com/index.php/ijct/about/editorialTeam)
+  + [Privacy Statement](https://www.ijclinicaltrials.com/index.php/ijct/about/privacy)
+  + [Contact](https://www.ijclinicaltrials.com/index.php/ijct/about/contact)
+* [Login](https://www.ijclinicaltrials.com/index.php/ijct/login)
+* [Register](https://www.ijclinicaltrials.com/index.php/ijct/user/register)
+* [Articles In Press](https://www.ijclinicaltrials.com/index.php/ijct/issue/view/9)
+* [Current](https://www.ijclinicaltrials.com/index.php/ijct/issue/current)
+* [Archives](https://www.ijclinicaltrials.com/index.php/ijct/issue/archive)
+* [Author Guidelines](https://www.ijclinicaltrials.com/index.php/ijct/about/submissions#authorGuidelines)
+
+[Search](https://www.ijclinicaltrials.com/index.php/ijct/search)
+
+
+
+
+
+
+1. [Home](https://www.ijclinicaltrials.com/index.php/ijct/index)
+   /
+2. [Archives](https://www.ijclinicaltrials.com/index.php/ijct/issue/archive)
+   /
+3. [Vol. 10 No. 2 (2023): April-June 2023](https://www.ijclinicaltrials.com/index.php/ijct/issue/view/48)
+   /
+4. Original Research Articles
+
+Comparative, randomized-controlled trial on efficacy and safety of Lactobacillus rhamnosus GG and Saccharomyces boulardii in treatment of acute diarrhea in Indian children (COMPARE-GG trial)
+==============================================================================================================================================================================================
+
+Authors
+-------
+
+* Shekhar Biswas
+  
+  Department of Pediatrics, Jaipur Golden Hospital, Delhi, India
+* Benshik Bal
+  
+  Department of Pediatrics, Jaipur Golden Hospital, Delhi, India
+
+DOI:
+----
+
+<https://doi.org/10.18203/2349-3259.ijct20231103>
+
+
+Keywords:
+---------
+
+Acute Diarrhoea, Zinc, Probiotics, Lactobacillus rhamnosus GG, Saccharomyces boulardii 
+
+Abstract
+--------
+
+**Background:** Probiotics are routinely prescribed to boost gut health and reduce severity of diarrhea. This study aimed to compare the efficacy and safety of *Lactobacillus rhamnosus* GG (LrGG) and *Saccharomyces boulardii* as an adjunct treatment for acute diarrhea in Indian children aged 6–36 months.
+
+**Methods:** In this single-center, open label, comparative, randomized controlled study, children were randomized into three groups (n=35, each) and provided either low osmolarity oral rehydration solution (ORS) and zinc (20 mg/day) alone or ORS+Zinc supplemented with one of the two probiotic preparations, LrGG ATCC 53103 or *S. boulardii* CNCM 1-745. Children were monitored every 8 hours after admission and the duration of diarrhea and hospital stay, and stool frequency were evaluated.
+
+**Results:** Of the total 105 children enrolled in the study, majority were aged between 13–24 months (40%). LrGG significantly reduced the mean duration of diarrhea by nearly 19 hours, when compared to the control group (p=0.003), while reduction by *S. boulardii* was not significant. The mean hospital stay duration for control group was about 6 days, which was significantly reduced (p=0.0001) by nearly 23 hours by LrGG, and non-significantly by *S. boulardii*. On day 2, LrGG significantly reduced stool frequency by 32.31%, as compared to 27.44% reduction in control group. *S. boulardii* reduced stool frequency by 31.76%, which was not statistically significant compared to that in control group.
+
+**Conclusions:** LrGG showed statistically significant reduction in duration of diarrhea and hospital stay, when compared against the group receiving ORS+zinc either alone or with *S. boulardii*.
+
+
+### Metrics
+
+Metrics Loading ...
+
+References
+----------
+
+Ghosh K, Chakraborty AS, Mog M. Prevalence of diarrhea among under five children in India and its contextual determinants: A geo-spatial analysis. Clin Epidemiol Glob Health. 2021;12:100813.
+
+IAP Standard Treatment Guidelines (2022) - Acute Watery Diarrhea. Available at: <https://iapindia.org/pdf/Ch-020-STG-Acute-Watery-Diarrhea.pdf> Accessed on 11 April 2023.
+
+Sanklecha M, Verma L, Pai U, Mishra S, Maqsood S, Birla A. Lactobacillus rhamnosus GG Evaluation in Acute Diarrhea (LEAD): An Observational Study. Cureus. 2022;14(4).
+
+Kesavelu D, Kurup A. Single-Strain Probiotics For The Management Of Acute Diarrhea In Children: A Randomized Comparative Study. NeuroQuantology. 2022;20(9):5277-83.
+
+Kumar Yachha S, Sen Sarma M, Mohan N, Wadhwa N, Kumar VR N, Srinivasan R, et al. Recommendations Indian Academy of Pediatrics Consensus Guidelines for Probiotic Use in Childhood Diarrhea. Indian Pediatr. 2022;15;59(7):543-51.
+
+Szajewska H, Berni Canani R, Domellöf M, Guarino A, Hojsak I, Indrio F, et al. Probiotics for the Management of Pediatric Gastrointestinal Disorders: Position Paper of the ESPGHAN Special Interest Group on Gut Microbiota and Modifications. J Pediatr Gastroenterol Nutr. 2023;76(2):232-47.
+
+Das S, Gupta P, Das R. Efficacy and safety of saccharomyces boulardii in acute rotavirus diarrhea: Double blind randomized controlled trial from a developing country. J Trop Pediatr. 2016;62(6):464-70.
+
+Canani R, Cirillo P, Terrin G, Cesarano L, Spagnuolo MI, De Vincenzo A, et al. Probiotics for treatment of acute diarrhea in children: Randomised clinical trial of five different preparations. Br Med J. 2007;335(7615):340-2.
+
+Nokes DJ, Abwao J, Pamba A, Peenze I, Dewar J, Maghenda JK, et al. Incidence and clinical characteristics of group A rotavirus infections among children admitted to hospital in Kilifi, Kenya. PLoS Med. 2008;5(7):1154-62.
+
+Standaert B, Strens D, Li X, Schecroun N, Raes M. The Sustained Rotavirus Vaccination Impact on Nosocomial Infection, Duration of Hospital Stay, and Age: The RotaBIS Study (2005–2012). Infect Dis Ther. 2016;5(4):509.
+
+Guarino A, Berni Canani R, Spagnuolo M, Albano F, Di Benedetto L. Oral bacterial therapy reduces the duration of symptoms and of viral excretion in children with mild diarrhea. J Pediatr Gastroenterol Nutr. 1997;25(5):516-9.
+
+Bhat S, Savio CD. Efficacy of probiotics in acute diarrhea in children. Int J Contemp Pediatrics. 2018;5(4):1646.
+
+Kurugöl Z, Koturoğlu G. Effects of Saccharomyces boulardii in children with acute diarrhea. Acta Paediatr. 2005;94(1):44-7.
+
+van Niel C, Feudtner C, Garrison M, Christakis D. Lactobacillus Therapy for Acute Infectious Diarrhea in Children: A Meta-analysis. Pediatrics. 2002;109(4):678-84.
+
+Szymański H, Pejcz J, Jawień M, Chmielarczyk A, Strus M, Heczko PB. Treatment of acute infectious diarrhea in infants and children with a mixture of three Lactobacillus rhamnosus strains – a randomized, double-blind, placebo-controlled trial. Aliment Pharmacol Ther. 2006;23(2):247-53.
+
+Pant A, Graham S, Allen S, Harikul S, Sabchareon A, Cuevas L, et al. Lactobacillus GG and Acute Diarrhea in Young Children in the Tropics. J Trop Pediatr. 1996;42(3):162-5.
+
+Li Y, Xu H, Ye J, Wu WR, Shi D, Fang DQ, et al. Efficacy of Lactobacillus rhamnosus GG in treatment of acute pediatric diarrhea: A systematic review with meta-analysis. World J Gastroenterol. 2019;25(33):4999-5016.
+
+
+
+
+Downloads
+---------
+
+* [PDF](https://www.ijclinicaltrials.com/index.php/ijct/article/view/704/379)
+
+Published
+---------
+
+2023-04-26
+
+
+
+How to Cite
+-----------
+
+Biswas, S., & Bal, B. (2023). Comparative, randomized-controlled trial on efficacy and safety of Lactobacillus rhamnosus GG and Saccharomyces boulardii in treatment of acute diarrhea in Indian children (COMPARE-GG trial). *International Journal of Clinical Trials*, *10*(2), 131–136. https://doi.org/10.18203/2349-3259.ijct20231103
+
+
+More Citation Formats
+
+* [ACM](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/acm-sig-proceedings?submissionId=704&publicationId=1055)
+* [ACS](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/acs-nano?submissionId=704&publicationId=1055)
+* [APA](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/apa?submissionId=704&publicationId=1055)
+* [ABNT](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=704&publicationId=1055)
+* [Chicago](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/chicago-author-date?submissionId=704&publicationId=1055)
+* [Harvard](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/harvard-cite-them-right?submissionId=704&publicationId=1055)
+* [IEEE](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/ieee?submissionId=704&publicationId=1055)
+* [MLA](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/modern-language-association?submissionId=704&publicationId=1055)
+* [Turabian](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=704&publicationId=1055)
+* [Vancouver](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/get/vancouver?submissionId=704&publicationId=1055)
+
+Download Citation
+
+* [Endnote/Zotero/Mendeley (RIS)](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/download/ris?submissionId=704&publicationId=1055)
+* [BibTeX](https://www.ijclinicaltrials.com/index.php/ijct/citationstylelanguage/download/bibtex?submissionId=704&publicationId=1055)
+
+
+
+
+
+Issue
+-----
+
+[Vol. 10 No. 2 (2023): April-June 2023](https://www.ijclinicaltrials.com/index.php/ijct/issue/view/48)
+
+
+Section
+-------
+
+Original Research Articles
+
+
+
+![]()
+
+
+![]()
+  
+
+
+
+[![]()](https://scholar.google.com/scholar?q=10.18203/2349-3259.ijct20231103)
+
+[![]()](http://europepmc.org/search?scope=fulltext&query=(REF:10.18203/2349-3259.ijct20231103))
+
+
+
+
+
+
+
+
+
+Make a Submission
+-----------------
+
+[Make a Submission](https://www.ijclinicaltrials.com/index.php/ijct/about/submissions)
+
+
+Information
+-----------
+
+* [For Readers](https://www.ijclinicaltrials.com/index.php/ijct/information/readers)
+* [For Authors](https://www.ijclinicaltrials.com/index.php/ijct/information/authors)
+* [For Librarians](https://www.ijclinicaltrials.com/index.php/ijct/information/librarians)
+
+
+Keywords
+
+Current Issue
+-------------
+
+* [![]()](https://www.ijclinicaltrials.com/index.php/ijct/gateway/plugin/WebFeedGatewayPlugin/atom)
+* [![]()](https://www.ijclinicaltrials.com/index.php/ijct/gateway/plugin/WebFeedGatewayPlugin/rss2)
+* [![]()](https://www.ijclinicaltrials.com/index.php/ijct/gateway/plugin/WebFeedGatewayPlugin/rss)
+
+
+
+
+International Journal of Clinical Trials. Copyright © 2025.
+
+Print ISSN: 2349-3240 | Online ISSN: 2349-3259
+
+[editor@ijclinicaltrials.com](mailto:editor@ijclinicaltrials.com), [medipeditor@gmail.com](mailto:medipeditor@gmail.com)
+
+
+
+
+
+
+

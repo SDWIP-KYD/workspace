@@ -1,0 +1,1250 @@
+# Source URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207701
+# Content Length: 103397 characters
+# Extracted at: 2026-02-26 15:35:52
+#============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comparative effectiveness and safety of interventions for acute diarrhea and gastroenteritis in children: A systematic review and network meta-analysis | PLOS One
+
+
+
+
+
+
+
+
+[Skip to main content](#main-content)
+Advertisement
+
+
+
+
+
+[PLOS One](/plosone/.)
+======================
+
+* Publish
+  + Submissions 
+    - [Getting Started](/plosone/s/getting-started)
+    - [Submission Guidelines](/plosone/s/submission-guidelines)
+    - [Figures](/plosone/s/figures)
+    - [Tables](/plosone/s/tables)
+    - [Supporting Information](/plosone/s/supporting-information)
+    - [LaTeX](/plosone/s/latex)
+    - [What We Publish](/plosone/s/what-we-publish)
+    - [Preprints](/plosone/s/preprints)
+    - [Revising Your Manuscript](/plosone/s/revising-your-manuscript)
+    - [Submit Now](/plosone/s/submit-now)
+    - [Calls for Papers](https://collections.plos.org/s/calls-for-papers)
+  + Policies 
+    - [Best Practices in Research Reporting](/plosone/s/best-practices-in-research-reporting)
+    - [Human Subjects Research](/plosone/s/human-subjects-research)
+    - [Animal Research](/plosone/s/animal-research)
+    - [Competing Interests](/plosone/s/competing-interests)
+    - [Disclosure of Funding Sources](/plosone/s/disclosure-of-funding-sources)
+    - [Licenses and Copyright](/plosone/s/licenses-and-copyright)
+    - [Data Availability](/plosone/s/data-availability)
+    - [Complementary Research](/plosone/s/complementary-research)
+    - [Materials, Software and Code Sharing](/plosone/s/materials-software-and-code-sharing)
+    - [Ethical Publishing Practice](/plosone/s/ethical-publishing-practice)
+    - [Authorship](/plosone/s/authorship)
+    - [Corrections, Expressions of Concern, and Retractions](/plosone/s/corrections-expressions-of-concern-and-retractions)
+  + Manuscript Review and Publication 
+    - [Criteria for Publication](/plosone/s/criteria-for-publication)
+    - [Editorial and Peer Review Process](/plosone/s/editorial-and-peer-review-process)
+    - [Editor Center](https://plos.org/resources/editor-center)
+    - [Resources for Editors](/plosone/s/resources-for-editors)
+    - [Guidelines for Reviewers](/plosone/s/reviewer-guidelines)
+    - [Accepted Manuscripts](/plosone/s/accepted-manuscripts)
+    - [Comments](/plosone/s/comments)
+  ### Submit Your Manuscript
+  
+  Discover a faster, simpler path to publishing in a high-quality journal. *PLOS ONE* promises fair, rigorous peer review,
+  broad scope, and wide readership – a perfect fit for your research every time.
+  
+  [Learn More](/plosone/static/publish)
+  [Submit Now](https://www.editorialmanager.com/pone/default.asp)
+* About 
+  + [Why Publish with PLOS ONE](/plosone/static/publish)
+  + [Journal Information](/plosone/s/journal-information)
+  + [Staff Editors](/plosone/s/staff-editors)
+  + [Editorial Board](/plosone/static/editorial-board)
+  + [Section Editors](/plosone/s/section-editors)
+  + [Advisory Groups](/plosone/s/advisory-groups)
+  + [Find and Read Articles](/plosone/s/find-and-read-articles)
+  + [Publishing Information](/plosone/s/publishing-information)
+  + [Publication Fees](https://plos.org/publication-fees)
+  + [Press and Media](https://plos.org/press-and-media)
+  + [Contact](/plosone/s/contact)
+* Browse
+* Search
+  Search
+  
+  
+  
+  
+  
+  
+  [advanced search](/plosone/search)
+
+
+
+
+Browse Subject Areas
+?
+
+Click through the PLOS taxonomy to find articles in your field.
+
+For more information about PLOS Subject Areas, click
+[here](https://github.com/PLOS/plos-thesaurus/blob/master/README.md).
+
+
+
+
+
+
+
+
+
+ 
+
+* Loading metrics
+
+Open Access
+
+Peer-reviewed
+
+Research Article
+
+
+
+
+xml version="1.0" encoding="UTF-8"?Comparative effectiveness and safety of interventions for acute diarrhea and gastroenteritis in children: A systematic review and network meta-analysis
+==========================================================================================================================================================================================
+
+* Ivan D. Florez  , 
+  
+  Roles
+  Conceptualization,
+  Data curation,
+  Formal analysis,
+  Investigation,
+  Project administration,
+  Supervision,
+  Validation,
+  Writing – original draft,
+  Writing – review & editing
+  
+  \* E-mail: [ivan.florez@udea.edu.co](mailto:ivan.florez@udea.edu.co)
+  
+  Affiliations
+  Department of Health Research Methods, Evidence & Impact; McMaster University, Hamilton, Canada,
+  Department of Pediatrics, Universidad de Antioquia, Medellín, Colombia
+  
+  
+  [![]()
+  http://orcid.org/0000-0002-0751-8932](http://orcid.org/0000-0002-0751-8932)
+  
+  
+  
+  ⨯
+* Areti-Angeliki Veroniki, 
+  
+  Roles
+  Conceptualization,
+  Formal analysis,
+  Methodology,
+  Writing – original draft,
+  Writing – review & editing
+  
+  Affiliations
+  Li Ka Shing Knowledge Institute, St. Michaels Hospital, Toronto, Canada,
+  Department of Primary Education, School of Education, University of Ioannina, Ioannina, Greece
+  
+  ⨯
+* Reem Al Khalifah, 
+  
+  Roles
+  Data curation,
+  Methodology,
+  Writing – review & editing
+  
+  Affiliation
+  Department of Pediatrics, King Saud University, Riyadh, Saudi Arabia
+  
+  
+  [![]()
+  http://orcid.org/0000-0002-5304-3528](http://orcid.org/0000-0002-5304-3528)
+  
+  
+  
+  ⨯
+* Juan J. Yepes-Nuñez, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Methodology,
+  Writing – review & editing
+  
+  Affiliations
+  Department of Health Research Methods, Evidence & Impact; McMaster University, Hamilton, Canada,
+  Department of Pediatrics, Universidad de Antioquia, Medellín, Colombia
+  
+  ⨯
+* Javier M. Sierra, 
+  
+  Roles
+  Data curation,
+  Formal analysis,
+  Writing – review & editing
+  
+  Affiliation
+  Department of Pediatrics, Universidad de Antioquia, Medellín, Colombia
+  
+  ⨯
+* Robin W. M. Vernooij, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Methodology,
+  Writing – review & editing
+  
+  Affiliations
+  Iberoamerican Cochrane Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), Barcelona, Spain,
+  Department of Research, Netherlands Comprehensive Cancer Organisation (IKNL), Utrecht, Netherlands
+  
+  ⨯
+* Jorge Acosta-Reyes, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Methodology,
+  Writing – review & editing
+  
+  Affiliation
+  Department of Public Health, Universidad del Norte, Barranquilla, Colombia
+  
+  
+  [![]()
+  http://orcid.org/0000-0003-4303-3243](http://orcid.org/0000-0003-4303-3243)
+  
+  
+  
+  ⨯
+* Claudia M. Granados, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Writing – review & editing
+  
+  Affiliation
+  Department of Clinical Epidemiology & Biostatistics, Pontificia Universidad Javeriana, Bogotá, Colombia
+  
+  ⨯
+* Giordano Pérez-Gaxiola, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Writing – review & editing
+  
+  Affiliation
+  Hospital Pediátrico de Sinaloa, Culiacán, Mexico
+  
+  
+  [![]()
+  http://orcid.org/0000-0002-3770-5974](http://orcid.org/0000-0002-3770-5974)
+  
+  
+  
+  ⨯
+* Carlos Cuello-Garcia, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Writing – review & editing
+  
+  Affiliations
+  Department of Health Research Methods, Evidence & Impact; McMaster University, Hamilton, Canada,
+  Department of Pediatrics, McMaster University, Hamilton, Canada
+  
+  
+  [![]()
+  http://orcid.org/0000-0002-1742-0242](http://orcid.org/0000-0002-1742-0242)
+  
+  
+  
+  ⨯
+* Adriana M. Zea, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Writing – review & editing
+  
+  Affiliation
+  School of Nutrition and Dietetics, University of Antioquia, Medellin, Colombia
+  
+  ⨯
+* Yuan Zhang, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Writing – review & editing
+  
+  Affiliation
+  Department of Health Research Methods, Evidence & Impact; McMaster University, Hamilton, Canada
+  
+  ⨯
+* Naghmeh Foroutan, 
+  
+  Roles
+  Data curation,
+  Investigation,
+  Writing – review & editing
+  
+  Affiliations
+  Department of Health Research Methods, Evidence & Impact; McMaster University, Hamilton, Canada,
+  Programs for Assessment of Technology in Health (PATH), St. Joseph Health Care Hamilton, Hamilton, Canada
+  
+  ⨯
+* Gordon H. Guyatt, 
+  
+  Roles
+  Conceptualization,
+  Supervision,
+  Validation,
+  Writing – review & editing
+  
+  Affiliations
+  Department of Health Research Methods, Evidence & Impact; McMaster University, Hamilton, Canada,
+  Department of Medicine, McMaster University, Hamilton, Canada
+  
+  ⨯
+* Lehana Thabane 
+  
+  Roles
+  Conceptualization,
+  Investigation,
+  Methodology,
+  Supervision,
+  Validation,
+  Writing – review & editing
+  
+  Affiliations
+  Department of Health Research Methods, Evidence & Impact; McMaster University, Hamilton, Canada,
+  Department of Pediatrics, McMaster University, Hamilton, Canada,
+  Department of Anaesthesia, McMaster University, Hamilton, Canada
+  
+  ⨯
+
+xml version="1.0" encoding="UTF-8"?Comparative effectiveness and safety of interventions for acute diarrhea and gastroenteritis in children: A systematic review and network meta-analysis
+==========================================================================================================================================================================================
+
+* Ivan D. Florez,
+* Areti-Angeliki Veroniki,
+* Reem Al Khalifah,
+* Juan J. Yepes-Nuñez,
+* Javier M. Sierra,
+* Robin W. M. Vernooij,
+* Jorge Acosta-Reyes,
+* Claudia M. Granados,
+* Giordano Pérez-Gaxiola,
+* Carlos Cuello-Garcia
+
+![]()
+x
+
+
+* Published: December 5, 2018
+* <https://doi.org/10.1371/journal.pone.0207701>
+
+
+
+* [Article](/plosone/article?id=10.1371/journal.pone.0207701)
+* [Authors](/plosone/article/authors?id=10.1371/journal.pone.0207701)
+* [Metrics](/plosone/article/metrics?id=10.1371/journal.pone.0207701)
+* [Comments](/plosone/article/comments?id=10.1371/journal.pone.0207701)
+* [Media Coverage](http://plos.altmetric.com/details/doi/10.1371/journal.pone.0207701)
+
+* [Reader Comments](article/comments?id=10.1371/journal.pone.0207701)
+* [Figures](#)
+
+
+
+
+Figures
+-------
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+
+
+
+
+
+
+Abstract
+--------
+
+### Background
+
+Many interventions have shown effectiveness in reducing the duration of acute diarrhea and gastroenteritis (ADG) in children. Yet, there is lack of comparative efficacy of interventions that seem to be better than placebo among which, the clinicians must choose. Our aim was to determine the comparative effectiveness and safety of the pharmacological and nutritional interventions for reducing the duration of ADG in children.
+
+
+### Methods
+
+Data sources included Medline, Embase, CENTRAL, CINAHL, LILACS, and Global-Health up to May 2017. Eligible trials compared zinc (ZN), vitamin A, micronutrients (MN), probiotics, prebiotics, symbiotics, racecadotril, smectite(SM), loperamide, diluted milk, lactose-free formula(LCF), or their combinations, to placebo or standard treatment (STND), or among them. Two reviewers independently performed screening, review, study selection and extraction. The primary outcome was diarrhea duration. Secondary outcomes were stool frequency at day 2, diarrhea at day 3, vomiting and side effects. We performed a random effects Bayesian network meta-analysis to combine the direct and indirect evidence for each outcome. Mean differences and odds ratio with their credible intervals(CrI) were calculated. Coherence and transitivity assumptions were assessed. Meta-regression, subgroups and sensitivity analyses were conducted to explore the impact of effect modifiers. Summary under the cumulative curve (SUCRA) values with their CrI were calculated. We assessed the evidence quality and classified the best interventions using the Grading of Recommendations, Assessment, Development & Evaluation (GRADE) approach for each paired comparison.
+
+
+### Results
+
+A total of 174 studies (32,430 children) proved eligible. Studies were conducted in 42 countries of which most were low-and middle-income countries (LMIC). Interventions were grouped in 27 categories. Most interventions were better than STND. Reduction of diarrhea varied from 12.5 to 51.1 hours. The combinations *Saccharomyces boulardii* (SB)+ZN, and SM+ZN were considered the best interventions (i.e., GRADE quality of evidence: moderate to high, substantial superiority to STND, reduction in duration of 35 to 40 hours, and large SUCRA values), while symbiotics (combination of probiotics+prebiotics), ZN, loperamide and combinations ZN+MN and ZN+LCF were considered inferior to the best and better than STND [Quality: moderate to high, superior to STND, and reduction of 17 to 25 hours]. In subgroups analyses, effect of ZN was higher in LMIC and was not present in high-income countries (HIC). Vitamin A, MN, prebiotics, kaolin-pectin, and diluted milk were similar to STND [Quality: moderate to high]. The remainder of the interventions had low to very-low evidence quality. Loperamide was the only intervention with more side effects than STND [Quality: moderate].
+
+
+### Discussion/Conclusion
+
+Most interventions analyzed (except vitamin A, micronutrients, prebiotics, and kaolin-pectin) showed evidence of superiority to placebo in reducing the diarrhea. With moderate-to high-quality of evidence, SB+ZN and SM+ZN, demonstrated the best combination of evidence quality and magnitude of effect while symbiotics, loperamide and zinc proved being the best single interventions, and loperamide was the most unsafe. Nonetheless, the effect of zinc, SB+ZN and SM+ZN might only be applied to children in LMIC. Results suggest no further role for studies comparing interventions against no treatment or placebo, or studies testing loperamide, MN, kaolin-pectin, vitamin A, prebiotics and diluted milk.
+
+
+### PROSPERO registration
+
+[CRD42015023778](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=23778).
+
+
+
+**Citation:** Florez ID, Veroniki A-A, Al Khalifah R, Yepes-Nuñez JJ, Sierra JM, Vernooij RWM, et al. (2018) Comparative effectiveness and safety of interventions for acute diarrhea and gastroenteritis in children: A systematic review and network meta-analysis. PLoS ONE 13(12):
+e0207701.
+https://doi.org/10.1371/journal.pone.0207701
+
+**Editor:** Jacobus P. van Wouwe, TNO, NETHERLANDS
+
+**Received:** May 2, 2018; **Accepted:** November 4, 2018; **Published:**  December 5, 2018
+
+**Copyright:**  © 2018 Florez et al. This is an open access article distributed under the terms of the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+**Data Availability:** All relevant data are within the paper and its Supporting Information file.
+
+**Funding:** The authors received no specific funding for this work.
+
+**Competing interests:**  The authors have declared that no competing interests exist.
+
+
+Introduction
+------------
+
+Diarrheal diseases remain the third cause of death among children younger than 5 years old[[1](#pone.0207701.ref001),[2](#pone.0207701.ref002)]. Most of these deaths occur in low- and middle-income countries (LMIC). Although in high-income countries (HIC) diarrhea is rarely fatal, it is a leading cause of hospitalizations [[3](#pone.0207701.ref003)]. Acute diarrhea is defined by the World Health Organization (WHO) as the passage of three or more loose or liquid stools per day, for three or more days, and for less than 14 days[[4](#pone.0207701.ref004)]. The American Academy of Pediatrics, defines acute gastroenteritis as diarrheal disease of rapid onset, with or without additional symptoms and signs, such as nausea, vomiting, fever, or abdominal pain[[5](#pone.0207701.ref005)]. Although acute diarrhea and gastroenteritis (ADG) are based on two different definitions, they are usually related to the same disease: a gastrointestinal infection caused by microorganisms such as rotavirus (RV), norovirus, *Salmonella*, *E*. *coli*, *Campylobacter*, among others[[6](#pone.0207701.ref006)].
+
+According to the WHO, the main goal of treatment in ADG is to prevent dehydration, and the strategies to achieve the goal include the use of oral rehydration solution (ORS), continuing oral feeding and zinc supplementation4. Therefore, in addition to the ORS, the only intervention recommended by the WHO for ADG is ZN, which is commonly used in many LMIC[[7](#pone.0207701.ref007)]. Conversely, some guidelines, mostly from HIC, have either recommended additional interventions such as probiotics, racecadotril (an enkaphalinase inhibitor) and smectite (a natural clay formed from sheets of aluminium and magnesium silicate) and/or have discouraged the use of zinc[[8](#pone.0207701.ref008),[9](#pone.0207701.ref009)]. Investigators have conducted many comparative trials of interventions for ADG, as well as several systematic reviews and pairwise meta-analysis with comparisons to placebo or no treatment[[10](#pone.0207701.ref010)–[16](#pone.0207701.ref016)]. These reviews have showed that interventions such as smectite, racecadotril, zinc, probiotics, yogurt, and lactose-free formula are effective for reducing the diarrhea duration, in comparison to placebo. However, to date, the summaries have not established the best interventions, or those that clinicians should avoid. To provide such information, clinicians require an analysis that simultaneously addresses all the available treatment options.
+
+One review performed direct and indirect comparisons to address this issue[[17](#pone.0207701.ref017)]. This review did not, however, include all the available interventions; provided limited information regarding the search strategies, included and excluded studies, and the risk of bias assessment; did not assess for potential effect modifiers; and did not address the overall quality of evidence. We have therefore, through a network meta-analysis (NMA), addressed the effectiveness and safety of the available interventions for the treatment of the ADG in children.
+
+
+Materials and methods
+---------------------
+
+This systematic review and NMA protocol was registered with PROSPERO (CRD42015023778), and published in an open access journal[[18](#pone.0207701.ref018)]. Since methods were reported previously, they are described only briefly here. In the supporting information (File A in [S1 Appendix](#pone.0207701.s001)) we describe differences between the published protocol and the final protocol. This report complies with the recommendations of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Extension statement for reporting of systematic reviews incorporating NMA (File B in [S1 Appendix](#pone.0207701.s001))[[19](#pone.0207701.ref019)].
+
+### Search strategy and eligibility criteria
+
+MEDLINE, Embase, Global Heath, CINAHL, LILACS, and Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to May 1st, 2017. We screened the grey literature through trial registries and dissertation databases. We considered RCTs and quasi-RCTs assessing interventions for reducing diarrhea in children. Our previously published protocol18 and the supporting information (File C in [S1 Appendix](#pone.0207701.s001)) provide additional information regarding the search strategy.
+
+Interventions of interest were diluted milk, lactose-free formula, loperamide, micronutrients, prebiotics, probiotics, racecadotril, smectite, symbiotics (defined as the combination of any probiotic strain with any prebiotic), vitamin A, yogurt, and zinc. We did not consider antiemetics, antimicrobials, alternative or non-mainstream interventions (such as herbal medicines), neither we considered trials of interventions for rehydration. However, we did not exclude studies if antibiotics or antiemetics were used as co-interventions. We created clusters of interventions that analyzed into the same group based on their characteristics (see [Results](#sec013) section). We created a group called standard treatment (STND), which included the interventions that did not provide an active treatment: intervention arms labeled as placebo, no treatment, “only oral rehydration solution (ORS)” (irrespective of the osmolarity), standard, or regular treatment. In trials comparing lactose free-formula to regular formula, we also classified the latter as STND.
+
+Zinc is widely used in many LMIC, and therefore, following WHO recommendations, the standard treatment of ADG cases in these countries is ORS plus zinc supplementation4. In studies in which zinc was part of the standard treatment, the arm receiving only zinc was labeled as zinc, not STND; the other arm was labelled as zinc plus an added intervention. For instance, if a study evaluated standard treatment plus smectite vs. standard treatment (which included zinc + ORS), the comparison was considered as smectite plus zinc vs zinc. We defined combinations of interventions as the simultaneous use of two or more interventions, except for probiotics (commonly, they include preparations of different strains) and symbiotics (combination of probiotics and prebiotics), which were considered single interventions. Our primary outcome was mean diarrhea duration (hours) from the time of recruitment. Secondary outcomes were stool frequency at day 2, diarrhea at day 3, vomiting, and side effects.
+
+
+### Study selection, data extraction and descriptive analysis
+
+Reviewers, in pairs, independently screened abstracts and full-text articles, extracted the data in a pre-specified extraction form, and assessed the risk of bias with a modified version of the Cochrane tool[[20](#pone.0207701.ref020),[21](#pone.0207701.ref021)]. We extracted patients’ baseline information (country, clinical status, hydration, nutritional status, etiology, days with diarrhea), and studies characteristics (risk of bias, funding source, interventions and their characteristics, number of patients, and outcomes results). Reviewers resolved disagreements by discussion or, if necessary, by a third reviewer (IDF,GHG). We summarized the main characteristics of the studies using descriptive statistics. Categorical variables were summarized using frequencies and proportions, and continuous variables using the means, Standard deviation and ranges. We calculated grand means, by calculating the mean of the means of continuous variables from each study.
+
+
+### Pairwise and network meta-analysis
+
+We performed pairwise meta-analysis of the available direct comparisons using a Bayesian random-effects model to obtain direct evidence. Treatment effects were estimated using odds ratio (OR) for dichotomous outcomes and mean difference (MD) for continuous outcomes: in hours for diarrhea duration and in number of stools for stool frequency, with their corresponding 95% credible intervals (CrI). Credible intervals provide a range of values for the parameter of interest (e.g., OR) that are plausible given the observed data. We used vague priors, i.e. distributions that play a minimal role in the posterior distribution[[22](#pone.0207701.ref022)], for all model parameters and a common half-normal prior distribution for the between-study standard deviation (τ~Ν(0,1), τ>0) across all treatment comparisons per outcome[[23](#pone.0207701.ref023)]. We used a common between-study standard deviation across all treatment comparisons in each network to increase accuracy in τ estimation, especially when a single study was available in a treatment comparison where τ was not estimable. In a Bayesian framework analysis, a prior distribution, or “prior”, of a model parameter refers to the probability distribution that expresses a prior belief about this parameter before new evidence is taken into account. A prior can be vague or “non-informative” in which case it will have little or no impact on the inferences or, alternatively, informed. We used non-informative priors in our analyses[[23](#pone.0207701.ref023)].
+
+Heterogeneity in pairwise meta-analysis for all the direct comparisons (i.e., head-to-head trial evidence) was assessed with the I2 statistic, measuring the percentage of variability that cannot be attributed to sampling error expressed as a percentage (%)[[24](#pone.0207701.ref024)]. I2 values between 0–40% may represent not important heterogeneity; 30–60% may represent moderate heterogeneity; 50–90%: may represent substantial heterogeneity; 75–100% may represent considerable heterogeneity[[25](#pone.0207701.ref025)]. All analyses were performed using the Markov Chain Monte Carlo method. For each outcome and a connected network of studies, we performed a Bayesian random-effects NMA. In contrast to regular pairwise meta-analysis, which only allows comparisons of two interventions that have been directly compared in head-to-head studies, NMA is a special technique that allows simultaneous comparison between several treatments even when direct comparisons (i.e., head-to-head studies) are unavailable. NMA can produce summary of relative effectiveness among all treatments being compared in the network.
+
+In the NMA, in the absence of direct evidence for given comparisons, the indirect comparisons (i.e., comparisons of interventions using data across different studies through a common comparator intervention) provided the estimates. In the presence of both direct and indirect evidence, the NMA provided a NMA estimate[[26](#pone.0207701.ref026)]. Heterogeneity, for the whole network, which considers the extent of inconsistency of results within each of the direct comparisons, was measured with the Tau2 statistic. Transitivity is the assumption that an indirect comparison is a valid method to compare two treatments, because the studies are sufficiently similar in important clinical and methodological characteristics; in other words, that they are similar in their distributions of effect modifiers[[27](#pone.0207701.ref027),[28](#pone.0207701.ref028)]. Coherence (also called consistency in NMA) is the assumption that the direct effect estimates and the calculated indirect estimates for a given comparison are similar[[28](#pone.0207701.ref028),[29](#pone.0207701.ref029)]. We explored potential causes of important heterogeneity, transitivity and incoherence via meta-regression assuming common fixed coefficient across comparisons for interventions vs. placebo/standard treatment (STND), sensitivity analyses and subgroup analysis.
+
+Variables for transitivity assumption assessment are described in the supporting information (File A in [S1 Appendix](#pone.0207701.s001)). The presence of incoherence between the direct and indirect estimates was assessed with both the global test random-effects design-by-treatment interaction model[[30](#pone.0207701.ref030)] and the local test, the node-splitting method[[31](#pone.0207701.ref031)]. Meta-regression was performed for the independent variables age, year of publication, etiology (% of children with rotavirus), and days with diarrhea before recruiting. Sensitivity analyses were conducted excluding quasi-RCTs, studies that had high risk of bias because of allocation concealment and because outcome assessment blinding. We performed subgroup analyses by country income classification based on the World Bank classification at 2016 (HIC vs LMIC)[[32](#pone.0207701.ref032)] and by clinical setting (inpatients and outpatients).
+
+Similar to the pairwise meta-analysis model, we fitted a Bayesian hierarchical NMA model with vague priors adjusting for correlation of multi-arm trials and assuming a common-within network heterogeneity variance (τ~Ν(0,1),τ>0). After discarding the first 10,000 iterations, 100,000 simulations were drawn with thinning of 10, i.e., storing every 10th iteration. The model convergence was checked by visual inspection of the evaluation of the mixing of two chains. The analysis was performed in OpenBUGs (version 3.2.3)[[33](#pone.0207701.ref033)] When 10 or more studies were available for an outcome, we addressed small-study effects and publication bias using the comparison-adjusted funnel plots[[34](#pone.0207701.ref034)]. Funnel plots were used to inform the quality of evidence assessment with GRADE. We calculated the Surface Under the Cumulative Ranking (SUCRA) curve values and to capture uncertainty in the parameter values informed treatment rankings, the corresponding CrI[[35](#pone.0207701.ref035),[36](#pone.0207701.ref036)]. The closer to the 100% a SUCRA value for an intervention is the higher the rank in the intervention’s effectiveness (or safety) compared to the interventions assessed in the NMA. We graphically depicted SUCRA values for all outcomes in a rank-heat plot (<http://rh.ktss.ca/>)[[37](#pone.0207701.ref037)].
+
+
+### Rating the quality of the evidence in the estimates
+
+We assessed the quality of evidence according to the GRADE criteria for direct estimates[[38](#pone.0207701.ref038)]. For indirect and NMA estimates, the approach by Puhan et al.[[39](#pone.0207701.ref039)] complemented with the approach by Brignardello-Petersen et al.[[40](#pone.0207701.ref040)] was used. Direct estimates were evaluated with the traditional five GRADE criteria (risk of bias, imprecision, indirectness, inconsistency and publication bias)38. Additionally, in second step for each comparison, we removed the imprecision criterion to create direct GRADE quality assessments based only on four criteria (not rating down if imprecision was present, because this criterion was applied to the NMA estimate assessment, as is detailed below) to be used to inform the NMA estimates quality assessments[[40](#pone.0207701.ref040)]. The indirect estimates assessment was based on the direct estimates quality that informed the indirect in first order loops, with the lowest variance (specifically, the lowest quality of both direct comparisons, will be the quality of the indirect estimate), and rated down the quality if intransitivity was judged as serious[[27](#pone.0207701.ref027),[29](#pone.0207701.ref029)]. The NMA quality estimates were based on the direct and indirect estimates quality (specifically, the higher of the qualities between direct and indirect, was chosen as the quality of the NMA estimate), and rating down if incoherence[[39](#pone.0207701.ref039)] or imprecision[[40](#pone.0207701.ref040)] were present. The protocol publication provides additional information on the quality assessment process[[18](#pone.0207701.ref018)].
+
+
+### Summary of more and less preferred treatments
+
+For the primary outcome, we developed a system to summarize the results, establishing different groups of interventions (from the best to the worst interventions groups) based on the effect estimates obtained from the NMA, their associated evidence certainty, and their SUCRA (ranking) values. First, we separated moderate-to-high quality (which we define as: high certainty) and low-to-very-low (which we defined as: low certainty) bodies of evidence (based on the GRADE). Then, within each group, we separated treatments based on the magnitude of effect estimates (i.e., based on the magnitude of the effect on reduction in diarrhea duration), as follows: 1)Amongst the best interventions: based on the effect estimates these interventions were all better than STND (they had the largest reduction in diarrhea duration), and also superior to interventions that at the same time, were better than STND (i.e., credible interval of estimates between interventions from group 2 excluded the null value); 2)Inferior to the best but better than the worst interventions: based on the effect estimates these interventions were superior to STND (credible interval of estimates between the intervention and STND excluded the null value), but inferior to interventions from group (1); and 3)Amongst the worst interventions: these interventions showed no differences in effect estimates when compared to STND).
+
+
+
+Results
+-------
+
+### Selection, characteristics and risk of bias of studies
+
+Of 5,944 titles identified, 409 proved potentially eligible ([Fig 1](#pone-0207701-g001)). Of these, we excluded 235 studies (Table A in [S1 Appendix](#pone.0207701.s001)) and included 174 studies in 32,430 children (Table B in [S1 Appendix](#pone.0207701.s001)). Studies were conducted in 42 countries: 119 (68.4%) in LMIC, 51 (29.3%) in HIC, and 4(2.3%) in both. The grand mean of days with diarrhea, or the mean days with diarrhea before recruiting was 2.19 days (SD = 1.01, range 0.35–6.58) and the age of children across the studies was 16.9 months (SD = 10.88, range: 0.6–85.7). Studies were conducted in inpatients (100; 57.5%), and outpatients (34; 19.5%); the setting was mixed in 22 studies (12.6%) and was not clear in 20 (11.5%). In 108 studies (62.1%) the etiology of the ADG was clearly stated. Among them, the grand mean of proportion of rotavirus detection was 67.6% (range 0–100%). The pharmaceutical industry funded 29 studies (16.7%); non-for-profit organizations funded 45 (25.8%); investigators obtained funds from both in 16 (9.2%); in 80 (46%), authors did not report funding source, and in 4 (2.3%) authors stated the study had no funding. In the supporting information (Table C in [S1 Appendix](#pone.0207701.s001)), we present the studies’ risk of bias ratings. The number of studies that had high or probably high Risk of bias in sequence generation, allocation concealment and outcome blinding were, respectively: 60 (34.5%), 94(54%) and 69(39.6%). The descriptive analysis of variables considered for transitivity assessment are presented in the Table D in [S1 Appendix](#pone.0207701.s001). Trials studied 51 treatments that were grouped in 27 categories ([Table 1](#pone-0207701-t001)): 16 single interventions, including STND, and 11 combinations of interventions. [Fig 2](#pone-0207701-g002) shows the network geometry plots with the available direct comparisons for the five outcomes.
+
+[![]()](article/figure/image?size=medium&id=10.1371/journal.pone.0207701.g001)
+Download:
+
+* [PPTPowerPoint slide](article/figure/powerpoint?id=10.1371/journal.pone.0207701.g001)
+* [PNGlarger image](article/figure/image?download&size=large&id=10.1371/journal.pone.0207701.g001)
+* [TIFForiginal image](article/figure/image?download&size=original&id=10.1371/journal.pone.0207701.g001)
+Fig 1.  Article selection flowchart.
+
+<https://doi.org/10.1371/journal.pone.0207701.g001>
+
+[![]()](article/figure/image?size=medium&id=10.1371/journal.pone.0207701.g002)
+Download:
+
+* [PPTPowerPoint slide](article/figure/powerpoint?id=10.1371/journal.pone.0207701.g002)
+* [PNGlarger image](article/figure/image?download&size=large&id=10.1371/journal.pone.0207701.g002)
+* [TIFForiginal image](article/figure/image?download&size=original&id=10.1371/journal.pone.0207701.g002)
+Fig 2.  Network meta-analysis plots.
+
+
+
+(A) Diarrhea duration, (B) Stool Frequency at day 2, (C) Diarrhea at day 3, (D) Vomiting and (E) Side effects. Nodes are proportional to the number of patients included in the corresponding treatments, and edges are weighted according to the number of studies included in the respective comparisons. Interventions' abbreviations: ALL-PRB: All probiotics, except LGG and SB; CAO: Kaolin-Pectin; DM: Diluted Milk; LCF: lactose-free formula; LCF+PRB: Lactose Free Formula + Probiotics; LGG: *L*. *rhamnosus*-GG; LGG+SM: LGG + Smectite; LOP: Loperamide; MN: Micronutrients; PRE: prebiotics; RC: Racecadotril; SB: *Saccharomyces boulardii*; SB+LCF: *S*. *boulardii* + Lactose-Free Formula; SB+ZN: *S*. *boulardii* + Zinc; SB+ZN+LCF: *S*. *boulardii* + Zinc + Lactose free Formula; SM: Smectite; SM+ZN: Smectite + Zinc; STND: Standard treatment or Placebo; SYM: Symbiotics; SYM+LCF: Symbiotics + Lactose-Free Formula; VA: Vitamin A; YOG: Yogurt; YOG+PRB+ZN: Yogurt + Probiotics + Zinc; ZN: Zinc; ZN+LCF: Zinc + Lactose Free Formula; ZN+MN: Zinc + micronutrients; ZN+PRB: Zinc + Probiotics.
+
+
+
+<https://doi.org/10.1371/journal.pone.0207701.g002>
+
+[![]()](article/figure/image?size=medium&id=10.1371/journal.pone.0207701.t001)
+Download:
+
+* [PPTPowerPoint slide](article/figure/powerpoint?id=10.1371/journal.pone.0207701.t001)
+* [PNGlarger image](article/figure/image?download&size=large&id=10.1371/journal.pone.0207701.t001)
+* [TIFForiginal image](article/figure/image?download&size=original&id=10.1371/journal.pone.0207701.t001)
+Table 1.  Classification of interventions.
+
+<https://doi.org/10.1371/journal.pone.0207701.t001>
+
+
+### Diarrhea duration
+
+From the pairwise meta-analyses, we obtained 62 comparisons (20,256 patients) that reported the outcome diarrhea duration (Table E in [S1 Appendix](#pone.0207701.s001)). The heterogeneity measured with I2 was found moderate to high in most of direct comparisons that had two or more studies (Table E in [S1 Appendix](#pone.0207701.s001)); in these instances, in the GRADE assessment, we rated down the quality of evidence of inconsistency. In the NMA, we obtained 351 paired estimates of which 62 had direct and indirect evidence, and 289 had only indirect evidence (Table E in [S1 Appendix](#pone.0207701.s001)). VA, DM, and STND were the interventions more frequently inferior to other interventions. Among the single interventions, SYM showed the largest effect in comparison to STND [Mean difference (MD) = -26.26; Credible Interval (CrI) = -36.14 to -16.22]. Since the CrI of the Tau2 did not include the null value, between-study heterogeneity was considered significant [Tau2 = 99.6; CrI 82.15 to119.70]. No incoherence was found either with the global (p = 0.83), nor with the local assessment (Table F in [S1 Appendix](#pone.0207701.s001)). [Fig 3](#pone-0207701-g003) presents the league table with the NMA estimates and GRADE assessments. Much of the evidence was judged low- or very-low quality, mostly because of risk of bias, inconsistency, and imprecision (Table E in [S1 Appendix](#pone.0207701.s001)). [Table 2](#pone-0207701-t002) displays a summary of the primary outcome results integrating the effect estimates of diarrhea duration compared to STND and their quality. With high certainty, SB+ZN and SM+ZN were among the best interventions, while SYM, ZN+LCF, ZN, LOP ad ZN+MN were inferior to the best, yet better than the worst interventions, and PRE was among the worst, along with STND. The rest of interventions had low certainty.
+
+[![]()](article/figure/image?size=medium&id=10.1371/journal.pone.0207701.g003)
+Download:
+
+* [PPTPowerPoint slide](article/figure/powerpoint?id=10.1371/journal.pone.0207701.g003)
+* [PNGlarger image](article/figure/image?download&size=large&id=10.1371/journal.pone.0207701.g003)
+* [TIFForiginal image](article/figure/image?download&size=original&id=10.1371/journal.pone.0207701.g003)
+Fig 3.  League table with NMA estimates for diarrhea duration and stool frequency at day 2.
+
+
+
+Comparisons should be read from left to right. The effectiveness estimate is located at the intersection of the column- defining treatment and the row-defining treatment. Diarrhea duration (bottom part of the table) effect estimate is presented in mean difference in hours with the 95% CrI, an MD below 0 favors the column- defining treatment (fewer hours of diarrhea). Stool frequency at day 2 (upper part of the table) effects estimate is presented in mean difference in the number of stools with the 95% CrI, an MD below 0 favours the column-defining treatment (fewer stools per day). To obtain MDs for comparisons in the opposing direction, negative values should be converted into positive values and vice versa. Significant results are in bold and underlined. Cells filling represent the GRADE quality of evidence assessment: Green: High quality; Light Green: Moderate quality; Light Orange: Low; Darker Orange: Very Low. Blank cells: not available interventions and comparisons MD: Mean difference; 95CrI%: 95% Credible Intervals; NMA: Network Meta- analysis. Interventions' abbreviations are described in [Table 1](#pone-0207701-t001).
+
+
+
+<https://doi.org/10.1371/journal.pone.0207701.g003>
+
+[![]()](article/figure/image?size=medium&id=10.1371/journal.pone.0207701.t002)
+Download:
+
+* [PPTPowerPoint slide](article/figure/powerpoint?id=10.1371/journal.pone.0207701.t002)
+* [PNGlarger image](article/figure/image?download&size=large&id=10.1371/journal.pone.0207701.t002)
+* [TIFForiginal image](article/figure/image?download&size=original&id=10.1371/journal.pone.0207701.t002)
+Table 2.  Summary of results for diarrhea duration in hours.
+
+<https://doi.org/10.1371/journal.pone.0207701.t002>
+
+Sensitivity analyses showed similar between-study heterogeneity (Tau2) when excluding quasi-RCTs but the heterogeneity did decrease when analysing low risk of bias’ studies (Table G in [S1 Appendix](#pone.0207701.s001)). The subgroup analyses by country classification (LMIC: 86 studies vs HIC: 34 studies) showed that LGG had a smaller effect on patients in LMIC, and higher effect in HIC patients (MD -38.0; CrI -45.43; -30.50) than in LMIC [MD -11.72; -19.72; -3.80], while ZN alone had no effect in HIC studies [MD 11.38; CrI .3.35; 26.07], and larger effect in LMIC [MD -20.04; CrI -24.98; -15.04] ([Fig 4](#pone-0207701-g004)). Analyses by clinical setting (Inpatients: 68 studies, outpatients: 24 studies) showed some differences. Some interventions showed lower [LGG+SM; MD -16.27; CrI -32.57; -0.24] or no effect [YOG; MD -4.45; CrI -23.33; 14.48 and LA+LCF+ZN; MD -15.05; CrI -33.45; 3.05] when comparing to STND, in inpatients. ZN showed a larger effect in inpatients [MD = -29.0; CrI -35.9; -22.13] (Fig C and Fig D in [S1 Appendix](#pone.0207701.s001)). Heterogeneity was reduced when pooling separately studies in LMIC, HIC, inpatients and outpatients (Table H in [S1 Appendix](#pone.0207701.s001)) suggesting that part of the heterogeneity might be explained by these variables.
+
+[![]()](article/figure/image?size=medium&id=10.1371/journal.pone.0207701.g004)
+Download:
+
+* [PPTPowerPoint slide](article/figure/powerpoint?id=10.1371/journal.pone.0207701.g004)
+* [PNGlarger image](article/figure/image?download&size=large&id=10.1371/journal.pone.0207701.g004)
+* [TIFForiginal image](article/figure/image?download&size=original&id=10.1371/journal.pone.0207701.g004)
+Fig 4.  Forest plot of subgroup analyses by country income classification.
+
+
+
+All interventions are compared to STND. Subgroup analyses were performed based on the country income classification (based on the World Bank classification at 2016) Comparisons are highlighted in Dark Grey if the GRADE Quality was Low or Very Low, and in Light grey, when Quality was High or Moderate. When an intervention has no effect estimate in HIC means that there were no studies in HIC for the mentioned interventions. MD: Mean difference; 95CrI%: 95% Credible Intervals; LMIC: Low- and Middle-Income countries; HIC: High-income countries. Interventions' abbreviations are described in [Table 1](#pone-0207701-t001).
+
+
+
+<https://doi.org/10.1371/journal.pone.0207701.g004>
+
+In the meta-regression, only publication year (not age, nor proportion of children with rotavirus) showed a significant coefficient [ß = -0.347; CrI -0.64 to -0.05] (Table I in [S1 Appendix](#pone.0207701.s001)). This means that the older the publication of the study the less the impact on reducing the diarrhea duration; for each later year of publication of the study, the reduction in duration of diarrhea increased by 0.3 days.
+
+
+### Stool frequency at day 2
+
+NMA for stool frequency at day 2 included 33 studies (4,348 patients; 12 interventions). In the NMA ([Fig 3](#pone-0207701-g003)) only ALL-PRB was slightly more effective than STND in reducing the number of stools [MD: -0.96; CrI -1.76 to -0.15] (Low quality of evidence). The evidence was low or very low quality in all cases, except for SYM vs STND (Moderate quality of evidence) (Fig E and Table J in [S1 Appendix](#pone.0207701.s001)). There was not local or global incoherence (Table K in [S1 Appendix](#pone.0207701.s001)). The heterogeneity was considered important since the CrI of the Tau2 included the null value (Tau2 = 0.89; CrI 0.38 to 2.03).
+
+
+### Diarrhea at day 3
+
+NMA for diarrhea at day 3 included 46 studies (10,339 patients; 12 interventions). SYM, SB, ZN, SM and ALL-PRB were more effective than STND, the rest were similar to STND. [Fig 5](#pone-0207701-g005) presents NMA estimates and GRADE assessment. In supporting information (Fig F in [S1 Appendix](#pone.0207701.s001)) is displayed the forest plot for diarrhea at day 3 of all the interventions vs. STND, and the direct, indirect and NMA results of all the comparisons with their quality (Table L in [S1 Appendix](#pone.0207701.s001)). One comparison (SYM vs STND) was found incoherent in the node-splitting assessment (Table M in [S1 Appendix](#pone.0207701.s001)). The heterogeneity was considered important since the CrI of the Tau2 did not include the null value [Tau2 = 0.77; CrI 0.41 to 1.43].
+
+[![]()](article/figure/image?size=medium&id=10.1371/journal.pone.0207701.g005)
+Download:
+
+* [PPTPowerPoint slide](article/figure/powerpoint?id=10.1371/journal.pone.0207701.g005)
+* [PNGlarger image](article/figure/image?download&size=large&id=10.1371/journal.pone.0207701.g005)
+* [TIFForiginal image](article/figure/image?download&size=original&id=10.1371/journal.pone.0207701.g005)
+Fig 5.  League table with NMA estimates for diarrhea at day 3 and vomiting.
+
+
+
+Comparisons should be read from left to right. The effectiveness estimate is located at the intersection of the column-defining treatment and the row-defining treatment. Diarrhea at day 3 (bottom part of the table) effect estimates are presented in odds ratio (OR) with the 95% CrI. A OR below 1.0 favours the column- defining treatment (less presence of diarrhea at day 3). Vomiting (upper part of the table) effect estimates are presented in Odds ratio (OR) with the 95% CrI, an OR below 1.0 favors the column-defining treatment (less presence of vomiting). To obtain ORs for comparisons in the opposing direction, reciprocals should be taken. Significant results are in bold and underlined font. Cells filling represent the GRADE quality of evidence assessment: Green: High quality; Light Green: Moderate quality; Light Orange: Low; Darker Orange: Very Low. Blank cells: not available interventions and comparisons. OR: Odds Ratio; 95CrI%: 95% Credible Intervals; NMA: Network Meta-analysis. Interventions' abbreviations are described in [Table 1](#pone-0207701-t001).
+
+
+
+<https://doi.org/10.1371/journal.pone.0207701.g005>
+
+
+### Vomiting
+
+Twenty-three studies provided the proportion of children that had any episode of vomiting during the study follow-up (16 interventions; 5,671 patients). [Fig 5](#pone-0207701-g005) presents the NMA estimates and GRADE assessments. Only ZN produced more vomiting than STND [ZN vs STND: OR = 2.20; 1.27 to 4.28; high quality of evidence]. In supporting information (Fig G in [S1 Appendix](#pone.0207701.s001)) is displayed the forest plot for vomiting of all the interventions vs STND, and the direct, indirect and NMA results of all the comparisons with their quality (Table N in [S1 Appendix](#pone.0207701.s001)). The heterogeneity was considered important since the CrI of the Tau2 did not include the null value [Tau2 = 0.19; CrI 0.03 to 0.92]. No global or local incoherence was found (Table O in [S1 Appendix](#pone.0207701.s001)).
+
+
+### Side effects
+
+Ninety-five studies reported the measurement of side effects. Most studies failed to provide definitions of side effects and whenever presented, they differed. Thirty-six studies reported that no side effects were found, or that the interventions were well-tolerated, and 17 studies reported at least one patient with a side effect (4,419 patients; 10 interventions). Loperamide was the only intervention that showed more side effects than STND [OR = 0.27; CrI 0.09 to 0.74; moderate quality of evidence] ([Fig 6](#pone-0207701-g006)). Although the wide CrI of the effect estimate for ZN+MN included the null value, the results do suggest the presence of side effects.
+
+[![]()](article/figure/image?size=medium&id=10.1371/journal.pone.0207701.g006)
+Download:
+
+* [PPTPowerPoint slide](article/figure/powerpoint?id=10.1371/journal.pone.0207701.g006)
+* [PNGlarger image](article/figure/image?download&size=large&id=10.1371/journal.pone.0207701.g006)
+* [TIFForiginal image](article/figure/image?download&size=original&id=10.1371/journal.pone.0207701.g006)
+Fig 6.  League table with NMA estimates for side effects.
+
+
+
+Comparisons should be read from left to right. The effectiveness estimate is located at the intersection of the column-defining treatment and the row-defining treatment. Side effects estimates are presented in odds ratio (OR) with the 95% CrI, an OR below 1.0 favors the row-defining treatment (less presence of side effects). To obtain ORs for comparisons in the opposing direction, reciprocals should be taken. Significant results are in bold and underlined. Cells filling represent the GRADE quality of evidence assessment: Green: High quality; Light Green: Moderate quality; Light Orange: Low; Darker Orange: Very Low. OR: Odds Ratio; 95CrI%: 95% Credible Intervals. Interventions' abbreviations are described in [Table 1](#pone-0207701-t001).
+
+
+
+<https://doi.org/10.1371/journal.pone.0207701.g006>
+
+In supporting information (Fig H in [S1 Appendix](#pone.0207701.s001)) we display the forest plot for side effects of all the interventions vs STND, and we present the direct, indirect and NMA results of all the comparisons with their quality (Table P in [S1 Appendix](#pone.0207701.s001)). We found some heterogeneity in the results since the CrI of the Tau2 included the null value [Tau2 = 0.19; CrI 0.00 to 1.48]. The global chi-square test suggested the presence of incoherence (p = 0.009) and the local assessment showed incoherence in 2 comparisons (p = 0.04) (Table Q in [S1 Appendix](#pone.0207701.s001)).
+
+
+### Additional analyses
+
+SUCRA values and CrI for all studies and only RCTs for secondary outcomes (Table R in [S1 Appendix](#pone.0207701.s001)), the rank-heat plot, which summarizes the interventions SUCRAs across all the outcomes (Fig I in [S1 Appendix](#pone.0207701.s001)), as well as the information for diarrhea at day 7 (Table S in [S1 Appendix](#pone.0207701.s001)), and treatment failure (Table T in [S1 Appendix](#pone.0207701.s001)), and the funnel plots for each outcome (Fig J in [S1 Appendix](#pone.0207701.s001)) are detailed in the supporting information.
+
+
+
+Discussion
+----------
+
+In this systematic review and NMA of all the standard pharmacological and nutritional interventions for reducing the duration of the ADG in children, we combined direct and indirect evidence from 180 studies in 32,832 children. We found that the interventions ALL-PRB, LGG, LCF, LOP, RC, SB, SM, SYM, YOG, ZN, and the combinations SB+ZN, ZN+LCF, ZN+LCF, SM+ZN, SYM+LCF, ZN+MN, ZN+PRB, and LGG+ZN, were better than placebo or standard treatment for reducing the diarrhea duration (12.5–26.3 hours and 17.8–51.1 hours less, single interventions and combinations, respectively). With high certainty, the combinations SB+ZN, SM+ZN were the only two interventions that, on the basis of high or moderate quality evidence, proved superior to both STND and to all other interventions. SYM, ZN, LOP, ZN+MN, ZN+LCF, demonstrated moderate quality evidence of superiority to STND and did not differ convincingly from one another. PRE proved, on the basis of moderate quality evidence, to be no better than STND. Additionally, with high certainty, we found that the effect of ZN was higher in LMIC, absent in HIC, and higher in inpatients. Therefore, the results for ZN and for SM+ZN and SB+ZN (because the results from SB+ZN and SM+ZN depend on the evidence that comes from the studies comparing ZN vs STND) might only be applied to patients in LMIC.
+
+We found global statistical between-study heterogeneity (measured by Tau2), which was partially explained by country income, risk of bias, and hospital setting, but not by etiology. The lack of information about the infectious causes in many studies and the fact that our analysis was only based on the differences in % of children with rotavirus may be the reasons why the etiology did not explain the variability. The effect of some interventions may differ depending on the microorganism causing the disease and the specific contexts and countries. Heterogeneity at the level of the direct comparisons level was also moderate to high in many comparisons. This had an impact on the GRADE quality assessment on many of the direct comparisons, and partially explains why the majority of the comparisons were not of high or moderate quality. Indeed, [Table 2](#pone-0207701-t002) highlights the trustworthy comparisons (those with high or moderate quality) and distinguishes from the less trustworthy (low or very low quality).
+
+Diarrhea duration in hours is a straightforward outcome from a clinical point of view. However, the extent to which a difference of reducing the duration in hours is important is open to question. To date there is no clear threshold to determine how many hours of difference in reduction patients and families are likely to consider important. We could hypothesize that a difference of less that 12 hours might not be important, but more evidence, particularly including the parents’ points of view is needed. Efforts in the characterization and standardization of these outcomes have been proposed, such as the inclusion of quality of life and functional status; they have not, however, been consistently implemented[[41](#pone.0207701.ref041)]. Further research to define not only what reduction in diarrhea duration parents consider important, but which other outcomes are the most important, is warranted.
+
+Based on the meta-regression, the year of publication may have had an impact on the effect estimates. We included trials from 1968 to 2017, and it is well-know that the severity, the management of the ADG and the availability of interventions have changed substantially in last decades. Therefore, the potential impact of the year of publication on the estimates might not apply to all the interventions. However, the impact of the year of publication on the effect estimates may also be explained by publication bias. It has been described that the publication bias may be larger in meta-analysis that include older studies in comparison to those that include more recent studies[[42](#pone.0207701.ref042)].
+
+Regarding secondary outcomes, with moderate to high quality evidence: SYM was similar to STND (stool frequency at day 2); and SYM and ZN were the only interventions better than STND (Diarrhea at day 3); ZN was the only one worse than STND (vomiting); and LOP was the only one worse than STND (side effects). Also, ZN+MN results suggested the possibility of important side effects, while LOP and RC were the only interventions with reported significant side effects (narrative summary). Results from secondary outcomes may be considered similar to the primary outcome, and the differences may be explained by differences in the power of the analyses, imprecision for these outcomes (considering the lower number of trials and patients for these outcomes), and because diarrhea duration would be a more comprehensive measure than measuring stool frequency or presence of diarrhea at a specific point in time.
+
+The only previous NMA concluded that RC followed by smectite and *L*. *reuteri* were the best interventions for reducing the duration of diarrhea[[43](#pone.0207701.ref043)]. We found RC was also found better than STND but inferior to the best interventions, and its evidence quality was judged as low. Additionally, RC was one of the interventions for which at least one significant SE was reported (transaminases elevation). The differences between their results and ours may be explained by several reasons: the larger number of interventions and studies we analyzed, the inclusion of more outcomes, the analysis of the uncertainty around wide SUCRAs’ CrIs, the assessment of coherence and transitivity assumptions, and the GRADE quality of evidence assessment.
+
+Several published or ongoing pairwise meta-analyses have summarized, the evidence of interventions in comparison to STND: all[[12](#pone.0207701.ref012),[44](#pone.0207701.ref044),[45](#pone.0207701.ref045)] or single probiotics[[46](#pone.0207701.ref046)–[48](#pone.0207701.ref048)], ZN[[10](#pone.0207701.ref010),[11](#pone.0207701.ref011),[49](#pone.0207701.ref049)], LCF[[16](#pone.0207701.ref016)], SM[[14](#pone.0207701.ref014),[50](#pone.0207701.ref050),[51](#pone.0207701.ref051)], RC[[13](#pone.0207701.ref013),[52](#pone.0207701.ref052)–[54](#pone.0207701.ref054)], YOG[[55](#pone.0207701.ref055)] and LOP[[56](#pone.0207701.ref056)]. All, except by DM[[16](#pone.0207701.ref016)], were effective in reducing the diarrhea duration. Consequently, all the previous interventions have been recommended for use in different contexts around the world[[57](#pone.0207701.ref057)–[60](#pone.0207701.ref060)]. Although we found similar effects for many interventions, this NMA provides new results (symbiotics and 13 combinations that had not been summarized before), reaffirms the lack of safety of loperamide in children, reports the impact of several variables that may play a role as effect modifiers, presents effect estimates of the interventions not only in comparison to STND but also to one another, identifies research gaps, and is the first source of evidence of all the available interventions and comparisons in one study.
+
+Lastly, consistent with previous reviews, ZN was associated with vomiting[[61](#pone.0207701.ref061)]. ZN is the only intervention recommended by the WHO the ADG treatment[[4](#pone.0207701.ref004)] and most of its use has been implemented in LMIC, where micronutrient deficiencies are prevalent[[62](#pone.0207701.ref062)]. ZN showed an important effect in LMIC studies and no effect in HIC studies, which may be associated with higher prevalence of zinc deficiency in these countries. ZN showed effectiveness with moderate quality of evidence, is inexpensive, has shown cost-effectiveness in LMIC contexts[[63](#pone.0207701.ref063)–[66](#pone.0207701.ref066)], and therefore, it may continue being used in these contexts. The increase in vomiting may limit its use, particularly in patients who present with significant vomiting in the emergency department. Unfortunately, based on the information provided by the studies. it is not possible to determine how significant the vomiting episodes might be. Considering that the use of ZN is common and widely implemented in children with ADG all around the world, particularly in LMIC, the increase in vomiting episodes with ZN supplementation may not be a major barrier.
+
+Strengths of this review include the consideration of all the interventions, pharmacological and non-pharmacological (this is the first review that considered all the interventions), tested in RCTs, including some not previously summarized: symbiotics, prebiotics, vitamin A, micronutrients, as well as combinations. In addition to providing effect estimates and CrI for each paired comparison, we used the GRADE approach to assess their quality which includes evaluation of the main assumptions of a NMA, transitivity and coherence–for these assessments, we used both global and local tests. Further, we have explored possible effect modifiers including patients’ age, publication year, extent of Risk of bias, country income, and clinical setting. Lastly, we followed the Cochrane Handbook24 and ISPOR guidelines for developing rigorous NMA[[67](#pone.0207701.ref067)].
+
+The review might also have some limitations. First, our results should be interpreted with caution given the high heterogeneity that we found, which was not completely explained by the variables that we considered in our analyses. Many other variables should be considered in future RCTs to make the studies more homogeneous, such as conducting studies in children in specific subgroups based on the etiology, clinical status, and context, and different combinations of these factors.
+
+Although we found that two combinations (SB+ZN and SM+ZN) seem to be amongst the best interventions in comparison to the rest, both interventions have only been studied in patients in LMIC, in which ZN has shown being effective presumably in relation with higher prevalence of this micronutrient deficiency in children from these countries. The potential advantage of these two interventions in comparison to the rest, in HIC, should be studied in further RCTs.
+
+Furthermore, the evidence included a limited number of direct comparisons–most network estimates relied on less trustworthy indirect comparisons. The scarcity of direct evidence partially explains the low or very low quality of evidence in most of comparisons (335 out of 351), which limits the conclusions about interventions classified as in the low certainty group. Additionally, to deal with the large number of interventions, we created clusters, taking the risk that effects would differ across treatment within clusters (A possibility we were not able to address statistically) which may have increased the heterogeneity or may have caused incoherence. Probiotics, for example, were clustered in three groups: LGG, SB and the rest of probiotics (ALL-PRB). The latter includes a very heterogeneous list of probiotics’ strains. This approach facilitated the analysis but however, it might hide differences among different less studied strains. Further research focused on all the strains that have been tested so far, might help to find differences in effectiveness, if they indeed exist.
+
+Meta-regression results should be interpreted with caution. Because meta-regression is underpowered to detect small associations, negative results do not completely rule out the potential effect of the analyzed variables. Therefore, our findings that age, days with diarrhea, and etiology showed no impact on the treatments’ effects may be due to low power to detect them. Also, in most direct comparisons it was not possible to assess the risk of publication bias since there were few studies. Yet, in those comparisons that had a high number of studies (STND in comparison to ZN, probiotics, LCF, SM, and RC), we could evaluate the risk of publication bias as part of the GRADE quality of evidence assessment.
+
+Lastly, the SUCRA values were extremely imprecise; they are thus of limited value, a problem some authors have highlighted[[36](#pone.0207701.ref036),[68](#pone.0207701.ref068)]. Thus, in deciding on the relative merits of treatment, we have focused on the effect estimates and the evidence quality, with SUCRA rankings as a secondary factor.
+
+Our review may be useful for clinicians, decision-makers, trialists and guidelines’ developers. It is surprising that with so many interventions available most of the studies are comparing interventions vs. STND. Researchers should focus on directly comparing the most effective interventions among them, instead of comparing against placebo and should make efforts to design trials of higher quality. Also, with the aim of reducing the heterogeneity, further trials focused on ADG caused by specific microorganisms, in specific contexts (e.g., studies specifically with inpatients with rotavirus infection in LMIC, inpatients with non-rotavirus disease in HIC, outpatients with non-rotavirus disease in LMIC, or outpatients with rotavirus disease in LMIC, etc.) should be encouraged. Moreover, efforts in the characterization and standardization of the outcomes to be measured in ADG trials have been proposed, such as the inclusion of quality of life and functional status, but they have not been consistently implemented[[41](#pone.0207701.ref041)]. Further research to define which outcomes are the most important for parents in different contexts, is warranted.
+
+The interventions considered the best were all combinations. Single interventions, although superior to no treatment/placebo, were inferior to the best combinations and similar when compared one to each other. The use of combinations in LMIC settings might not be considered feasible or cost-effective. More research on the cost-effectiveness of these interventions in specific contexts, is warranted. In the meantime, since there were no differences among the single interventions for reducing the duration, clinicians who wish to use only one intervention may make their choice among the interventions that were in group 2 and had high certainty on the evidence, on the basis of issues other than effectiveness such as convenience, costs or safety. Clinicians should probably restrict themselves to the specific intervention studies–for instance, the five symbiotics chosen by trial investigators in HIC ([Table 1](#pone-0207701-t001)), or, in LMIC, to ZN. Clinicians should probably avoid interventions that were similar to no treatment or that had low certainty (Bottom half of [Table 2](#pone-0207701-t002)), and loperamide, which although was effective (moderate quality) was harmful. Although widely used in adults, loperamide is not recommended for use in young children[[56](#pone.0207701.ref056),[69](#pone.0207701.ref069)] and our findings support this recommendation.
+
+
+Conclusions
+-----------
+
+All the interventions analysed, except vitamin A, micronutrients, prebiotics, kaolin-pectin, and selected combinations, were better than placebo to reduce the duration of the ADG in children. However, the effects are modest, differences among the interventions are small or absent, and the quality of evidence is mostly low or very low. With high certainty, only *S*. *boulardii* + zinc, and smectite + zinc, were considered amongst the best interventions; and symbiotics and zinc, were better than the worst and inferior to the best interventions. Zinc showed an important effect in LMIC. More confident judgements require additional high-quality RCTs comparing interventions that have shown being better than placebo, to one another. Results should be interpreted with caution given the high heterogeneity we found. New studies comparing interventions against no treatment or placebo or STND, studies with loperamide, micronutrients, kaolin-pectin, vitamin A, prebiotics and diluted milk should be discouraged in children.
+
+
+Supporting information
+----------------------
+
+### [S1 Appendix.](article/file?type=supplementary&id=10.1371/journal.pone.0207701.s001) Supporting information files.
+
+<https://doi.org/10.1371/journal.pone.0207701.s001>
+
+(DOCX)
+
+
+Acknowledgments
+---------------
+
+Authors would like to give thanks to Jack Young and Andrea McLellan (from McMaster Health Sciences Library) for their assistance in the design of search strategy. Additional acknowledgments to those who helped finding some of the included studies (Maicon Falavigna, Chatree Chai-Adisaksopha, Yaping Chang, Brittany Dennis, Jesenia Avendaño) or gave support with papers translations to English (Giuseppe Genta, Behnam Sadeghirad, Wojtek Worciech).
+
+References
+----------
+
+1. 1.
+   Black RE, Morris SS, Bryce J. Where and why are 10 million children dying every year? The Lancet. 2003;361(9376):2226–34.
+   * [View Article](#)
+   * [Google Scholar](http://scholar.google.com/scholar?q=Where+and+why+are+10+million+children+dying+every+year%3F+Black+2003)
+2. 2.
+   Liu L, Oza S, Hogan D, Perin J, Rudan I, Lawn JE, et al. Global, regional, and national causes of child mortality in 2000–13, with projections to inform post-2015 priorities: an updated systematic analysis. The Lancet. 2015;385(9966):430–40.
+   * [View Article](#)
+   * [Google Scholar](http://scholar.google.com/scholar?q=Global%2C+regional%2C+and+national+causes+of+child+mortality+in+2000%E2%80%9313%2C+with+projections+to+inform+post-2015+priorities%3A+an+updated+systematic+analysis+Liu+2015)
+3. 3.
+   Schnadower D, Finkelstein Y, Freedman SB. Ondansetron and probiotics in the management of pediatric acute gastroenteritis in developed countries. Current Opinion in Gastroenterology. 2015;31(1):1–6. 00001574-201501000-00002. pmid:25333367
+   * [View Article](https://doi.org/10.1097/MOG.0000000000000132)
+   * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25333367)
+   * [Google Scholar](http://scholar.google.com/scholar?q=Ondansetron+and+probiotics+in+the+management+of+pediatric+acute+gastroenteritis+in+developed+countries+Schnadower+2015)
+4. 4.
+   WHO. The treatment of diarrhoea: a manual for physicians and other senior health workers. In: Organization WH, editor. 2005.
+5. 5.
+   American Academy of Pediatrics A. Practice Parameter: The Management of Acute Gastroenteritis in Young Children. Pediatrics. 1996;97(3):424–35. pmid:8604285
+   * [View Article](#)
+   * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/8604285)
+   * [Google Scholar](http://scholar.google.com/scholar?q=Practice+Parameter%3A+The+Management+of+Acute+Gastroenteritis+in+Young+Children++1996)
+6. 6.
+   Guerrant RL, Hughes JM, Lima NL, Crane J. Diarrhea in Developed and Developing Countries: Magnitude, Special Settings, and Etiologies. Review of Infectious Diseases. 1990;12(Supplement 1):S41–S50.
+   * [View Article](https://doi.org/10.1093/clinids/12.Supplement_1.S41.)
+   * [Google Scholar](http://scholar.google.com/scholar?q=Diarrhea+in+Developed+and+Developing+Countries%3A+Magnitude%2C+Special+Settings%2C+and+Etiologies+Guerrant+1990)
+7. 7.
+   Santosham M, Chandran A, Fitzwater S, Fischer-Walker C, Baqui AH, Black R. Progress and barriers for the control of diarrhoeal disease. The Lancet. 2010;376(9734):63–7. <http://dx.doi.org/10.1016/S0140-6736(10)60356-X>.
+   * [View Article](#)
+   * [Google Scholar](http://scholar.google.com/scholar?q=Progress+and+barriers+for+the+control+of+diarrhoeal+disease+Santosham+2010)
+8. 8.
+   Guarino A, Albano F, Ashkenazi S, Gendrel D, Hoekstra JH, Shamir R, et al. European Society for Paediatric Gastroenterology, Hepatology, and Nutrition/European Society for Paediatric Infectious Diseases evidence-based guidelines for the management of acute gastroenteritis in children in Europe: executive summary. Journal of pediatric gastroenterology and nutrition. 2008;46(5):619–21. pmid:18493225
+   * [View Article](https://doi.org/10.1097/MPG.0b013e31816e219e)
+   * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/18493225)
+   * [Google Scholar](http://scholar.google.com/scholar?q=European+Society+for+Paediatric+Gastroenterology%2C+Hepatology%2C+and+Nutrition%2FEuropean+Society+for+Paediatric+Infectious+Diseases+evidence-based+guidelines+for+the+management+of+acute+gastroenteritis+in+children+in+Europe%3A+executive+summary+Guarino+2008)
+9. 9.
+   Women's NCCf, Health Cs. Diarrhoea and vomiting caused by gastroenteritis: diagnosis, assessment and management in children younger than 5 years: RCOG Press; 2009.
+10. 10.
+    Lazzerini M, Ronfani L. Oral zinc for treating diarrhoea in children. Cochrane Database Syst Rev. 2013;1:CD005436. pmid:23440801.
+    * [View Article](https://doi.org/10.1002/14651858.CD005436.pub4)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/23440801)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Oral+zinc+for+treating+diarrhoea+in+children+Lazzerini+2013)
+11. 11.
+    Lamberti LM, Walker CL, Chan KY, Jian WY, Black RE. Oral zinc supplementation for the treatment of acute diarrhea in children: a systematic review and meta-analysis. Nutrients. 2013;5(11):4715–40. pmid:24284615; PubMed Central PMCID: PMC3847757.
+    * [View Article](https://doi.org/10.3390/nu5114715)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/24284615)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Oral+zinc+supplementation+for+the+treatment+of+acute+diarrhea+in+children%3A+a+systematic+review+and+meta-analysis+Lamberti+2013)
+12. 12.
+    Allen SJ, Martinez EG, Gregorio GV, Dans LF. Probiotics for treating acute infectious diarrhoea. The Cochrane Library. 2010.
+13. 13.
+    Szajewska H, Ruszczyński M, Chmielewska A, Wieczorek J. Systematic review: racecadotril in the treatment of acute diarrhoea in children. Alimentary pharmacology & therapeutics. 2007;26(6):807–13.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Systematic+review%3A+racecadotril+in+the+treatment+of+acute+diarrhoea+in+children+Szajewska+2007)
+14. 14.
+    Szajewska H, Dziechciarz P, Mrukowicz J. Meta‐analysis: Smectite in the treatment of acute infectious diarrhoea in children. Alimentary pharmacology & therapeutics. 2006;23(2):217–27.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Meta%E2%80%90analysis%3A+Smectite+in+the+treatment+of+acute+infectious+diarrhoea+in+children+Szajewska+2006)
+15. 15.
+    Patro-Gołąb B, Shamir R, Szajewska H. Yogurt for treating acute gastroenteritis in children: Systematic review and meta-analysis. Clinical Nutrition. 2014.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Yogurt+for+treating+acute+gastroenteritis+in+children%3A+Systematic+review+and+meta-analysis+Patro-Go%C5%82%C4%85b+2014)
+16. 16.
+    MacGillivray S, Fahey T, McGuire W. Lactose avoidance for young children with acute diarrhoea. Cochrane Database Syst Rev. 2013;10.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Lactose+avoidance+for+young+children+with+acute+diarrhoea+MacGillivray+2013)
+17. 17.
+    Gutiérrez-Castrellón P, Ortíz-Hernández AA, Llamosas-Gallardo B, Acosta-Bastidas MA, Jiménez-Gutiérrez C, Diaz-García L, et al. Eficacia del racecadotrilo versus smectita, probióticos o zinc como parte integral del tratamiento de la diarrea aguda en menores de cinco años: meta-análisis de tratamientos múltiples. Gac Med Mex. 2015;151:329–37. pmid:26089269
+    * [View Article](#)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26089269)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Eficacia+del+racecadotrilo+versus+smectita%2C+probi%C3%B3ticos+o+zinc+como+parte+integral+del+tratamiento+de+la+diarrea+aguda+en+menores+de+cinco+a%C3%B1os%3A+meta-an%C3%A1lisis+de+tratamientos+m%C3%BAltiples+Guti%C3%A9rrez-Castrell%C3%B3n+2015)
+18. 18.
+    Florez ID, Al-Khalifah R, Sierra JM, Granados CM, Yepes-Nuñez JJ, Cuello-Garcia C, et al. The effectiveness and safety of treatments used for acute diarrhea and acute gastroenteritis in children: protocol for a systematic review and network meta-analysis. Systematic Reviews. 2016;5(1):1–9. pmid:26818403
+    * [View Article](https://doi.org/10.1186/s13643-016-0186-8)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26818403)
+    * [Google Scholar](http://scholar.google.com/scholar?q=The+effectiveness+and+safety+of+treatments+used+for+acute+diarrhea+and+acute+gastroenteritis+in+children%3A+protocol+for+a+systematic+review+and+network+meta-analysis+Florez+2016)
+19. 19.
+    Hutton B, Salanti G, Caldwell DM, Chaimani A, Schmid CH, Cameron C. The PRISMA extension statement for reporting of systematic reviews incorporating network meta-analyses of health care interventions: checklist and explanations. Ann Intern Med. 2015;162. pmid:26030634
+    * [View Article](https://doi.org/10.7326/m14-2385)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26030634)
+    * [Google Scholar](http://scholar.google.com/scholar?q=The+PRISMA+extension+statement+for+reporting+of+systematic+reviews+incorporating+network+meta-analyses+of+health+care+interventions%3A+checklist+and+explanations+Hutton+2015)
+20. 20.
+    Higgins JPT, Altman DG, Gøtzsche PC, Jüni P, Moher D, Oxman AD, et al. The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials2011 2011-10-18 10:55:48.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=The+Cochrane+Collaboration%E2%80%99s+tool+for+assessing+risk+of+bias+in+randomised+trials+Higgins+2011)
+21. 21.
+    Akl EA, Sun X, Busse JW, Johnston BC, Briel M, Mulla S, et al. Specific instructions for estimating unclearly reported blinding status in randomized trials were reliable and valid. Journal of Clinical Epidemiology. 2012;65(3):262–7. <http://dx.doi.org/10.1016/j.jclinepi.2011.04.015>. pmid:22200346
+    * [View Article](#)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/22200346)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Specific+instructions+for+estimating+unclearly+reported+blinding+status+in+randomized+trials+were+reliable+and+valid+Akl+2012)
+22. 22.
+    Gelman A, Stern HS, Carlin JB, Dunson DB, Vehtari A, Rubin DB. Bayesian data analysis: Chapman and Hall/CRC; 2013.
+23. 23.
+    Lambert PC, Sutton AJ, Burton PR, Abrams KR, Jones DR. How vague is vague? A simulation study of the impact of the use of vague prior distributions in MCMC using WinBUGS. Statistics in medicine. 2005;24(15):2401–28. pmid:16015676
+    * [View Article](https://doi.org/10.1002/sim.2112)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/16015676)
+    * [Google Scholar](http://scholar.google.com/scholar?q=How+vague+is+vague%3F+A+simulation+study+of+the+impact+of+the+use+of+vague+prior+distributions+in+MCMC+using+WinBUGS+Lambert+2005)
+24. 24.
+    Deeks J, Higgins J, Altman D, Green S. Cochrane handbook for systematic reviews of interventions version 5.1. 0 (updated March 2011). The Cochrane Collaboration. 2011.
+25. 25.
+    Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ: British Medical Journal. 2003;327(7414):557. pmid:12958120
+    * [View Article](https://doi.org/10.1136/bmj.327.7414.557)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/12958120)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Measuring+inconsistency+in+meta-analyses+Higgins+2003)
+26. 26.
+    Mills EJ, Thorlund K, Ioannidis JP. Demystifying trial networks and network meta-analysis. BMJ. 2013;346. pmid:23674332
+    * [View Article](https://doi.org/10.1136/bmj.f2914)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/23674332)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Demystifying+trial+networks+and+network+meta-analysis+Mills+2013)
+27. 27.
+    Baker SG, Kramer BS. The transitive fallacy for randomized trials: if A bests B and B bests C in separate trials, is A better than C? BMC Medical Research Methodology. 2002;2(1):13.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=The+transitive+fallacy+for+randomized+trials%3A+if+A+bests+B+and+B+bests+C+in+separate+trials%2C+is+A+better+than+C%3F+Baker+2002)
+28. 28.
+    Al Khalifah R, Florez ID, Guyatt G, Thabane L. Network meta-analysis: users’ guide for pediatricians. BMC pediatrics. 2018;18(1):180. pmid:29843665
+    * [View Article](https://doi.org/10.1186/s12887-018-1132-9)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/29843665)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Network+meta-analysis%3A+users%E2%80%99+guide+for+pediatricians+Al+Khalifah+2018)
+29. 29.
+    Cipriani A, Higgins JP, Geddes JR, Salanti G. Conceptual and technical challenges in network meta-analysis. Annals of internal medicine. 2013;159(2):130–7. pmid:23856683
+    * [View Article](https://doi.org/10.7326/0003-4819-159-2-201307160-00008)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/23856683)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Conceptual+and+technical+challenges+in+network+meta-analysis+Cipriani+2013)
+30. 30.
+    Higgins JP, Jackson D, Barrett JK, Lu G, Ades AE, White IR. Consistency and inconsistency in network meta-analysis: concepts and models for multi-arm studies. Research synthesis methods. 2012;3(2):98–110. Epub 2012/06/01. pmid:26062084; PubMed Central PMCID: PMCPMC4433772.
+    * [View Article](https://doi.org/10.1002/jrsm.1044)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26062084)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Consistency+and+inconsistency+in+network+meta-analysis%3A+concepts+and+models+for+multi-arm+studies+Higgins+2012)
+31. 31.
+    Dias S, Welton N, Caldwell D, Ades A. Checking consistency in mixed treatment comparison meta‐analysis. Statistics in medicine. 2010;29(7‐8):932–44. pmid:20213715
+    * [View Article](https://doi.org/10.1002/sim.3767)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/20213715)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Checking+consistency+in+mixed+treatment+comparison+meta%E2%80%90analysis+Dias+2010)
+32. 32.
+    Bank W. World Bank Country Classification 2016 [cited 2016 April 15]. Available from: <https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups>.
+33. 33.
+    Thomas A, O’Hara B, Ligges U, Sturtz S. Making BUGS open. R news. 2006;6(1):12–7.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Making+BUGS+open+Thomas+2006)
+34. 34.
+    Chaimani A, Higgins JP, Mavridis D, Spyridonos P, Salanti G. Graphical tools for network meta-analysis in STATA. PLoS One. 2013;8(10):e76654. Epub 2013/10/08. pmid:24098547; PubMed Central PMCID: PMCPmc3789683.
+    * [View Article](https://doi.org/10.1371/journal.pone.0076654)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/24098547)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Graphical+tools+for+network+meta-analysis+in+STATA+Chaimani+2013)
+35. 35.
+    Salanti G, Ades A, Ioannidis J. Graphical methods and numerical summaries for presenting results from multiple-treatment meta-analysis: an overview and tutorial. Journal of clinical epidemiology. 2011;64(2):163–71. pmid:20688472
+    * [View Article](https://doi.org/10.1016/j.jclinepi.2010.03.016)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/20688472)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Graphical+methods+and+numerical+summaries+for+presenting+results+from+multiple-treatment+meta-analysis%3A+an+overview+and+tutorial+Salanti+2011)
+36. 36.
+    Trinquart L, Attiche N, Bafeta A, Porcher R, Ravaud P. Uncertainty in Treatment Rankings: Reanalysis of Network Meta-analyses of Randomized TrialsUncertainty in Treatment Rankings From Network Meta-analyses. Annals of internal medicine. 2016;164(10):666–73. pmid:27089537
+    * [View Article](https://doi.org/10.7326/M15-2521)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/27089537)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Uncertainty+in+Treatment+Rankings%3A+Reanalysis+of+Network+Meta-analyses+of+Randomized+TrialsUncertainty+in+Treatment+Rankings+From+Network+Meta-analyses+Trinquart+2016)
+37. 37.
+    Veroniki AA, Straus SE, Fyraridis A, Tricco AC. The rank-heat plot is a novel way to present the results from a network meta-analysis including multiple outcomes. Journal of clinical epidemiology. 2016;76:193–9. pmid:26939929
+    * [View Article](https://doi.org/10.1016/j.jclinepi.2016.02.016)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26939929)
+    * [Google Scholar](http://scholar.google.com/scholar?q=The+rank-heat+plot+is+a+novel+way+to+present+the+results+from+a+network+meta-analysis+including+multiple+outcomes+Veroniki+2016)
+38. 38.
+    Guyatt G, Oxman AD, Akl EA, Kunz R, Vist G, Brozek J. GRADE guidelines: 1. Introduction-GRADE evidence profiles and summary of findings tables. J Clin Epidemiol. 2011;64. pmid:21195583
+    * [View Article](https://doi.org/10.1016/j.jclinepi.2010.04.026)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/21195583)
+    * [Google Scholar](http://scholar.google.com/scholar?q=GRADE+guidelines%3A+1.+Introduction-GRADE+evidence+profiles+and+summary+of+findings+tables+Guyatt+2011)
+39. 39.
+    Puhan MA, Schünemann HJ, Murad MH, Li T, Brignardello-Petersen R, Singh JA, et al. A GRADE Working Group approach for rating the quality of treatment effect estimates from network meta-analysis. BMJ. 2014;349:g5630. pmid:25252733
+    * [View Article](https://doi.org/10.1136/bmj.g5630)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25252733)
+    * [Google Scholar](http://scholar.google.com/scholar?q=A+GRADE+Working+Group+approach+for+rating+the+quality+of+treatment+effect+estimates+from+network+meta-analysis+Puhan+2014)
+40. 40.
+    Brignardello-Petersen R, Bonner A, Alexander P, Siemieniuk R, Furukawa TA, Rochwerg B, et al. Advances in the GRADE approach to rate the certainty in estimates from a network meta-analysis. Journal of Clinical Epidemiology. 2017;Submitted for publication.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Advances+in+the+GRADE+approach+to+rate+the+certainty+in+estimates+from+a+network+meta-analysis+Brignardello-Petersen+2017)
+41. 41.
+    Johnston BC, Shamseer L, da Costa BR, Tsuyuki RT, Vohra S. Measurement issues in trials of pediatric acute diarrheal diseases: a systematic review. Pediatrics. 2010:peds. 2009–3667.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Measurement+issues+in+trials+of+pediatric+acute+diarrheal+diseases%3A+a+systematic+review+Johnston+2010)
+42. 42.
+    Kicinski M, Springate DA, Kontopantelis E. Publication bias in meta‐analyses from the Cochrane Database of Systematic Reviews. Statistics in Medicine. 2015;34(20):2781–93. pmid:25988604
+    * [View Article](https://doi.org/10.1002/sim.6525)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25988604)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Publication+bias+in+meta%E2%80%90analyses+from+the+Cochrane+Database+of+Systematic+Reviews+Kicinski+2015)
+43. 43.
+    Gutiérrez-Castrellón P, Ortíz-Hernández AA, Llamosas-Gallardo B, Acosta-Bastidas MA, Jiménez-Gutiérrez C, Diaz-García L. Eficacia del racecadotrilo versus smectita, probióticos o zinc como parte integral del tratamiento de la diarrea aguda en menores de cinco años: meta-análisis de tratamientos múltiples. Gac Med Mex. 2015;151.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Eficacia+del+racecadotrilo+versus+smectita%2C+probi%C3%B3ticos+o+zinc+como+parte+integral+del+tratamiento+de+la+diarrea+aguda+en+menores+de+cinco+a%C3%B1os%3A+meta-an%C3%A1lisis+de+tratamientos+m%C3%BAltiples+Guti%C3%A9rrez-Castrell%C3%B3n+2015)
+44. 44.
+    Applegate J, Fischer Walker C, Ambikapathi R, Black R. Systematic review of probiotics for the treatment of community-acquired acute diarrhea in children. BMC Public Health. 2013;13(Suppl 3):S16. pmid:24564646
+    * [View Article](https://doi.org/10.1186/1471-2458-13-S3-S16)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/24564646)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Systematic+review+of+probiotics+for+the+treatment+of+community-acquired+acute+diarrhea+in+children+Applegate+2013)
+45. 45.
+    Van Niel CW, Feudtner C, Garrison MM, Christakis DA. Lactobacillus therapy for acute infectious diarrhea in children: a meta-analysis. Pediatrics. 2002;109(4):678–84. pmid:11927715
+    * [View Article](#)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/11927715)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Lactobacillus+therapy+for+acute+infectious+diarrhea+in+children%3A+a+meta-analysis+Van+Niel+2002)
+46. 46.
+    Feizizadeh S, Salehi-Abargouei A, Akbari V. Efficacy and safety of Saccharomyces boulardii for acute diarrhea. Pediatrics. 2014:peds. 2013–3950.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Efficacy+and+safety+of+Saccharomyces+boulardii+for+acute+diarrhea+Feizizadeh+2014)
+47. 47.
+    Dinleyici EC, Eren M, Ozen M, Yargic ZA, Vandenplas Y. Effectiveness and safety of Saccharomyces boulardii for acute infectious diarrhea. Expert Opinion on Biological Therapy. 2012;12(4):395–410. pmid:22335323
+    * [View Article](https://doi.org/10.1517/14712598.2012.664129)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/22335323)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Effectiveness+and+safety+of+Saccharomyces+boulardii+for+acute+infectious+diarrhea+Dinleyici+2012)
+48. 48.
+    Urbańska M, Gieruszczak‐Białek D, Szajewska H. Systematic review with meta‐analysis: Lactobacillus reuteri DSM 17938 for diarrhoeal diseases in children. Alimentary pharmacology & therapeutics. 2016;43(10):1025–34.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Systematic+review+with+meta%E2%80%90analysis%3A+Lactobacillus+reuteri+DSM+17938+for+diarrhoeal+diseases+in+children+Urba%C5%84ska+2016)
+49. 49.
+    Zou T-t, Mou J, Zhan X. Zinc supplementation in acute diarrhea. The Indian Journal of Pediatrics. 2014:1–6.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Zinc+supplementation+in+acute+diarrhea+Zou+2014)
+50. 50.
+    Das RR, Sankar J, Naik SS. Efficacy and safety of diosmectite in acute childhood diarrhoea: a meta-analysis. Arch Dis Child. 2015:archdischild-2014-307632.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Efficacy+and+safety+of+diosmectite+in+acute+childhood+diarrhoea%3A+a+meta-analysis+Das+2015)
+51. 51.
+    Pérez-Gaxiola G, Cuello-García CA, Florez ID, Pérez-Pico VM. Smectite for acute infectious diarrhoea in children. Cochrane Database of Systematic Reviews. 2018;(4). CD011526. pmid:29693719
+    * [View Article](https://doi.org/10.1002/14651858.CD011526.pub2)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/29693719)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Smectite+for+acute+infectious+diarrhoea+in+children+P%C3%A9rez-Gaxiola+2018)
+52. 52.
+    Lehert P, Chéron G, Calatayud GA, Cézard J-P, Castrellón PG, Garcia J-MM, et al. Racecadotril for childhood gastroenteritis: an individual patient data meta-analysis. Digestive and Liver Disease. 2011;43(9):707–13. pmid:21514257
+    * [View Article](https://doi.org/10.1016/j.dld.2011.03.001)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/21514257)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Racecadotril+for+childhood+gastroenteritis%3A+an+individual+patient+data+meta-analysis+Lehert+2011)
+53. 53.
+    Gordon M, Akobeng A. Racecadotril for acute diarrhoea in children: systematic review and meta-analyses. Arch Dis Child. 2015. pmid:26715673
+    * [View Article](https://doi.org/10.1136/archdischild-2015-309676)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26715673)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Racecadotril+for+acute+diarrhoea+in+children%3A+systematic+review+and+meta-analyses+Gordon+2015)
+54. 54.
+    Liang Y, Zhang L, Zeng L, Wen J. Racecadotril for acute diarrhoea in children. Cochrane Database of Systematic Reviews. 2011;(10). CD009359.
+    * [View Article](https://doi.org/10.1002/14651858.CD009359)
+    * [Google Scholar](http://scholar.google.com/scholar?q=acecadotril+for+acute+diarrhoea+in+children+Liang+2011)
+55. 55.
+    Patro-Golab B, Shamir R, Szajewska H. Yogurt for treating antibiotic-associated diarrhea: Systematic review and meta-analysis. Nutrition. 2015;31(6):796–800. pmid:25933485
+    * [View Article](https://doi.org/10.1016/j.nut.2014.11.013)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25933485)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Yogurt+for+treating+antibiotic-associated+diarrhea%3A+Systematic+review+and+meta-analysis+Patro-Golab+2015)
+56. 56.
+    Li S, Grossman DC, Cummings P. Loperamide therapy for acute diarrhea in children: systematic review and meta-analysis. PLoS Med. 2007;4(3):e98. pmid:17388664
+    * [View Article](https://doi.org/10.1371/journal.pmed.0040098)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/17388664)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Loperamide+therapy+for+acute+diarrhea+in+children%3A+systematic+review+and+meta-analysis+Li+2007)
+57. 57.
+    Murphy MS. Guidelines for managing acute gastroenteritis based on a systematic review of published research. Arch Dis Child. 1998;79.
+    * [View Article](https://doi.org/10.1136/adc.79.3.279)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Guidelines+for+managing+acute+gastroenteritis+based+on+a+systematic+review+of+published+research+Murphy+1998)
+58. 58.
+    Lo Vecchio A, Liguoro I, Bruzzese D, Scotto R, Parola L, Gargantini G, et al. Adherence to Guidelines for Management of Children Hospitalized for Acute Diarrhea. The Pediatric Infectious Disease Journal. 2014;33(11):1103–8. 00006454-201411000-00001. pmid:24830697
+    * [View Article](https://doi.org/10.1097/INF.0000000000000396)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/24830697)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Adherence+to+Guidelines+for+Management+of+Children+Hospitalized+for+Acute+Diarrhea+Lo+Vecchio+2014)
+59. 59.
+    Guarino A, Ashkenazi S, Gendrel D, Lo Vecchio A, Shamir R, Szajewska H. European Society for Pediatric Gastroenterology, Hepatology, and Nutrition/European Society for Pediatric Infectious Diseases Evidence-Based Guidelines for the Management of Acute Gastroenteritis in Children in Europe: Update 2014. Journal of Pediatric Gastroenterology and Nutrition. 2014;59(1):132–52. 00005176-201407000-00026. pmid:24739189
+    * [View Article](https://doi.org/10.1097/MPG.0000000000000375)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/24739189)
+    * [Google Scholar](http://scholar.google.com/scholar?q=European+Society+for+Pediatric+Gastroenterology%2C+Hepatology%2C+and+Nutrition%2FEuropean+Society+for+Pediatric+Infectious+Diseases+Evidence-Based+Guidelines+for+the+Management+of+Acute+Gastroenteritis+in+Children+in+Europe%3A+Update+2014+Guarino+2014)
+60. 60.
+    Allué IP, Salazar-Lindo E, Gutiérrez-Castrellón P. Guía de práctica clínica ibero-latinoamericana sobre el manejo de la gastroenteritis aguda en menores de 5 años: diagnóstico y criterios de atención médica. Anales de Pediatría. 2014;80(Supl. 1):5–8.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Gu%C3%ADa+de+pr%C3%A1ctica+cl%C3%ADnica+ibero-latinoamericana+sobre+el+manejo+de+la+gastroenteritis+aguda+en+menores+de+5+a%C3%B1os%3A+diagn%C3%B3stico+y+criterios+de+atenci%C3%B3n+m%C3%A9dica+Allu%C3%A9+2014)
+61. 61.
+    Lazzerini M. Commentary on ‘Home fortification of foods with multiple micronutrient powders for health and nutrition in children under two years of age’. Evidence‐Based Child Health: A Cochrane Review Journal. 2013;8(1):202–3.
+    * [View Article](#)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Commentary+on+%E2%80%98Home+fortification+of+foods+with+multiple+micronutrient+powders+for+health+and+nutrition+in+children+under+two+years+of+age+Lazzerini+2013)
+62. 62.
+    Salam RA, Das JK, Bhutta ZA. Current Issues and Priorities in Childhood Nutrition, Growth, and Infections. The Journal of Nutrition. 2015;145(5):1116S–22S. pmid:25833888
+    * [View Article](https://doi.org/10.3945/jn.114.194720)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25833888)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Current+Issues+and+Priorities+in+Childhood+Nutrition%2C+Growth%2C+and+Infections+Salam+2015)
+63. 63.
+    Mejía A, Atehortúa S, Flórez ID, Sierra JM, Mejia ME, Ramírez C. Cost-Effectiveness Analysis of Zinc Supplementation for Treatment of Acute Diarrhea in Children Younger Than 5 Years in Colombia. Journal of pediatric gastroenterology and nutrition. 2015;60(4):515–20. pmid:25406524
+    * [View Article](https://doi.org/10.1097/MPG.0000000000000638)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25406524)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Cost-Effectiveness+Analysis+of+Zinc+Supplementation+for+Treatment+of+Acute+Diarrhea+in+Children+Younger+Than+5+Years+in+Colombia+Mej%C3%ADa+2015)
+64. 64.
+    Gregorio GV, Dans LF, Cordero CP, Panelo CA. Zinc supplementation reduced cost and duration of acute diarrhea in children. Journal of clinical epidemiology. 2007;60(6):560–6. pmid:17493510
+    * [View Article](https://doi.org/10.1016/j.jclinepi.2006.08.004)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/17493510)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Zinc+supplementation+reduced+cost+and+duration+of+acute+diarrhea+in+children+Gregorio+2007)
+65. 65.
+    Patel AB, Dhande LA, Rawat MS. Economic evaluation of zinc and copper use in treating acute diarrhea in children: A randomized controlled trial. Cost Effectiveness and Resource Allocation. 2003;1(1):7. pmid:14498987
+    * [View Article](https://doi.org/10.1186/1478-7547-1-7)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/14498987)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Economic+evaluation+of+zinc+and+copper+use+in+treating+acute+diarrhea+in+children%3A+A+randomized+controlled+trial+Patel+2003)
+66. 66.
+    Robberstad B, Strand T, Black RE, Sommerfelt H. Cost-effectiveness of zinc as adjunct therapy for acute childhood diarrhoea in developing countries. Bulletin of the World Health Organization. 2004;82(7):523–31. pmid:15500284
+    * [View Article](#)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/15500284)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Cost-effectiveness+of+zinc+as+adjunct+therapy+for+acute+childhood+diarrhoea+in+developing+countries+Robberstad+2004)
+67. 67.
+    Jansen JP, Trikalinos T, Cappelleri JC, Daw J, Andes S, Eldessouki R, et al. Indirect treatment comparison/network meta-analysis study questionnaire to assess relevance and credibility to inform health care decision making: an ISPOR-AMCP-NPC Good Practice Task Force report. Value in Health. 2014;17(2):157–73. pmid:24636374
+    * [View Article](https://doi.org/10.1016/j.jval.2014.01.004)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/24636374)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Indirect+treatment+comparison%2Fnetwork+meta-analysis+study+questionnaire+to+assess+relevance+and+credibility+to+inform+health+care+decision+making%3A+an+ISPOR-AMCP-NPC+Good+Practice+Task+Force+report+Jansen+2014)
+68. 68.
+    Mbuagbaw L, Rochwerg B, Jaeschke R, Heels-Andsell D, Alhazzani W, Thabane L, et al. Approaches to interpreting and choosing the best treatments in network meta-analyses. Systematic reviews. 2017;6(1):79. pmid:28403893
+    * [View Article](https://doi.org/10.1186/s13643-017-0473-z)
+    * [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/28403893)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Approaches+to+interpreting+and+choosing+the+best+treatments+in+network+meta-analyses+Mbuagbaw+2017)
+69. 69.
+    Managing Acute Gastroenteritis Among Children: Oral Rehydration, Maintenance, and Nutritional Therapy. Pediatrics. 2004;114(2):507–.
+    * [View Article](https://doi.org/10.1542/peds.114.2.507)
+    * [Google Scholar](http://scholar.google.com/scholar?q=Managing+Acute+Gastroenteritis+Among+Children%3A+Oral+Rehydration%2C+Maintenance%2C+and+Nutritional+Therapy++2004)
+
+
+
+
+
+
+[Download PDF](/plosone/article/file?id=10.1371/journal.pone.0207701&type=printable)
+
+* [Citation](/plosone/article/citation?id=10.1371/journal.pone.0207701)
+* [XML](/plosone/article/file?id=10.1371/journal.pone.0207701&type=manuscript)
+
+
+[Print](#)
+
+Share
+
+* [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0207701)
+* [![]()Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0207701&t=Comparative effectiveness and safety of interventions for acute diarrhea and gastroenteritis in children: A systematic review and network meta-analysis)
+* [![]()LinkedIn](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0207701&title=Comparative effectiveness and safety of interventions for acute diarrhea and gastroenteritis in children: A systematic review and network meta-analysis&summary=Checkout this article I found at PLOS)
+* [![]()Mendeley](https://www.mendeley.com/import/?url=https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0207701)
+* [![]()Bluesky](https://bsky.app/intent/compose?text=Checkout%20this%20article%20I%20found%20at%20PLOS:%20https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0207701)
+* [![]()Email](mailto:?subject=Comparative effectiveness and safety of interventions for acute diarrhea and gastroenteritis in children: A systematic review and network meta-analysis&body=I%20thought%20you%20would%20find%20this%20article%20interesting.%20From%20PLOS ONE:%20https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0207701)
+
+
+  
+![]()
+
+
+Advertisement
+
+
+
+### Subject Areas ? For more information about PLOS Subject Areas, click [here](https://github.com/PLOS/plos-thesaurus/blob/master/README.md). We want your feedback. Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+* [Diarrhea](/plosone/search?filterSubjects=Diarrhea&filterJournals=PLoSONE&q=)
+   
+  
+  Is the Subject Area **"Diarrhea"** applicable to this article?
+  Yes
+  No
+  
+  Thanks for your feedback.
+* [Low and middle income countries](/plosone/search?filterSubjects=Low+and+middle+income+countries&filterJournals=PLoSONE&q=)
+   
+  
+  Is the Subject Area **"Low and middle income countries"** applicable to this article?
+  Yes
+  No
+  
+  Thanks for your feedback.
+* [Lactobacillus](/plosone/search?filterSubjects=Lactobacillus&filterJournals=PLoSONE&q=)
+   
+  
+  Is the Subject Area **"Lactobacillus"** applicable to this article?
+  Yes
+  No
+  
+  Thanks for your feedback.
+* [Probiotics](/plosone/search?filterSubjects=Probiotics&filterJournals=PLoSONE&q=)
+   
+  
+  Is the Subject Area **"Probiotics"** applicable to this article?
+  Yes
+  No
+  
+  Thanks for your feedback.
+* [Symbiosis](/plosone/search?filterSubjects=Symbiosis&filterJournals=PLoSONE&q=)
+   
+  
+  Is the Subject Area **"Symbiosis"** applicable to this article?
+  Yes
+  No
+  
+  Thanks for your feedback.
+* [Vomiting](/plosone/search?filterSubjects=Vomiting&filterJournals=PLoSONE&q=)
+   
+  
+  Is the Subject Area **"Vomiting"** applicable to this article?
+  Yes
+  No
+  
+  Thanks for your feedback.
+* [Metaanalysis](/plosone/search?filterSubjects=Metaanalysis&filterJournals=PLoSONE&q=)
+   
+  
+  Is the Subject Area **"Metaanalysis"** applicable to this article?
+  Yes
+  No
+  
+  Thanks for your feedback.
+* [Vitamin A](/plosone/search?filterSubjects=Vitamin+A&filterJournals=PLoSONE&q=)
+   
+  
+  Is the Subject Area **"Vitamin A"** applicable to this article?
+  Yes
+  No
+  
+  Thanks for your feedback.
+
+
+
+
+
+* [Publications](https://plos.org/our-journals/)
+* [PLOS Aging and Health](/agingandhealth/)
+* [PLOS Biology](/plosbiology/)
+* [PLOS Climate](/climate/)
+* [PLOS Complex Systems](/complexsystems/)
+* [PLOS Computational Biology](/ploscompbiol/)
+* [PLOS Digital Health](/digitalhealth/)
+* [PLOS Ecosystems](/ecosystems/)
+* [PLOS Genetics](/plosgenetics/)
+
+
+* [PLOS Global Public Health](/globalpublichealth/)
+* [PLOS Medicine](/plosmedicine/)
+* [PLOS Mental Health](/mentalhealth/)
+* [PLOS Neglected Tropical Diseases](/plosntds/)
+* [PLOS One](/plosone/)
+* [PLOS Pathogens](/plospathogens/)
+* [PLOS Sustainability and Transformation](/sustainabilitytransformation/)
+* [PLOS Water](/water/)
+
+* [Home](https://plos.org)
+* [Blogs](https://blogs.plos.org)
+* [Collections](https://collections.plos.org/)
+* [Give feedback](mailto:customercare@plos.org)
+* [LOCKSS](/plosone/lockss-manifest)
+
+* [Privacy Policy](https://plos.org/privacy-policy)
+* [Terms of Use](https://plos.org/terms-of-use)
+* [Advertise](https://plos.org/advertise/)
+* [Media Inquiries](https://plos.org/media-inquiries)
+* [Contact](https://plos.org/contact)
+
+
+![]()
+PLOS is a nonprofit 501(c)(3) corporation, #C2354500, based in California, US
+
+
+
+
+
+
+
+
+
+

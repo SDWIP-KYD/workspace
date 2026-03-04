@@ -1,0 +1,16 @@
+# Sensitive
+token.json
+*.env
+.env*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# OpenClaw
+.openclaw/
+.watermark/
