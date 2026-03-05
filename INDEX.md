@@ -62,9 +62,7 @@
 
 ## Log Aktivitas
 
-| Tanggal | Tipe | Judul | File |
-|---------|------|-------|------|
-| 2026-03-04 | setup | Workspace initialization | INDEX.md |
+| 2026-03-05 | research | Skeletal Dysplasia: Diagnosis & Diferensiasi | `research/2026-03-05-skeletal-dysplasia-referat/` |
 | 2026-03-04 | template | Notes template | templates/note-template.md |
 | 2026-03-04 | template | Research template | templates/research-template.md |
 | 2026-03-04 | template | Extract template | templates/extract-template.md |
