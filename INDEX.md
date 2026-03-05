@@ -62,7 +62,7 @@
 
 ## Log Aktivitas
 
-| 2026-03-05 | research | Skeletal Dysplasia: Diagnosis & Diferensiasi | `research/2026-03-05-skeletal-dysplasia-referat/` |
+| 2026-03-05 | research | Skeletal Dysplasia: Tinjauan Pustaka Lengkap | `research/2026-03-05-skeletal-dysplasia-referat/` |
 | 2026-03-04 | template | Notes template | templates/note-template.md |
 | 2026-03-04 | template | Research template | templates/research-template.md |
 | 2026-03-04 | template | Extract template | templates/extract-template.md |
