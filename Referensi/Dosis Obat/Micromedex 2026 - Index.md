@@ -1,0 +1,1545 @@
+# 📚 Micromedex 2026 - Index Dosis Obat
+
+> **Sumber:** Micromedex® 2026 (DynaMedex)
+> **Tanggal PDF:** Januari 2026
+> **Akses:** On-demand dari PDF (extract saat ditanya)
+
+---
+
+## Pediatric Drug Monographs
+
+- **File:** `Pediatric drug monographs from Micromedex® -  2026.pdf`
+- **Halaman:** 9936
+- **Jumlah obat:** 1057
+
+### A (113)
+- ADAMTS13, recombinant-krhn
+- ARIPiprazole
+- Abacavir
+- Abacavir/Dolutegravir/Lamivudine
+- Abacavir/Lamivudine
+- Abametapir
+- Abatacept
+- Abciximab
+- AbobotulinumtoxinA
+- Abrocitinib
+- AcetaZOLAMIDE
+- Acetaminophen
+- Acetaminophen/Codeine
+- Acetylcysteine
+- Acyclovir
+- Adalimumab
+- Adalimumab-aacf
+- Adalimumab-aaty
+- Adalimumab-adaz
+- Adalimumab-adbm
+- Adalimumab-afzb
+- Adalimumab-aqvh
+- Adalimumab-atto
+- Adalimumab-bwwd
+- Adalimumab-fkjp
+- Adalimumab-ryvk
+- Adenosine
+- Aflibercept
+- Agalsidase Beta
+- Albendazole
+- Albumin (Human)
+- Albuterol
+- Albuterol/Ipratropium
+- Alclometasone
+- Alendronate
+- Alglucosidase Alfa
+- Alirocumab
+- Aliskiren
+- Allopurinol
+- Almotriptan
+- Alprostadil
+- Alteplase
+- AmLODIPine
+- Amantadine
+- Ambrisentan
+- Amcinonide
+- Amifampridine
+- Amikacin
+- Aminocaproic Acid
+- Aminophylline
+- Amiodarone
+- Amitriptyline
+- Amlodipine Besylate/Atorvastatin Calcium
+- Amoxicillin
+- Amoxicillin/Clavulanate
+- Amphetamine
+- Amphotericin B
+- Amphotericin B Lipid Complex
+- Amphotericin B Liposome
+- Ampicillin
+- Ampicillin/Sulbactam
+- Anacaulase-bcdb
+- Anakinra
+- Anidulafungin
+- Ansuvimab-zykl
+- Anthrax Immune Globulin
+- Anti-Inhibitor Coagulant Complex
+- Antihemophilic Factor (Recomb) Plasma/Albumin Free
+- Antihemophilic Factor (Recombinant) Pegylated-aucl
+- Antihemophilic Factor (Recombinant) Single Chain
+- Antihemophilic Factor (Recombinant), Fc-VWF-XTEN Fusion Protein-ehtl
+- Antihemophilic Factor (Recombinant), Glycopegylated-exei
+- Antihemophilic Factor VIII (Human)
+- Antihemophilic Factor VIII (Recombinant)
+- Antihemophilic Factor VIII (Recombinant) Pegylated
+- Antihemophilic Factor VIII (Recombinant) Sucrose Formulated
+- Antihemophilic Factor VIII/Von Willebrand Factor (Human)
+- Antihemophilic Factor VIII:C (Human)
+- Antithrombin III (Human)
+- Apixaban
+- Apremilast
+- Aprepitant
+- AquADEKs
+- Argatroban
+- Arginine
+- Arimoclomol
+- Artemether/Lumefantrine
+- Artesunate
+- Articaine
+- Articaine Hydrochloride/EPINEPHrine
+- Ascorbic Acid
+- Asenapine
+- Asfotase Alfa
+- Aspirin
+- Atazanavir
+- Atazanavir/Cobicistat
+- Atenolol
+- Atidarsagene Autotemcel
+- Atoltivimab/Maftivimab/Odesivimab-ebgn
+- Atomoxetine
+- Atorvastatin
+- Atovaquone
+- Atovaquone/Proguanil
+- Atracurium
+- Atropine
+- Avalglucosidase alfa-ngpt
+- Avatrombopag
+- AzaTHIOprine
+- Azelaic Acid
+- Azelastine
+- Azelastine/Fluticasone
+- Azithromycin
+- Aztreonam
+
+### B (42)
+- BUPivacaine
+- BUPivacaine Liposome
+- Baclofen
+- Baloxavir Marboxil
+- Balsalazide
+- Bamlanivimab
+- Baricitinib
+- Basiliximab
+- Beclomethasone
+- Bedaquiline
+- Belimumab
+- Belumosudil
+- Benazepril
+- Benralizumab
+- Benznidazole
+- Benzoyl Peroxide
+- Benzyl Alcohol
+- Berdazimer
+- Beremagene Geperpavec-svdt
+- Berotralstat
+- Betamethasone
+- Bethanechol
+- Bevacizumab
+- Bezlotoxumab
+- Bictegravir/Emtricitabine/Tenofovir Alafenamide
+- Birch Triterpenes
+- Bisacodyl
+- Bismuth Subsalicylate
+- Bivalirudin
+- Bosentan
+- Brensocatib
+- Brexanolone
+- Brexpiprazole
+- Brincidofovir
+- Brivaracetam
+- BuPROPion
+- Budesonide
+- Budesonide/Formoterol
+- Bumetanide
+- Buprenorphine
+- Burosumab-twza
+- Butenafine
+
+### C (108)
+- C1 Esterase Inhibitor, Human
+- C1 Esterase Inhibitor, Recombinant
+- Cabotegravir
+- Cabotegravir/Rilpivirine
+- Calcipotriene
+- Calcipotriene/Betamethasone Dipropionate
+- Calcitriol
+- Calcium - Oral
+- Calcium Chloride
+- Calcium Gluconate
+- Calcium Oxybate/Magnesium Oxybate/Potassium Oxybate/Sodium Oxybate
+- Canagliflozin
+- Canagliflozin/MetFORMIN
+- Canakinumab
+- Candesartan
+- Cannabidiol
+- Cantharidin
+- Caplacizumab-yhdp
+- Captopril
+- CarBAMazepine
+- Carglumic Acid
+- Carglumic Acid
+- Carvedilol
+- Casimersen
+- Casirivimab/Imdevimab
+- Caspofungin
+- CeFAZolin
+- CefOXitin
+- CefTAZidime
+- CefTRIAXone
+- Cefadroxil
+- Cefdinir
+- Cefepime
+- Cefiderocol
+- Cefixime
+- CefoTEtan
+- Cefotaxime
+- Cefpodoxime
+- Cefprozil
+- Ceftaroline Fosamil
+- Ceftibuten
+- Ceftobiprole Medocaril Sodium
+- Ceftolozane/Tazobactam
+- Cefuroxime
+- Cenegermin-bkbj
+- Centruroides (Scorpion) Immune F(ab)2 (Equine)
+- Cephalexin
+- Cerliponase Alfa
+- Certolizumab Pegol
+- Cetirizine
+- Chikungunya Vaccine, Recombinant
+- Chloral hydrate
+- Chloramphenicol
+- Chloroquine Phosphate
+- Chlorothiazide
+- ChlorproMAZINE
+- Cholera Vaccine, Live
+- Cholic Acid
+- Ciclesonide
+- Ciclopirox
+- Cidofovir
+- Cimetidine
+- Ciprofloxacin
+- Ciprofloxacin/Dexamethasone
+- Ciprofloxacin/Fluocinolone
+- Ciprofloxacin/Hydrocortisone
+- Cisatracurium
+- Citalopram
+- Citric Acid
+- Citrulline
+- Clarithromycin
+- Clascoterone
+- Clesrovimab-cfor
+- Clindamycin
+- CloBAZam
+- CloNIDine
+- CloZAPine
+- Clobetasol
+- Clofazimine
+- ClonazePAM
+- Clopidogrel
+- Clotrimazole
+- Coagulation Factor IX Recombinant, GlycoPEGylated
+- Coagulation Factor VIIa-jncw
+- Cobicistat
+- Colesevelam
+- Colistin
+- Colistin/Hydrocortisone/Neomycin/Thonzonium
+- Concizumab-mtci
+- Corticotropin, Repository
+- Cosyntropin
+- Crinecerfont
+- Crisaborole
+- Crizanlizumab-tmca
+- Cromolyn
+- Crotalidae Immune F(ab)2 (Equine)
+- Crotalidae Polyvalent Immune Fab
+- Crotamiton
+- Crovalimab-akkz
+- Cyanocobalamin
+- CycloPHOSphamide
+- CycloSERINE
+- CycloSPORINE
+- Cyclopentolate (Ophthalmic)
+- Cyproheptadine
+- Cysteamine
+- Cysteine Hydrochloride
+- cefTAZidime/Avibactam
+
+### D (68)
+- DAPTOmycin
+- DOBUTamine
+- DOPamine
+- DT/Td Vaccine
+- DTaP Vaccine
+- DTaP, Poliovirus, Haemophilus B, Hepatitis B Vaccine
+- DTaP-HepB-IPV Combination Vaccine
+- DTaP-IPV Combination Vaccine
+- DTaP-IPV/Hib Combination Vaccine
+- DULoxetine
+- Dabigatran Etexilate
+- Dalbavancin
+- Dalteparin
+- Dantrolene
+- Dapagliflozin
+- Dapagliflozin/MetFORMIN Hydrochloride
+- Dapsone
+- Darbepoetin Alfa
+- Darunavir
+- Darunavir/Cobicistat
+- Darunavir/Cobicistat/Emtricitabine/Tenofovir Alafenamide
+- Dasiglucagon
+- Deferasirox
+- Deferiprone
+- Deferoxamine
+- Defibrotide
+- Deflazacort
+- Delamanid
+- Delandistrogene moxeparvovec-rokl
+- Dengue Tetravalent Vaccine, Live
+- Dermatophagoides Farinae Extract/Dermatophagoides Pteronyssinus Extract
+- Desipramine
+- Desloratadine
+- Desloratadine/Pseudoephedrine
+- Desmopressin
+- Desonide
+- Desoximetasone
+- DexAMETHasone
+- Dexlansoprazole
+- DexmedeTOMIDine
+- Dexmethylphenidate
+- Dextroamphetamine
+- Dextroamphetamine/Amphetamine
+- Dextrose
+- DiazePAM
+- Diazoxide
+- Diclofenac
+- Dicloxacillin
+- Didanosine
+- Digoxin
+- Digoxin Immune Fab (Ovine)
+- DilTIAZem
+- DiphenhydrAMINE
+- Diphenoxylate/Atropine
+- Dipyridamole
+- Disopyramide
+- Docusate
+- Dolasetron
+- Dolutegravir
+- Dolutegravir/LamiVUDine
+- Donidalorsen
+- Doravirine
+- Doravirine/Lamivudine/Tenofovir Disoproxil Fumarate
+- Dornase alfa
+- Doxecitine/Doxribtimine
+- Doxycycline
+- Dulaglutide
+- Dupilumab
+
+### E (64)
+- EPINEPHrine (Adrenaline)
+- Ebola Zaire Vaccine, Live
+- Ecallantide
+- Econazole
+- Eculizumab
+- Eculizumab-aagh
+- Eculizumab-aeeb
+- Efavirenz
+- Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate
+- Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate
+- Efinaconazole
+- Eladocagene Exuparvovec-tneq
+- Elamipretide
+- Elapegademase-lvlr
+- Elbasvir/Grazoprevir
+- Electrolytes/Minerals
+- Eletriptan
+- Elexacaftor/tezacaftor/ivacaftor; Ivacaftor
+- Elivaldogene Autotemcel
+- Elosulfase Alfa
+- Eltrombopag
+- Elvitegravir/Cobicistat/Emtricitabine/Tenofovir Alafenamide
+- Elvitegravir/Cobicistat/Emtricitabine/Tenofovir Disoproxil Fumarate
+- Emapalumab-lzsg
+- Emicizumab-kxwh
+- Empagliflozin
+- Empagliflozin/MetFORMIN Hydrochloride
+- Emtricitabine
+- Emtricitabine/Rilpivirine/Tenofovir Alafenamide
+- Emtricitabine/Rilpivirine/Tenofovir Disoproxil Fumarate
+- Emtricitabine/Tenofovir Alafenamide
+- Emtricitabine/Tenofovir Disoproxil Fumarate
+- Enalapril maleate
+- Enalaprilat
+- Enfuvirtide
+- Enoxaparin
+- Entecavir
+- Epoetin Alfa-epbx
+- Epoetin alfa
+- Epoprostenol
+- Eravacycline
+- Ertapenem
+- Erythromycin
+- Escitalopram
+- Eslicarbazepine
+- Esmolol
+- Esomeprazole
+- Etanercept
+- Etanercept-szzs
+- Etanercept-ykro
+- Eteplirsen
+- Etesevimab
+- Ethambutol
+- Ethionamide
+- Ethosuximide
+- Etomidate
+- Etravirine
+- Etuvetidigene Autotemcel
+- Everolimus
+- Evinacumab-dgnb
+- Evolocumab
+- Exagamglogene Autotemcel
+- Exenatide
+- Ezetimibe/Simvastatin
+
+### F (54)
+- FLUoxetine
+- Factor IX (Recombinant), Fc Fusion Protein
+- Factor IX Albumin Fusion Protein Recombinant
+- Factor IX Recombinant
+- Factor VIII (Recombinant), Fc Fusion Protein
+- Factor VIIa, recombinant
+- Factor X Human
+- Factor XIII Concentrate, Human
+- Factor XIII, Recombinant
+- Famotidine
+- Fat Emulsion
+- Felbamate
+- Fenfluramine
+- Fenoldopam
+- FentaNYL
+- Ferric Carboxymaltose
+- Ferrous sulfate
+- Fesoterodine
+- Fexinidazole
+- Fexofenadine
+- Fibrinogen
+- Fidaxomicin
+- Filgrastim
+- Filgrastim-aafi
+- Filgrastim-ayow
+- Filgrastim-sndz
+- Filgrastim-txid
+- Finafloxacin
+- Fingolimod
+- Fitusiran
+- Flecainide
+- Fluconazole
+- Flucytosine
+- Fludrocortisone
+- Flumazenil
+- Flunisolide
+- Fluocinonide
+- Fluoxetine/OLANZapine
+- Flurandrenolide
+- Fluticasone
+- Fluticasone/Salmeterol
+- Fluticasone/Vilanterol
+- Fluvastatin
+- FluvoxaMINE
+- Folic Acid
+- Fondaparinux
+- Formoterol
+- Fosamprenavir
+- Fosaprepitant
+- Foscarnet
+- Fosdenopterin
+- Fosinopril
+- Fosphenytoin
+- Furosemide
+
+### G (25)
+- Gabapentin
+- Ganaxolone
+- Ganciclovir
+- Garadacimab-gxii
+- Gatifloxacin
+- Gentamicin
+- Gentian Violet
+- Gepotidacin
+- Givinostat
+- Glecaprevir/Pibrentasvir
+- Glimepiride
+- Glucagon
+- Glucarpidase
+- GlyBURIDE
+- Glycerin
+- Glycerol Phenylbutyrate
+- Glycopyrrolate
+- Glycopyrrolate/Neostigmine
+- Glycopyrronium Tosylate
+- Golimumab
+- Golodirsen
+- Granisetron
+- Griseofulvin
+- GuanFACINE
+- Guselkumab
+
+### H (28)
+- HYDROcodone/Acetaminophen
+- HYDROcodone/Ibuprofen
+- HYDROmorphone
+- Haemophilus b (Hib) Conjugate Vaccine
+- Halcinonide
+- Halobetasol
+- Haloperidol
+- Heparin
+- Hepatitis A Vaccine
+- Hepatitis B Immune Globulin (Human)
+- Hepatitis B Vaccine (Recombinant)
+- Hib Conjugate/Hepatitis B Combination Vaccine
+- Histrelin
+- Human Papillomavirus (HPV) Vaccine
+- Hyaluronidase
+- Hyaluronidase Human, Recombinant/Immune Globulin
+- HydrALAZINE
+- HydrOXYzine
+- HydroCHLOROthiazide
+- Hydrocortisone
+- Hydrocortisone/Neomycin Sulfate/Polymyxin B Sulfate
+- Hydroxocobalamin
+- Hydroxychloroquine sulfate
+- Hydroxyurea
+- Hyoscyamine
+- Hyoscyamine
+- Hypertonic Saline
+- Hypromellose
+
+### I (51)
+- INFUVITE Pediatric
+- ISOtretinoin
+- Ibrexafungerp
+- Ibuprofen
+- Iloprost
+- Imiglucerase
+- Imipenem/Cilastatin
+- Imipenem/Cilastatin/Relebactam
+- Imipramine
+- Immune Globulin (Bovine)
+- Immune Globulin (Human)
+- Immune Globulin-dira
+- Immune Globulin-hipp
+- Immune Globulin-ifas
+- Immune Globulin-klhw
+- Immune Globulin-slra
+- InFLIXimab
+- InFLIXimab-abda
+- InFLIXimab-axxq
+- InFLIXimab-dyyb
+- InFLIXimab-qbtx
+- IncobotulinumtoxinA
+- Indomethacin
+- Influenza Virus Vaccine
+- Influenza Virus Vaccine, H5N1
+- Insulin Aspart, Recombinant
+- Insulin Aspart-szjj, Recombinant
+- Insulin Degludec
+- Insulin Degludec/Insulin Aspart
+- Insulin Detemir
+- Insulin Glargine, Recombinant
+- Insulin Glargine-aglr, Recombinant
+- Insulin Glargine-yfgn, Recombinant
+- Insulin Glulisine
+- Insulin Human Isophane (NPH)
+- Insulin Human Regular
+- Insulin Lispro, Recombinant
+- Insulin Lispro-aabc, Recombinant
+- Insulin aspart-xjhz
+- Ipratropium
+- Irbesartan
+- Iron Dextran
+- Iron Sucrose
+- Isavuconazonium Sulfate
+- Isoniazid
+- Isradipine
+- Itraconazole
+- Ivabradine
+- Ivacaftor
+- Ivermectin
+- Ixekizumab
+
+### J (1)
+- Japanese Encephalitis Virus Vaccine, Inactivated Adsorbed
+
+### K (4)
+- Ketamine
+- Ketoconazole
+- Ketorolac
+- Ketorolac/Phenylephrine
+
+### L (51)
+- L-Glutamine
+- LEVOleucovorin
+- LORazepam
+- Labetalol
+- Lacosamide
+- Lactulose
+- LamiVUDine
+- LamiVUDine/Tenofovir Disoproxil Fumarate
+- LamoTRIgine
+- Lanadelumab-flyo
+- Lansoprazole
+- Latanoprostene Bunod
+- Lebrikizumab-lbkz
+- Ledipasvir/Sofosbuvir
+- Leflunomide
+- Lenacapavir
+- Leniolisib
+- Letermovir
+- Leucovorin
+- Leuprolide
+- LevETIRAcetam
+- LevOCARNitine
+- Levacetylleucine
+- Levalbuterol
+- Levamlodipine
+- LevoFLOXacin
+- Levocetirizine
+- Levothyroxine
+- Lidocaine
+- Lidocaine - Antiarrhythmic
+- Lidocaine - CNS
+- Lidocaine/Prilocaine
+- Linaclotide
+- Linezolid
+- Liothyronine
+- Liraglutide
+- Lisdexamfetamine
+- Lisinopril
+- Lithium
+- Lonafarnib
+- Lonapegsomatropin-tcgd
+- Loperamide
+- Lopinavir/Ritonavir
+- Loratadine
+- Losartan
+- Loteprednol Etabonate
+- Lovastatin
+- Luliconazole
+- Lumacaftor/Ivacaftor
+- Lumasiran
+- Lurasidone
+
+### M (71)
+- Magnesium Citrate
+- Magnesium Hydroxide
+- Magnesium Oxide
+- Magnesium Sulfate/Potassium Sulfate/Sodium Sulfate
+- Magnesium sulfate
+- Malathion
+- Mannitol
+- Maralixibat
+- Maraviroc
+- Maribavir
+- Marstacimab-hncq
+- Mavorixafor
+- Measles, Mumps, Rubella (MMR) Virus Vaccine, Live
+- Measles, Mumps, Rubella, Varicella (MMRV) Vaccine
+- Mebendazole
+- Mecasermin
+- Mefloquine
+- Meloxicam
+- Meningococcal A/B/C/W/Y Vaccine (Penbraya)
+- Meningococcal Groups A, B, C, W and Y (Penmenvy)
+- Meningococcal Vaccine, Group B
+- Meningococcal Vaccine; Group A, C, Y, and W-135
+- Meperidine
+- Mepolizumab
+- Mercaptopurine
+- Meropenem
+- Meropenem/vaborbactam
+- Mesalamine
+- MetFORMIN
+- MethIMAzole
+- Methacholine
+- Methadone
+- Methamphetamine
+- Methohexital
+- Methotrexate
+- Methoxy Polyethylene Glycol-Epoetin Beta
+- MethylPREDNISolone
+- Methyldopa
+- Methylene Blue
+- Methylnaltrexone
+- Methylphenidate
+- Metoclopramide
+- Metoprolol
+- Metreleptin
+- MetroNIDAZOLE
+- Micafungin
+- Miconazole
+- Midazolam
+- MigLUstat
+- Milrinone
+- Miltefosine
+- Mineral Oil
+- Mineral Oil/White Petrolatum
+- Minocycline
+- Minoxidil
+- Mirabegron
+- Mirdametinib
+- Mixed Grass Pollen Allergen Extract
+- Modafinil
+- Mometasone
+- Mometasone/Formoterol
+- Montelukast
+- Morphine
+- Moxidectin
+- Moxifloxacin
+- Multivitamin Drops
+- Multivitamin Gummies
+- Multivitamin Tablets
+- Mupirocin
+- Mycophenolate mofetil
+- Mycophenolic Acid
+
+### N (32)
+- NIFEdipine
+- Nadolol
+- Nafarelin
+- Nafcillin
+- Naftifine
+- Nalbuphine
+- Nalmefene
+- Naloxone
+- Naproxen
+- Naproxen/Esomeprazole
+- Natalizumab
+- Nedosiran
+- Nemolizumab-ilto
+- Neostigmine
+- Nevirapine
+- NiCARdipine
+- NiMODipine
+- Nifurtimox
+- Nipocalimab-aahu
+- Nirmatrelvir/Ritonavir
+- Nirsevimab-alip
+- Nitazoxanide
+- Nitisinone
+- Nitric Oxide
+- Nitrofurantoin
+- Nitroglycerin
+- Nizatidine
+- Norepinephrine
+- Norgestrel
+- Nortriptyline
+- Nusinersen
+- Nystatin
+
+### O (30)
+- OLANZapine
+- OXcarbazepine
+- Obiltoxaximab
+- Obinutuzumab
+- Octreotide
+- Odevixibat
+- Ofatumumab
+- Ofloxacin
+- Olipudase alfa-rpcp
+- Olmesartan
+- Olopatadine
+- Olopatadine/Mometasone
+- Omadacycline
+- Omalizumab
+- Omalizumab-igec
+- Omaveloxolone
+- Omeprazole
+- OnabotulinumtoxinA
+- Onasemnogene Abeparvovec-brve
+- Onasemnogene Abeparvovec-xioi
+- Ondansetron
+- Oseltamivir
+- Oxacillin
+- Oxaprozin
+- Oxiconazole
+- OxyBUTYnin
+- OxyCODONE
+- OxyCODONE/Acetaminophen
+- OxyCODONE/Ibuprofen
+- Ozenoxacin
+
+### P (87)
+- PARoxetine
+- PENTobarbital
+- PHENobarbital
+- Paliperidone
+- Palivizumab
+- Palonosetron
+- Palovarotene
+- Pamidronate
+- Pancrelipase
+- Pancuronium
+- Pantoprazole
+- Papaverine
+- Paricalcitol
+- Paromomycin
+- Patiromer
+- Peanut Allergen-dnfp
+- Pegademase Bovine
+- Pegcetacoplan
+- Pegfilgrastim
+- Pegfilgrastim-apgf
+- Pegfilgrastim-bmez
+- Pegfilgrastim-cbqv
+- Pegfilgrastim-fpgk
+- Pegfilgrastim-jmdb
+- Pegfilgrastim-pbbk
+- Peginterferon Alfa-2a
+- Peginterferon Alfa-2b
+- Pemivibart
+- Penicillin G
+- Penicillin G benzathine
+- Penicillin G benzathine/Penicillin G procaine
+- Penicillin G procaine
+- Penicillin V Potassium
+- Pentamidine
+- Peramivir
+- Perampanel
+- Perflutren Lipid Microsphere
+- Perflutren Protein-Type A Microsphere
+- Permethrin
+- Phentermine/Topiramate
+- Phentolamine
+- Phenylephrine
+- Phenytoin
+- Pimecrolimus
+- Piperacillin
+- Piperacillin/Tazobactam
+- Pitavastatin
+- Pitolisant
+- Plasminogen, Human-tvmh
+- Pneumococcal 13-Valent Conjugate Vaccine (PCV13)
+- Pneumococcal 15-Valent Vaccine, Diphtheria Conjugate
+- Pneumococcal Polysaccharide Vaccine (PPSV23)
+- Pneumococcal conjugate 20-valent vaccine
+- Poliovirus Vaccine Enhanced-Inactivated
+- Polyethylene Glycol 3350
+- Polyethylene Glycol 3350/Sodium Chloride/Sodium Bicarbonate/KCL
+- Polyethylene Glycol 3350/Sodium Sulfate/Sodium Bicarbonate/Sodium Chloride/KCL
+- Polymyxin B/Trimethoprim
+- Posaconazole
+- Potassium Iodide
+- Potassium Phosphate
+- Potassium Phosphate/Sodium Phosphate, Monobasic and Dibasic
+- Potassium chloride
+- Pozelimab-bbfg
+- Prademagene Zamikeracel
+- Pralidoxime
+- Pravastatin
+- PredniSONE
+- Prednicarbate
+- PrednisoLONE
+- Pregabalin
+- Pretomanid
+- Primaquine Phosphate
+- Probenecid
+- Procainamide
+- Prochlorperazine
+- Proparacaine
+- Propofol
+- Propranolol
+- Protamine
+- Protein C Concentrate (Human)
+- Psyllium
+- PyRIDostigmine
+- Pyrantel
+- Pyrazinamide
+- Pyridoxine
+- Pyrimethamine
+
+### Q (4)
+- QUEtiapine
+- QuiNINE Sulfate
+- Quinapril
+- Quinupristin/Dalfopristin
+
+### R (39)
+- RABEprazole
+- RaNITIdine
+- Rabies Immune Globulin
+- Rabies Vaccine
+- Raltegravir
+- Ranibizumab
+- Rasburicase
+- Ravulizumab-cwvz
+- Raxibacumab
+- Remdesivir
+- Remestemcel-L-rknd
+- Remifentanil
+- Respiratory Syncytial Virus Vaccine
+- RiTUXimab
+- Ribavirin
+- Riboflavin 5-Phosphate
+- RifAMPin
+- RifAXIMin
+- Rifabutin
+- Rifapentine
+- Rilonacept
+- Rilpivirine
+- Risdiplam
+- Risedronate
+- RisperiDONE
+- Ritlecitinib
+- Ritonavir
+- Rivaroxaban
+- Rizatriptan
+- Rocuronium
+- Roflumilast
+- RomiPLOStim
+- Ropivacaine
+- Rosiglitazone
+- Rosuvastatin
+- Rotavirus Vaccine (RotaTeq)
+- Rotavirus Vaccine (Rotarix)
+- Rufinamide
+- Ruxolitinib
+
+### S (70)
+- SARS-COV-2 (COVID-19) Vaccine, mRNA (Moderna)
+- SARS-COV-2 (COVID-19) Vaccine, mRNA Bivalent (Moderna)
+- SARS-CoV-2 (COVID-19) Vaccine, Protein Subunit, Adjuvanted (Novavax)
+- SARS-CoV-2 (COVID-19) Vaccine, mRNA Bivalent (Pfizer)
+- SUMAtriptan
+- SUMAtriptan/Naproxen
+- Sacrosidase
+- Sacubitril/Valsartan
+- Salicyclic Acid
+- Salmeterol
+- Sapropterin
+- Sarecycline
+- Sargramostim
+- Sarilumab
+- Scopolamine
+- Sebelipase Alfa
+- Sebetralstat
+- Secnidazole
+- Secukinumab
+- Selexipag
+- Selumetinib
+- Semaglutide
+- Senna
+- Sepiapterin
+- Serdexmethylphenidate/Dexmethylphenidate
+- Sertaconazole
+- Sertraline
+- Setmelanotide
+- Sevelamer
+- Short Ragweed Pollen Allergen Extract
+- Sildenafil
+- Simethicone
+- Simvastatin
+- Sirolimus
+- Smallpox Monkeypox Vaccine, Live Non-Replicating
+- Sodium Bicarbonate
+- Sodium Chloride
+- Sodium Ferric Gluconate Complex
+- Sodium Glycerophosphate
+- Sodium Nitrite and Sodium Thiosulfate
+- Sodium Nitroprusside
+- Sodium Oxybate
+- Sodium Phenylbutyrate
+- Sodium Picosulfate/Magnesium Oxide/Citric Acid
+- Sodium Polystyrene Sulfonate
+- Sodium phenylacetate/Sodium benzoate
+- Sofosbuvir
+- Sofosbuvir/Velpatasvir
+- Solifenacin
+- Somapacitan-beco
+- Somatrogon-ghla
+- Somatropin
+- Sorbitol
+- Sotalol
+- Sotrovimab
+- Spesolimab-sbzo
+- Spinosad
+- Spironolactone
+- Spironolactone/HydroCHLOROthiazide
+- Stiripentol
+- Streptomycin
+- Succinylcholine
+- Sucralfate
+- Sucroferric Oxyhydroxide
+- Sucrose
+- Sugammadex
+- Sulbactam/Durlobactam
+- SulfADIAZINE
+- SulfaSALAzine
+- Sulfacetamide/PrednisoLONE
+
+### T (60)
+- THAM acetate
+- Tacrolimus
+- Tadalafil
+- Tafenoquine
+- Taliglucerase Alfa
+- Tapentadol
+- Tapinarof
+- Tasimelteon
+- Tazarotene
+- Tbo-Filgrastim
+- Tdap Vaccine
+- Tecovirimat
+- Tedizolid Phosphate
+- Teduglutide
+- Tenofovir Alafenamide
+- Tenofovir Disoproxil Fumarate
+- Teplizumab-mzwv
+- Terbinafine
+- Terbutaline
+- Tetracycline
+- Tezacaftor/Ivacaftor; Ivacaftor
+- Tezepelumab-ekko
+- Thiamine
+- TiaGABine
+- Ticarcillin/Clavulanate
+- Tick-Borne Encephalitis Vaccine
+- Tigecycline
+- Timolol
+- Timothy Grass Pollen Allergen Extract
+- Tinidazole
+- Tiopronin
+- Tiotropium
+- Tipranavir
+- Tirofiban
+- Tirzepatide
+- Tizanidine
+- Tobramycin
+- Tocilizumab
+- Tocilizumab-aazg
+- Tocilizumab-anoh
+- Tocilizumab-bavi
+- Tofacitinib
+- Tolnaftate
+- Topiramate
+- TraMADol
+- TraZODone
+- Trace Elements
+- Tralokinumab-ldrm
+- Tranexamic Acid
+- Treprostinil
+- Tretinoin
+- Tretinoin/Benzoyl Peroxide
+- Triamcinolone
+- Triclabendazole
+- Trifarotene
+- Triheptanoin
+- Trimethoprim/Sulfamethoxazole
+- Triptorelin
+- Trofinetide
+- Tropicamide (Ophthalmic)
+
+### U (12)
+- Upadacitinib
+- Uridine Triacetate
+- Ursodiol
+- Ustekinumab
+- Ustekinumab-aauz
+- Ustekinumab-aekn
+- Ustekinumab-auub
+- Ustekinumab-hmny
+- Ustekinumab-kfce
+- Ustekinumab-srlf
+- Ustekinumab-stba
+- Ustekinumab-ttwe
+
+### V (30)
+- ValGANciclovir
+- Valacyclovir
+- Valproic Acid and Derivatives
+- Valsartan
+- Vamorolone
+- Vancomycin
+- Vanzacaftor/Tezacaftor/Deutivacaftor
+- Varicella Virus Vaccine, Live
+- Varicella-zoster Immune Globulin
+- Vasopressin
+- Vecuronium
+- Vedolizumab
+- Velaglucerase alfa
+- Velmanase Alfa-tycv
+- Venlafaxine
+- Verapamil
+- Vestronidase Alfa-vjbk
+- Vigabatrin
+- Viloxazine
+- Viltolarsen
+- Vitamin A
+- Vitamin D
+- Vitamin E
+- Vitamin K1
+- Von Willebrand Factor Recombinant
+- Vorasidenib
+- Voretigene Neparvovec-rzyl
+- Voriconazole
+- Vosoritide
+- Voxelotor
+
+### W (2)
+- Warfarin
+- White Petrolatum
+
+### X (1)
+- Xenon Xe 129 Hyperpolarized
+
+### Z (10)
+- ZOLMitriptan
+- Zafirlukast
+- Zanamivir
+- Zidovudine
+- Zileuton
+- Zinc Oxide
+- Ziprasidone
+- Zoledronic Acid
+- Zoliflodacin
+- Zonisamide
+
+---
+
+## NeoFax Drug Monographs
+
+- **File:** `NeoFax_Micromedex_2026_Updated_all_monographs_Collection_of_Neonatal.pdf`
+- **Halaman:** 2676
+- **Jumlah obat:** 361
+
+### A (44)
+- Abacavir
+- AcetaZOLAMIDE
+- Acetaminophen
+- Acetylcysteine
+- Acyclovir
+- Adenosine
+- Aflibercept
+- Albumin (Human)
+- Albuterol
+- Alglucosidase Alfa
+- Alprostadil
+- Alteplase
+- AmLODIPine
+- Amikacin
+- Aminocaproic Acid
+- Aminophylline
+- Amiodarone
+- Amoxicillin
+- Amoxicillin/Clavulanate
+- Amphotericin B
+- Amphotericin B Lipid Complex
+- Amphotericin B Liposome
+- Ampicillin
+- Ampicillin/Sulbactam
+- Anakinra
+- Anidulafungin
+- Ansuvimab-zykl
+- Anthrax Immune
+- Antihemophilic Factor
+- Antihemophilic Factor
+- Antihemophilic Factor (Recomb) Plasma/Albumin Free
+- Antithrombin III (Human)
+- Apixaban
+- AquADEKs
+- Arginine
+- Artesunate
+- Articaine
+- Ascorbic Acid
+- Asfotase Alfa
+- Aspirin
+- Atoltivimab/Maftivimab/Odesivi
+- Atropine
+- Azithromycin
+- Aztreonam
+
+### B (10)
+- BUPivacaine
+- Bamlanivimab
+- Bedaquiline
+- Beractant
+- Beremagene Geperpavec-svdt
+- Bevacizumab
+- Bosentan
+- Brincidofovir
+- Bumetanide
+- Buprenorphine
+
+### C (42)
+- Caffeine Citrate
+- Calcitriol
+- Calcium - Oral
+- Calcium Chloride
+- Calcium Gluconate
+- Calfactant
+- Captopril
+- Carglumic Acid
+- Carglumic Acid
+- Casimersen
+- Caspofungin
+- CeFAZolin
+- CefOXitin
+- CefTAZidime
+- CefTRIAXone
+- Cefepime
+- Cefiderocol
+- Cefotaxime
+- Ceftaroline Fosamil
+- Ceftolozane/Tazobactam
+- Cenegermin-bkbj
+- Chloral hydrate
+- Chloramphenicol
+- Chlorothiazide
+- Cholic Acid
+- Cimetidine
+- Ciprofloxacin
+- Citric Acid
+- Citrulline
+- Clesrovimab-cfor
+- Clindamycin
+- CloNIDine
+- Clofazimine
+- Clopidogrel
+- Clotrimazole
+- Colistin
+- Cosyntropin
+- CycloSERINE
+- Cyclopentolate (Ophthalmic)
+- Cysteamine
+- Cysteine Hydrochloride
+- cefTAZidime/Avibactam
+
+### D (20)
+- DOBUTamine
+- DOPamine
+- DT/Td Vaccine
+- DTaP Vaccine
+- DTaP, Poliovirus, Haemophilus B,
+- DTaP-HepB-IPV Combination
+- Dalbavancin
+- Dalteparin
+- Dantrolene
+- Darbepoetin Alfa
+- Delamanid
+- DexAMETHasone
+- DexmedeTOMIDine
+- Dextrose
+- Diazoxide
+- Didanosine
+- Digoxin
+- Digoxin Immune Fab (Ovine)
+- Dornase alfa
+- Doxycycline
+
+### E (15)
+- EPINEPHrine (Adrenaline)
+- Elapegademase-lvlr
+- Electrolytes/Minerals
+- Emapalumab-lzsg
+- Emicizumab-kxwh
+- Emtricitabine
+- Enalapril maleate
+- Enalaprilat
+- Enoxaparin
+- Epoetin alfa
+- Erythromycin
+- Esmolol
+- Etesevimab
+- Ethambutol
+- Ethionamide
+
+### F (21)
+- Factor IX (Recombinant), Fc
+- Factor IX Recombinant
+- Factor VIIa,
+- Factor X Human
+- Factor XIII Concentrate, Human
+- Famotidine
+- Fat Emulsion
+- Fenoldopam
+- FentaNYL
+- Ferrous sulfate
+- Fibrinogen
+- Filgrastim
+- Flecainide
+- Fluconazole
+- Flucytosine
+- Fludrocortisone
+- Flumazenil
+- Folic Acid
+- Fosdenopterin
+- Fosphenytoin
+- Furosemide
+
+### G (9)
+- Gabapentin
+- Ganciclovir
+- Gatifloxacin
+- Gentamicin
+- Gentian Violet
+- Glucagon
+- Glycerol Phenylbutyrate
+- Glycopyrrolate
+- Golodirsen
+
+### H (13)
+- HYDROmorphone
+- Haemophilus b (Hib) Conjugate
+- Heparin
+- Hepatitis B Immune Globulin
+- Hepatitis B Vaccine
+- Hib Conjugate/Hepatitis B
+- Hyaluronidase
+- HydrALAZINE
+- HydroCHLOROthiazide
+- Hydrocortisone
+- Hyoscyamine
+- Hyoscyamine
+- Hypromellose
+
+### I (14)
+- INFUVITE Pediatric
+- Ibuprofen
+- Ibuprofen Lysine
+- Imipenem/Cilastatin
+- Imipenem/Cilastatin/Relebactam
+- Immune Globulin
+- Indomethacin
+- Insulin Aspart, Recombinant
+- Insulin Detemir
+- Insulin Human Regular
+- Ipratropium
+- Iron Dextran
+- Isoniazid
+- Isoproterenol
+
+### K (3)
+- Ketamine
+- Ketorolac
+- Ketorolac/Phenylephrine
+
+### L (17)
+- LORazepam
+- LamiVUDine
+- Lansoprazole
+- Leucovorin
+- LevETIRAcetam
+- Levalbuterol
+- LevoFLOXacin
+- Levothyroxine
+- Lidocaine
+- Lidocaine - Antiarrhythmic
+- Lidocaine/Prilocaine
+- Linezolid
+- Liothyronine
+- Lopinavir/Ritonavir
+- Loteprednol Etabonate
+- Lucinactant
+- Lumasiran
+
+### M (19)
+- MCT Oil
+- Magnesium sulfate
+- Mannitol
+- Maraviroc
+- Meropenem
+- MethIMAzole
+- Methadone
+- Methylene Blue
+- Metoclopramide
+- MetroNIDAZOLE
+- Micafungin
+- Microlipid
+- Midazolam
+- Milrinone
+- Mineral Oil/White Petrolatum
+- Morphine
+- Moxifloxacin
+- Multivitamin Drops
+- Mupirocin
+
+### N (15)
+- Nadolol
+- Nafcillin
+- Naloxone
+- Neostigmine
+- Netilmicin
+- Nevirapine
+- NiCARdipine
+- Nifurtimox
+- Nirsevimab-alip
+- Nitisinone
+- Nitric Oxide
+- Nizatidine
+- Norepinephrine
+- Nusinersen
+- Nystatin
+
+### O (9)
+- Obiltoxaximab
+- Octreotide
+- Ofloxacin
+- Olipudase alfa-rpcp
+- Omadacycline
+- Omeprazole
+- Onasemnogene
+- Oseltamivir
+- Oxacillin
+
+### P (44)
+- PENTobarbital
+- PHENobarbital
+- Palivizumab
+- Pancuronium
+- Pantoprazole
+- Papaverine
+- Pegademase Bovine
+- Pegfilgrastim
+- Pegfilgrastim-apgf
+- Pegfilgrastim-bmez
+- Pegfilgrastim-cbqv
+- Pegfilgrastim-fpgk
+- Pegfilgrastim-jmdb
+- Pegfilgrastim-pbbk
+- Penicillin G
+- Penicillin G benzathine
+- Penicillin G procaine
+- Penicillin V Potassium
+- Phentolamine
+- Phenylephrine
+- Phenytoin
+- Piperacillin
+- Piperacillin/Tazobactam
+- Plasminogen, Human-tvmh
+- Pneumococcal 13-Valent
+- Pneumococcal 15-Valent Vaccine,
+- Pneumococcal conjugate 20-valent vaccine
+- Poliovirus Vaccine EnhancedInactivated
+- Poractant alfa
+- Potassium Iodide
+- Potassium Phosphate
+- Potassium chloride
+- Pralidoxime
+- PredniSONE
+- PrednisoLONE
+- Procainamide
+- Proparacaine
+- Propranolol
+- Protamine
+- Protein C Concentrate (Human)
+- PyRIDostigmine
+- Pyrazinamide
+- Pyridoxine
+- Pyrimethamine
+
+### Q (1)
+- Quinupristin/Dalfopristin
+
+### R (16)
+- RaNITIdine
+- Rabies Immune Globulin
+- Rabies Vaccine
+- Raltegravir
+- Ranibizumab
+- Rasburicase
+- Raxibacumab
+- Remdesivir
+- Remifentanil
+- RifAMPin
+- Risdiplam
+- Rivaroxaban
+- Rocuronium
+- RomiPLOStim
+- Rotavirus Vaccine (RotaTeq)
+- Rotavirus Vaccine (Rotarix)
+
+### S (19)
+- Sargramostim
+- Sebelipase Alfa
+- Sildenafil
+- Simethicone
+- Smallpox Monkeypox Vaccine,
+- Sodium Bicarbonate
+- Sodium Chloride
+- Sodium Glycerophosphate
+- Sodium Nitrite and
+- Sodium Nitroprusside
+- Sodium Polystyrene Sulfonate
+- Sodium phenylacetate/Sodium
+- Sotalol
+- Spironolactone
+- Spironolactone/HydroCHLOROthi
+- Streptomycin
+- Succinylcholine
+- Sucrose
+- SulfADIAZINE
+
+### T (14)
+- THAM acetate
+- Tecovirimat
+- Tedizolid Phosphate
+- Thiamine
+- Ticarcillin/Clavulanate
+- Tirofiban
+- Tobramycin
+- Topiramate
+- Trace Elements
+- Tranexamic Acid
+- Treprostinil
+- Tri-Vi-Sol MVI Drops
+- Triheptanoin
+- Tropicamide (Ophthalmic)
+
+### U (2)
+- Uridine Triacetate
+- Ursodiol
+
+### V (11)
+- ValGANciclovir
+- Vancomycin
+- Varicella-zoster Immune
+- Vasopressin
+- Vecuronium
+- Vestronidase Alfa-vjbk
+- Viltolarsen
+- Vitamin A
+- Vitamin D
+- Vitamin E
+- Vitamin K1
+
+### W (1)
+- White Petrolatum
+
+### Z (2)
+- Zidovudine
+- Zinc Oxide
+
+---
+
+## Cara Pakai
+
+1. Cari nama obat di index ini (Ctrl+F)
+2. Tanya Zuli: _"Berapa dosis [nama obat] untuk anak umur X?"_
+3. Zuli akan extract detail dari PDF dan berikan jawaban lengkap
+
+*Data di-extract on-demand dari PDF asli Micromedex 2026.*
