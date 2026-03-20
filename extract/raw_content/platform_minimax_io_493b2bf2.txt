@@ -1,0 +1,200 @@
+# Source URL: https://platform.minimax.io/docs/token-plan/quickstart
+# Content Length: 6242 characters
+# Extracted at: 2026-03-20 14:00:04
+#============================================================
+
+
+Quick Start - MiniMax API Docs[Skip to main content](#content-area)
+
+🎉 MiniMax-M2.7: Peak Performance. Ultimate Value. Master the Complex. ➔ [Try Now](https://platform.minimax.io/docs/api-reference/text-anthropic-api).
+
+[MiniMax API Docs home page![]()![]()](https://minimax.io)Search...⌘K
+
+* [Documentation](https://platform.minimax.io/docs)
+* [Account](https://platform.minimax.io/user-center/basic-information)
+* [Subscribe](https://platform.minimax.io/subscribe/token-plan)
+Search...NavigationToken PlanQuick Start[Developer Guides](/docs/guides/models-intro)[API Reference](/docs/api-reference/api-overview)[Pricing](/docs/pricing/overview)[Token Plan](/docs/token-plan/intro)[Cookbook](/docs/solutions)[Release Notes](/docs/release-notes/models)[Developer Program](https://docs.google.com/forms/d/e/1FAIpQLSewS6C6MWwhzwbBCjdgoIgi8rcjuL-kcj2Bz3Rlg_H-0YtehQ/viewform)
+##### Token Plan
+
+* [Overview](/docs/token-plan/intro)
+* [Quick Start](/docs/token-plan/quickstart)
+* [FAQs](/docs/token-plan/faq)
+* [Referral Program](/docs/token-plan/promotion)
+##### Use M2.7 in AI Coding Tools
+
+* [OpenClaw](/docs/token-plan/openclaw)
+* [OpenCode](/docs/token-plan/opencode)
+* [Claude Code](/docs/token-plan/claude-code)
+* [Cursor](/docs/token-plan/cursor)
+* [TRAE](/docs/token-plan/trae)
+* [Kilo Code](/docs/token-plan/kilo-code)
+* [Cline](/docs/token-plan/cline)
+* [Roo Code](/docs/token-plan/roo-code)
+* [Grok CLI](/docs/token-plan/grok-cli)
+* [Codex CLI](/docs/token-plan/codex-cli)
+* [Droid](/docs/token-plan/droid)
+* [Zed](/docs/token-plan/zed)
+##### MCP Guide
+
+* [Web Search & Image Understanding MCP](/docs/token-plan/mcp-guide)
+##### Best Practices
+
+* [M2.7 Usage Tips](/docs/token-plan/best-practices)
+* [Mini-Agent](/docs/token-plan/mini-agent)
+On this page
+
+* [Getting Started](#getting-started)
+* [MCP Integration](#mcp-integration)
+* [Best Practices](#best-practices)
+Token Plan
+
+Quick Start
+===========
+
+Copy page
+
+Quick guide to Token Plan subscription and integration
+
+Copy page
+
+[​](#getting-started)Getting Started
+------------------------------------
+
+1
+
+Subscribe to Token Plan
+
+Visit the [**Token Plan**](https://platform.minimax.io/subscribe/token-plan) Subscription page, choose the plan (**Starter, Plus, Max**) that best suits your needs , and complete the subscription process.2
+
+Get API Key
+
+Visit [API Keys > Create Token Plan Key](https://platform.minimax.io/user-center/basic-information/interface-key) to get your **API Key**Important Notes:
+
+* This API Key is exclusive to **Token Plan**. It is not interchangeable with pay-as-you-go API Keys.
+* This API Key is only valid during the active period of your **Token Plan** subscription.
+* Please protect your API Key. We recommend exporting it as an environment variable or saving it to a config file.
+3
+
+Test API Call (Optional)
+
+Quickly test **MiniMax M2.7** via Compatible Anthropic API**1. Install Anthropic SDK**PythonNode.jsCopy
+```
+pip install anthropic
+
+```
+**2. Configure Environment Variables**Copy
+```
+export ANTHROPIC_BASE_URL=https://api.minimax.io/anthropic
+export ANTHROPIC_API_KEY=${YOUR_API_KEY}
+
+```
+**3. Call API**PythonCopy
+```
+import anthropic
+
+client = anthropic.Anthropic()
+
+message = client.messages.create(
+    model="MiniMax-M2.7",
+    max_tokens=1000,
+    system="You are a helpful assistant.",
+    messages=[
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Hi, how are you?"
+                }
+            ]
+        }
+    ]
+)
+
+for block in message.content:
+    if block.type == "thinking":
+        print(f"Thinking:\n{block.thinking}\n")
+    elif block.type == "text":
+        print(f"Text:\n{block.text}\n")
+
+```
+4
+
+Integrate with AI Coding Tools
+
+Choose your preferred AI coding tool from the options below to experience the latest **MiniMax M2.7** model capabilities
+
+Claude Code
+-----------
+
+Cursor
+------
+
+Trae
+----
+
+OpenCode
+--------
+
+Kilo Code
+---------
+
+Cline
+-----
+
+Roo Code
+--------
+
+Grok CLI
+--------
+
+Codex CLI
+---------
+
+Droid
+-----
+
+[​](#mcp-integration)MCP Integration
+------------------------------------
+
+Quickly integrate **Token Plan MCP** for **Image Understanding** and **Web Search** capabilities
+
+MCP Guide
+---------
+
+Learn how to configure and use Token Plan MCP
+
+[​](#best-practices)Best Practices
+----------------------------------
+
+Quickly view MiniMax M2.7 usage tips and practical examples
+
+M2.7 Usage Tips
+---------------
+
+Master efficient usage methods and tips for M2.7 model
+
+Mini Agent
+----------
+
+Build Agents with M2.7
+
+Was this page helpful?
+
+YesNo[Overview](/docs/token-plan/intro)[FAQs](/docs/token-plan/faq)⌘I[MiniMax API Docs home page![]()![]()](https://minimax.io)[discord](https://discord.com/invite/hvvt8hAye6)[x](https://x.com/MiniMax_AI)[linkedin](https://www.linkedin.com/company/minimax-ai)[github](https://github.com/MiniMax-AI)
+
+Research
+
+[MiniMax M2.7](https://www.minimax.io/news/minimax-m27-en)[MiniMax M2-her](https://www.minimax.io/news/a-deep-dive-into-the-minimax-m2-her-2)[MiniMax M2.1](https://www.minimax.io/news/minimax-m21)[MiniMax Speech 2.6](https://www.minimax.io/news/minimax-speech-26)[MiniMax Hailuo 2.3](https://www.minimax.io/news/minimax-hailuo-23)[MiniMax Music 2.5](https://www.minimax.io/news/minimax-music-25)
+
+Product
+
+[Agent](https://agent.minimax.io)[Video Hailuo](https://hailuoai.com/video)[Audio](https://www.minimax.io/audio)[Talkie](https://www.talkie-ai.com/)
+
+API
+
+[Developer Docs](https://platform.minimax.io/docs/guides/models-intro)[Token Plan](https://platform.minimax.io/subscribe/token-plan)[Pricing](https://platform.minimax.io/docs/pricing/overview)[Console Login](https://platform.minimax.io/user-center/basic-information)[Developer Program](https://docs.google.com/forms/d/e/1FAIpQLSewS6C6MWwhzwbBCjdgoIgi8rcjuL-kcj2Bz3Rlg_H-0YtehQ/viewform)
+
+Recommended
+
+[Model Introduction](https://platform.minimax.io/docs/guides/models-intro)[Text Generation](https://platform.minimax.io/docs/guides/text-generation)[M2.7 for AI Coding Tools](https://platform.minimax.io/docs/guides/text-ai-coding-tools)[Text to Speech](https://platform.minimax.io/docs/guides/speech-t2a-websocket)[Video Generation](https://platform.minimax.io/docs/guides/video-generation)

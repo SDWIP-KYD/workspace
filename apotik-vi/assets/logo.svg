@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="45" fill="#274c77"/>
+  
+  <!-- Cross/Plus Symbol -->
+  <path d="M50 20 L50 80 M30 35 L70 35 M30 65 L70 65" stroke="#a3cef1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Medicine Bottle -->
+  <rect x="40" y="40" width="20" height="25" rx="2" fill="#6096ba"/>
+  
+  <!-- Bottle Label Lines -->
+  <line x1="45" y1="45" x2="55" y2="45" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="45" y1="50" x2="55" y2="50" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="45" y1="55" x2="55" y2="55" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Plus/Cross Accent -->
+  <circle cx="50" cy="30" r="5" fill="#22c55e"/>
+</svg>

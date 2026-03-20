@@ -1,0 +1,306 @@
+/* Apotik VI - Custom Styles */
+
+/* CSS Variables - Color Palette */
+:root {
+    --bg-primary: #e7ecef;
+    --bg-card: #ffffff;
+    --text-heading: #274c77;
+    --text-body: #1a1a1a;
+    --text-muted: #8b8c89;
+    --primary: #274c77;
+    --primary-hover: #6096ba;
+    --accent: #a3cef1;
+    --border: #d1d5db;
+    --success: #22c55e;
+    --warning: #f59e0b;
+    --danger: #ef4444;
+}
+
+/* Custom Utility Classes */
+.font-inter { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+.bg-platinum { background-color: var(--bg-primary); }
+.bg-dusk-blue { background-color: var(--primary); }
+.bg-steel-blue { background-color: var(--primary-hover); }
+.text-dusk-blue { color: var(--text-heading); }
+.text-steel-blue { color: var(--primary-hover); }
+.text-grey-olive { color: var(--text-muted); }
+.border-grey-olive\/10 { border-color: rgba(139, 140, 137, 0.1); }
+.border-grey-olive\/20 { border-color: rgba(139, 140, 137, 0.2); }
+.border-grey-olive\/30 { border-color: rgba(139, 140, 137, 0.3); }
+.bg-grey-olive\/10 { background-color: rgba(139, 140, 137, 0.1); }
+.bg-grey-olive\/20 { background-color: rgba(139, 140, 137, 0.2); }
+.text-grey-olive\/20 { color: rgba(139, 140, 137, 0.2); }
+.hover\:bg-grey-olive\/10:hover { background-color: rgba(139, 140, 137, 0.1); }
+.hover\:bg-grey-olive\/20:hover { background-color: rgba(139, 140, 137, 0.2); }
+.hover\:bg-grey-olive\/30:hover { background-color: rgba(139, 140, 137, 0.3); }
+.bg-icy-blue\/10 { background-color: rgba(163, 207, 241, 0.1); }
+.bg-icy-blue\/20 { background-color: rgba(163, 207, 241, 0.2); }
+.bg-icy-blue\/30 { background-color: rgba(163, 207, 241, 0.3); }
+.hover\:bg-icy-blue\/10:hover { background-color: rgba(163, 207, 241, 0.1); }
+.hover\:bg-icy-blue\/20:hover { background-color: rgba(163, 207, 241, 0.2); }
+.hover\:bg-icy-blue\/30:hover { background-color: rgba(163, 207, 241, 0.3); }
+.text-icy-blue { color: var(--accent); }
+
+/* Card Hover Effect */
+.card-hover {
+    transition: all 0.3s ease;
+}
+.card-hover:hover {
+    transform: translateY(-4px);
+}
+
+/* Navigation Active State */
+.nav-item.active {
+    background-color: rgba(163, 207, 241, 0.2);
+    color: var(--accent);
+}
+
+/* Toast Notifications */
+.toast {
+    padding: 12px 20px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    animation: slideIn 0.3s ease;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+}
+.toast-success { background-color: #dcfce7; border-left: 4px solid var(--success); }
+.toast-error { background-color: #fee2e2; border-left: 4px solid var(--danger); }
+.toast-warning { background-color: #fef3c7; border-left: 4px solid var(--warning); }
+.toast-info { background-color: #dbeafe; border-left: 4px solid var(--primary-hover); }
+
+@keyframes slideIn {
+    from { transform: translateX(100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+/* Modal Animation */
+.modal-enter {
+    animation: modalIn 0.3s ease;
+}
+@keyframes modalIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+/* Table Styles */
+table th {
+    background-color: var(--bg-primary);
+}
+table td, table th {
+    padding: 12px 24px;
+}
+table tbody tr:hover {
+    background-color: rgba(163, 207, 241, 0.05);
+}
+
+/* Badge Styles */
+.badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.badge-low-stock {
+    background-color: #fee2e2;
+    color: var(--danger);
+}
+.badge-expiring {
+    background-color: #fef3c7;
+    color: var(--warning);
+}
+.badge-normal {
+    background-color: rgba(163, 207, 241, 0.2);
+    color: var(--primary-hover);
+}
+.badge-success {
+    background-color: #dcfce7;
+    color: var(--success);
+}
+.badge-warning {
+    background-color: #fef3c7;
+    color: #b45309;
+}
+.badge-danger {
+    background-color: #fee2e2;
+    color: var(--danger);
+}
+
+/* Button Styles */
+.btn-primary {
+    background-color: var(--primary);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+.btn-primary:hover {
+    background-color: var(--primary-hover);
+}
+.btn-secondary {
+    background-color: var(--primary-hover);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+.btn-secondary:hover {
+    background-color: var(--accent);
+    color: var(--primary);
+}
+.btn-danger {
+    background-color: var(--danger);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+.btn-danger:hover {
+    background-color: #dc2626;
+}
+
+/* Form Input Focus */
+input:focus, select:focus, textarea:focus {
+    outline: none;
+    border-color: var(--primary-hover);
+    box-shadow: 0 0 0 3px rgba(96, 150, 186, 0.2);
+}
+
+/* Loading Bar Animation */
+#loading-bar {
+    transition: width 0.5s ease;
+}
+
+/* Page Transitions */
+.page-content {
+    animation: fadeIn 0.3s ease;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: var(--bg-primary);
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--text-muted);
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-hover);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .sidebar-open {
+        transform: translateX(0) !important;
+    }
+}
+
+/* Print Styles */
+@media print {
+    .no-print { display: none !important; }
+    body { background: white; }
+    .shadow-sm { box-shadow: none !important; }
+}
+
+/* Custom Scrollbar for Activity Log */
+#recent-activity::-webkit-scrollbar,
+#low-stock-list::-webkit-scrollbar,
+#expiring-list::-webkit-scrollbar {
+    width: 4px;
+}
+
+/* Chart Container */
+.chart-container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+/* Status Badge in Table */
+.status-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.status-badge::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+.status-badge.status Baru::before { background-color: #3b82f6; }
+.status-badge.status-diproses::before { background-color: #f59e0b; }
+.status-badge.status-selesai::before { background-color: #22c55e; }
+
+/* Dark Mode Styles */
+body.dark-mode {
+    --bg-primary: #1a1a2e;
+    --bg-card: #16213e;
+    --text-heading: #a3cef1;
+    --text-body: #e5e5e5;
+    background-color: #0f0f23 !important;
+    color: #e5e5e5 !important;
+}
+
+body.dark-mode .bg-white {
+    background-color: #16213e !important;
+    border-color: #2d3748 !important;
+}
+
+body.dark-mode .bg-platinum {
+    background-color: #1a1a2e !important;
+}
+
+body.dark-mode .text-dusk-blue,
+body.dark-mode .text-slate-800 {
+    color: #a3cef1 !important;
+}
+
+body.dark-mode .text-grey-olive {
+    color: #9ca3af !important;
+}
+
+body.dark-mode input,
+body.dark-mode select,
+body.dark-mode textarea {
+    background-color: #1a1a2e !important;
+    border-color: #374151 !important;
+    color: #e5e5e5 !important;
+}
+
+body.dark-mode table th {
+    background-color: #1a1a2e !important;
+    color: #a3cef1 !important;
+}
+
+body.dark-mode table tbody tr:hover {
+    background-color: rgba(163, 207, 241, 0.1) !important;
+}
+
+body.dark-mode #sidebar {
+    background-color: #0f0f23 !important;
+}
+
+body.dark-mode .nav-item:hover {
+    background-color: rgba(163, 207, 241, 0.1) !important;
+}
+
+body.dark-mode .shadow-sm {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3) !important;
+}
