@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YOU Docs/YOU Search.md",
+                "file": "TOOLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YOU Search"
+              "title": "TOOLS"
             }
           }
         ],
@@ -220,10 +220,16 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "a9976dce460f468d",
+  "active": "51e42865c567c957",
   "lastOpenFiles": [
-    "YOU Docs/YOU HTML or Markdown of a target webpage..md",
+    "USER.md",
+    "TOOLS.md",
+    "INDEX.md",
+    "IDENTITY.md",
+    "AGENTS.md",
     "YOU Docs/YOU Search.md",
+    "Kilo-Code-CLI-Research.md",
+    "YOU Docs/YOU HTML or Markdown of a target webpage..md",
     "YOU Docs",
     "YOU Docs/YOU Research.md",
     "API Keys/OpenRouter.md",
@@ -238,7 +244,6 @@
     "Referensi/Pneumothorax-vs-Hemothorax.md",
     "Referensi/Pneumothorax-vs-Hemothorax.jpg",
     "Zuli-Dokumentasi/Chat-History/Chat-History-2026-03-17.md",
-    "Kilo-Code-CLI-Research.md",
     "Zuli-Dokumentasi/Improvement/Problem-Solutions.md",
     "Zuli-Dokumentasi/Audit-Log/Audit-Log-Index.md",
     "Zuli-Dokumentasi/Audit-Log/Audit-Log-2026-03-17.md",
@@ -247,12 +252,7 @@
     "Zuli-Dokumentasi/Research/Kilo-Code-CLI-Research.md",
     "Zuli-Dokumentasi/Index.md",
     "Zuli-Dokumentasi/Research",
-    "Referensi/Dosis Obat/Obat C.md",
-    "Test.md",
-    "Referensi/Dosis Obat/Daftar Obat - Index.md",
-    "Referensi/Dosis Obat/Obat T.md",
     "Referensi/Dosis Obat/micromedex_index.json",
-    "Finance/Dashboard.md",
     "Referensi/Dosis Obat",
     "Referensi",
     "Finance/rekap.py",
