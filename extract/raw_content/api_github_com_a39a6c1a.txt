@@ -1,0 +1,393 @@
+# Source URL: https://api.github.com/repos/SDWIP-KYD/workspace/contents
+# Content Length: 18368 characters
+# Extracted at: 2026-03-20 16:46:44
+#============================================================
+
+```
+[
+{
+"name": ".gitignore",
+"path": ".gitignore",
+"sha": "319b30e8f0462ce0164d7a3242dc6a18e6454d72",
+"size": 119,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/.gitignore?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/.gitignore",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/319b30e8f0462ce0164d7a3242dc6a18e6454d72",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/.gitignore",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/.gitignore?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/319b30e8f0462ce0164d7a3242dc6a18e6454d72",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/.gitignore"
+}
+},
+{
+"name": ".obsidian",
+"path": ".obsidian",
+"sha": "b5f0e72adfd0e2358069f3d531a8f2bf5c6c5948",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/.obsidian?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/.obsidian",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/b5f0e72adfd0e2358069f3d531a8f2bf5c6c5948",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/.obsidian?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/b5f0e72adfd0e2358069f3d531a8f2bf5c6c5948",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/.obsidian"
+}
+},
+{
+"name": ".trash",
+"path": ".trash",
+"sha": "2456ca9b84b0b581e146719c2b8cd0da52882e56",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/.trash?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/.trash",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/2456ca9b84b0b581e146719c2b8cd0da52882e56",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/.trash?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/2456ca9b84b0b581e146719c2b8cd0da52882e56",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/.trash"
+}
+},
+{
+"name": "AGENTS.md",
+"path": "AGENTS.md",
+"sha": "fdabc66a6aefd069742d211a480fefcf225b1955",
+"size": 12358,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/AGENTS.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/AGENTS.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/fdabc66a6aefd069742d211a480fefcf225b1955",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/AGENTS.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/AGENTS.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/fdabc66a6aefd069742d211a480fefcf225b1955",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/AGENTS.md"
+}
+},
+{
+"name": "API Keys",
+"path": "API Keys",
+"sha": "9184f7f4265acd4371d2ef77c2a088a0261c8f03",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/API%20Keys?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/API%20Keys",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/9184f7f4265acd4371d2ef77c2a088a0261c8f03",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/API%20Keys?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/9184f7f4265acd4371d2ef77c2a088a0261c8f03",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/API%20Keys"
+}
+},
+{
+"name": "BOOTSTRAP.md",
+"path": "BOOTSTRAP.md",
+"sha": "8cbff7c06d112343fbee222646aa0ad16473f5b9",
+"size": 1470,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/BOOTSTRAP.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/BOOTSTRAP.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/8cbff7c06d112343fbee222646aa0ad16473f5b9",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/BOOTSTRAP.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/BOOTSTRAP.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/8cbff7c06d112343fbee222646aa0ad16473f5b9",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/BOOTSTRAP.md"
+}
+},
+{
+"name": "Changelog.md",
+"path": "Changelog.md",
+"sha": "de4ae97f0848e27b0bddc559b6e6161b3ec494a8",
+"size": 2093,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Changelog.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/Changelog.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/de4ae97f0848e27b0bddc559b6e6161b3ec494a8",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/Changelog.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Changelog.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/de4ae97f0848e27b0bddc559b6e6161b3ec494a8",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/Changelog.md"
+}
+},
+{
+"name": "Finance",
+"path": "Finance",
+"sha": "0427e6a4c2f1690b84d6ce3d1526c15f2f117d9d",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Finance?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/Finance",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/0427e6a4c2f1690b84d6ce3d1526c15f2f117d9d",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Finance?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/0427e6a4c2f1690b84d6ce3d1526c15f2f117d9d",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/Finance"
+}
+},
+{
+"name": "HEARTBEAT.md",
+"path": "HEARTBEAT.md",
+"sha": "d85d83d0c6e408b1d1a8397760e7834d0e6aaf37",
+"size": 168,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/HEARTBEAT.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/HEARTBEAT.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/d85d83d0c6e408b1d1a8397760e7834d0e6aaf37",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/HEARTBEAT.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/HEARTBEAT.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/d85d83d0c6e408b1d1a8397760e7834d0e6aaf37",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/HEARTBEAT.md"
+}
+},
+{
+"name": "IDENTITY.md",
+"path": "IDENTITY.md",
+"sha": "0f99ca842aa08e70045e411ea2802d3393d14cc8",
+"size": 508,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/IDENTITY.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/IDENTITY.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/0f99ca842aa08e70045e411ea2802d3393d14cc8",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/IDENTITY.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/IDENTITY.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/0f99ca842aa08e70045e411ea2802d3393d14cc8",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/IDENTITY.md"
+}
+},
+{
+"name": "INDEX.md",
+"path": "INDEX.md",
+"sha": "8fad0261504270217988e4669625193ff8a18486",
+"size": 1591,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/INDEX.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/INDEX.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/8fad0261504270217988e4669625193ff8a18486",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/INDEX.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/INDEX.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/8fad0261504270217988e4669625193ff8a18486",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/INDEX.md"
+}
+},
+{
+"name": "Kilo-Code-CLI-Research.md",
+"path": "Kilo-Code-CLI-Research.md",
+"sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Kilo-Code-CLI-Research.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/Kilo-Code-CLI-Research.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/Kilo-Code-CLI-Research.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Kilo-Code-CLI-Research.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/Kilo-Code-CLI-Research.md"
+}
+},
+{
+"name": "Referensi",
+"path": "Referensi",
+"sha": "910c22f3ddda6f51449777bc9b1b3508a260c3cf",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Referensi?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/Referensi",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/910c22f3ddda6f51449777bc9b1b3508a260c3cf",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Referensi?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/910c22f3ddda6f51449777bc9b1b3508a260c3cf",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/Referensi"
+}
+},
+{
+"name": "Rekomendasi-dan-jawaban-claude.md",
+"path": "Rekomendasi-dan-jawaban-claude.md",
+"sha": "c4330ef844f616cbc5f57d6a9f7246e3910687af",
+"size": 8454,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Rekomendasi-dan-jawaban-claude.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/Rekomendasi-dan-jawaban-claude.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/c4330ef844f616cbc5f57d6a9f7246e3910687af",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/Rekomendasi-dan-jawaban-claude.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Rekomendasi-dan-jawaban-claude.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/c4330ef844f616cbc5f57d6a9f7246e3910687af",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/Rekomendasi-dan-jawaban-claude.md"
+}
+},
+{
+"name": "SOUL.md",
+"path": "SOUL.md",
+"sha": "792306ac60f6c600b8ded97899354557ce900f40",
+"size": 1673,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/SOUL.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/SOUL.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/792306ac60f6c600b8ded97899354557ce900f40",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/SOUL.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/SOUL.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/792306ac60f6c600b8ded97899354557ce900f40",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/SOUL.md"
+}
+},
+{
+"name": "TOOLS.md",
+"path": "TOOLS.md",
+"sha": "917e2fa86ccb01bab7227e223555daa1f5a76ebc",
+"size": 860,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/TOOLS.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/TOOLS.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/917e2fa86ccb01bab7227e223555daa1f5a76ebc",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/TOOLS.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/TOOLS.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/917e2fa86ccb01bab7227e223555daa1f5a76ebc",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/TOOLS.md"
+}
+},
+{
+"name": "Test.md",
+"path": "Test.md",
+"sha": "ed7defba16b4d02d5a6db3ba626d55b058598746",
+"size": 207,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Test.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/Test.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/ed7defba16b4d02d5a6db3ba626d55b058598746",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/Test.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Test.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/ed7defba16b4d02d5a6db3ba626d55b058598746",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/Test.md"
+}
+},
+{
+"name": "USER.md",
+"path": "USER.md",
+"sha": "de8c34f83800c0223c4e140870a044e44265a15b",
+"size": 688,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/USER.md?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/blob/master/USER.md",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/de8c34f83800c0223c4e140870a044e44265a15b",
+"download\_url": "https://raw.githubusercontent.com/SDWIP-KYD/workspace/master/USER.md",
+"type": "file",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/USER.md?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/blobs/de8c34f83800c0223c4e140870a044e44265a15b",
+"html": "https://github.com/SDWIP-KYD/workspace/blob/master/USER.md"
+}
+},
+{
+"name": "YOU Docs",
+"path": "YOU Docs",
+"sha": "efc3aa2c09ef3e567ba6a17d69076e55272c7bb6",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/YOU%20Docs?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/YOU%20Docs",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/efc3aa2c09ef3e567ba6a17d69076e55272c7bb6",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/YOU%20Docs?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/efc3aa2c09ef3e567ba6a17d69076e55272c7bb6",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/YOU%20Docs"
+}
+},
+{
+"name": "Zuli-Dokumentasi",
+"path": "Zuli-Dokumentasi",
+"sha": "9bc30ec5b5eba534e9af7b08b244dc44274a48dc",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Zuli-Dokumentasi?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/Zuli-Dokumentasi",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/9bc30ec5b5eba534e9af7b08b244dc44274a48dc",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/Zuli-Dokumentasi?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/9bc30ec5b5eba534e9af7b08b244dc44274a48dc",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/Zuli-Dokumentasi"
+}
+},
+{
+"name": "extract",
+"path": "extract",
+"sha": "3334bbbcf665fbcb382b4aec4b61c809d905aae4",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/extract?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/extract",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/3334bbbcf665fbcb382b4aec4b61c809d905aae4",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/extract?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/3334bbbcf665fbcb382b4aec4b61c809d905aae4",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/extract"
+}
+},
+{
+"name": "research",
+"path": "research",
+"sha": "6524a15150bc5d1cf2f00113c8c310e941ccf377",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/research?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/research",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/6524a15150bc5d1cf2f00113c8c310e941ccf377",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/research?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/6524a15150bc5d1cf2f00113c8c310e941ccf377",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/research"
+}
+},
+{
+"name": "scripts",
+"path": "scripts",
+"sha": "c79cb6d03ec776dd2d0028e7bc3a191d87f8981f",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/scripts?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/scripts",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/c79cb6d03ec776dd2d0028e7bc3a191d87f8981f",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/scripts?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/c79cb6d03ec776dd2d0028e7bc3a191d87f8981f",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/scripts"
+}
+},
+{
+"name": "templates",
+"path": "templates",
+"sha": "50c296340b52e301529cc8ef2f8143098f579a9d",
+"size": 0,
+"url": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/templates?ref=master",
+"html\_url": "https://github.com/SDWIP-KYD/workspace/tree/master/templates",
+"git\_url": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/50c296340b52e301529cc8ef2f8143098f579a9d",
+"download\_url": null,
+"type": "dir",
+"\_links": {
+"self": "https://api.github.com/repos/SDWIP-KYD/workspace/contents/templates?ref=master",
+"git": "https://api.github.com/repos/SDWIP-KYD/workspace/git/trees/50c296340b52e301529cc8ef2f8143098f579a9d",
+"html": "https://github.com/SDWIP-KYD/workspace/tree/master/templates"
+}
+}
+]
+```

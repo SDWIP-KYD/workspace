@@ -1,0 +1,17 @@
+{
+  "name": "Apotik VI",
+  "short_name": "ApotikVI",
+  "description": "Sistem Manajemen Apotik Modern",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#e7ecef",
+  "theme_color": "#274c77",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

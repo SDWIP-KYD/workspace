@@ -1,0 +1,16 @@
+Nama,Kategori,Stok,Harga,Satuan,Tanggal Expired,Tanggal Input,Catatan
+Paracetamol 500mg,Analgesik,150,5000,Tablet,2027-06-15,2026-03-01,Untuk demam dan sakit kepala
+Amoxicillin 500mg,Antibiotik,75,8500,Kapsul,2026-12-20,2026-03-01,Harus dengan resep dokter
+Vitamin C 1000mg,Vitamin,200,12000,Tablet,2027-03-10,2026-03-01,Supplement harian
+Omeprazole 20mg,Antasida,45,15000,Kapsul,2027-01-25,2026-03-01,Untuk maag
+Ibuprofen 400mg,Analgesik,8,6000,Tablet,2027-05-20,2026-03-01,STOK RENDAH - Segera pesan ulang
+Cetirizine 10mg,Vitamin,120,4500,Tablet,2027-04-15,2026-03-01,Antihistamin
+Metformin 500mg,Lainnya,25,12000,Tablet,2026-11-30,2026-03-01,Untuk diabetes - dengan resep
+Salbutamol Inhaler,Lainnya,15,35000,Botol,2026-10-15,2026-03-01,Untuk asthma
+Methylprednisolone 4mg,Lainnya,5,18000,Tablet,2027-02-28,2026-03-01,STOK RENDAH - Kortikosteroid
+Azithromycin 250mg,Antibiotik,60,18000,Kapsul,2027-01-10,2026-03-01,Antibiotik makrolida
+Domperidone 10mg,Antasida,90,7500,Tablet,2027-08-20,2026-03-01,Untuk mual muntah
+Calcium Carbonate,Vitamin,180,8000,Tablet,2027-06-30,2026-03-01,Supplement kalsium
+Loperamide 2mg,Lainnya,40,5000,Tablet,2027-04-01,2026-03-01,Untuk diare
+Paracetamol Syrup,Analgesik,25,18000,Botol,2026-09-15,2026-03-01,Untuk anak-anak
+Amoxicillin Syrup,Antibiotik,3,22000,Botol,2026-08-20,2026-03-01,STOK KRITIS - Segera pesan ulang!

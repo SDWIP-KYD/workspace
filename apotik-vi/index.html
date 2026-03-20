@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Apotik VI - Sistem Manajemen Apotik Modern">
+    <meta name="author" content="Apotik VI">
+    <title>Apotik VI - Sistem Manajemen Apotik</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
+</head>
+<body class="font-inter bg-platinum text-slate-800">
+    
+    <!-- Loading Screen -->
+    <div id="loading-screen" class="fixed inset-0 bg-platinum z-50 flex items-center justify-center">
+        <div class="text-center">
+            <div class="logo-container mb-4">
+                <svg class="w-24 h-24 mx-auto" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="50" cy="50" r="45" fill="#274c77"/>
+                    <path d="M50 20 L50 80 M30 35 L50 20 L70 35 M30 65 L50 80 L70 65" stroke="#a3cef1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+                    <rect x="40" y="40" width="20" height="25" rx="2" fill="#6096ba"/>
+                    <line x1="45" y1="45" x2="55" y2="45" stroke="#fff" stroke-width="2"/>
+                    <line x1="45" y1="50" x2="55" y2="50" stroke="#fff" stroke-width="2"/>
+                    <line x1="45" y1="55" x2="55" y2="55" stroke="#fff" stroke-width="2"/>
+                    <circle cx="50" cy="30" r="5" fill="#22c55e"/>
+                </svg>
+            </div>
+            <h2 class="text-2xl font-bold text-dusk-blue mb-2">Apotik VI</h2>
+            <p class="text-grey-olive">Memuat sistem...</p>
+            <div class="mt-4 w-48 h-2 bg-grey-olive/20 rounded-full mx-auto overflow-hidden">
+                <div id="loading-bar" class="h-full bg-steel-blue rounded-full" style="width: 0%"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification Container -->
+    <div id="toast-container" class="fixed top-20 right-4 z-50 flex flex-col gap-2"></div>
+
+    <!-- Main Layout -->
+    <div class="flex min-h-screen">
+        
+        <!-- Sidebar -->
+        <aside id="sidebar" class="fixed left-0 top-0 h-full w-64 bg-dusk-blue text-white transform -translate-x-full lg:translate-x-0 transition-transform duration-300 z-40 flex flex-col">
+            <!-- Logo -->
+            <div class="p-4 border-b border-icy-blue/30">
+                <div class="flex items-center gap-3">
+                    <svg class="w-12 h-12" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="50" cy="50" r="45" fill="#a3cef1"/>
+                        <path d="M50 20 L50 80 M30 35 L50 20 L70 35 M30 65 L50 80 L70 65" stroke="#274c77" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+                        <rect x="40" y="40" width="20" height="25" rx="2" fill="#6096ba"/>
+                        <line x1="45" y1="45" x2="55" y2="45" stroke="#fff" stroke-width="2"/>
+                        <line x1="45" y1="50" x2="55" y2="50" stroke="#fff" stroke-width="2"/>
+                        <line x1="45" y1="55" x2="55" y2="55" stroke="#fff" stroke-width="2"/>
+                        <circle cx="50" cy="30" r="5" fill="#22c55e"/>
+                    </svg>
+                    <div>
+                        <h1 class="text-xl font-bold text-icy-blue">Apotik VI</h1>
+                        <p class="text-xs text-grey-olive">Manajemen Apotik</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Navigation -->
+            <nav class="flex-1 p-4 overflow-y-auto">
+                <ul class="space-y-2">
+                    <li>
+                        <a href="#" data-page="dashboard" class="nav-item flex items-center gap-3 px-4 py-3 rounded-lg hover:bg-icy-blue/20 transition-colors active">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"></path></svg>
+                            Dashboard
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-page="stok" class="nav-item flex items-center gap-3 px-4 py-3 rounded-lg hover:bg-icy-blue/20 transition-colors">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path></svg>
+                            Stok Obat
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-page="resep" class="nav-item flex items-center gap-3 px-4 py-3 rounded-lg hover:bg-icy-blue/20 transition-colors">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                            Resep Dokter
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-page="laporan" class="nav-item flex items-center gap-3 px-4 py-3 rounded-lg hover:bg-icy-blue/20 transition-colors">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                            Laporan
+                        </a>
+                    </li>
+                </ul>
+                
+                <!-- Quick Actions -->
+                <div class="mt-8 pt-4 border-t border-icy-blue/30">
+                    <p class="text-xs text-grey-olive uppercase tracking-wider mb-3 px-4">Aksi Cepat</p>
+                    <button onclick="showModal('obat')" class="w-full flex items-center gap-3 px-4 py-2 bg-icy-blue/20 hover:bg-icy-blue/30 rounded-lg transition-colors text-sm">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
+                        Tambah Obat
+                    </button>
+                    <button onclick="showModal('resep')" class="w-full flex items-center gap-3 px-4 py-2 mt-2 bg-icy-blue/20 hover:bg-icy-blue/30 rounded-lg transition-colors text-sm">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                        Input Resep
+                    </button>
+                </div>
+            </nav>
+            
+            <!-- Footer -->
+            <div class="p-4 border-t border-icy-blue/30 text-xs text-grey-olive">
+                <p>v1.0.0</p>
+                <p>Data tersimpan lokal</p>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="flex-1 lg:ml-64">
+            <!-- Topbar -->
+            <header class="bg-white shadow-sm sticky top-0 z-30">
+                <div class="flex items-center justify-between px-4 py-3">
+                    <div class="flex items-center gap-4">
+                        <button id="menu-toggle" class="lg:hidden p-2 hover:bg-platinum rounded-lg transition-colors">
+                            <svg class="w-6 h-6 text-dusk-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                        </button>
+                        <h2 id="page-title" class="text-xl font-bold text-dusk-blue">Dashboard</h2>
+                    </div>
+                    
+                    <div class="flex items-center gap-4">
+                        <!-- Search -->
+                        <div class="relative hidden md:block">
+                            <input type="text" id="global-search" placeholder="Cari obat..." class="pl-10 pr-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue focus:border-transparent w-64">
+                            <svg class="w-5 h-5 text-grey-olive absolute left-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                        </div>
+                        
+                        <!-- Data Actions -->
+                        <div class="relative group">
+                            <button class="p-2 hover:bg-platinum rounded-lg transition-colors">
+                                <svg class="w-6 h-6 text-dusk-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
+                            </button>
+                            <div class="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg border border-grey-olive/20 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50">
+                                <button onclick="exportData()" class="w-full px-4 py-2 text-left text-sm hover:bg-platinum flex items-center gap-2">Export CSV</button>
+                                <button onclick="document.getElementById('import-file').click()" class="w-full px-4 py-2 text-left text-sm hover:bg-platinum flex items-center gap-2">Import CSV</button>
+                                <input type="file" id="import-file" class="hidden" accept=".csv" onchange="importData(this)">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Content Area -->
+            <div class="p-6" id="main-content">
+                <!-- Dashboard Page -->
+                <div id="page-dashboard" class="page-content">
+                    <!-- Stats Cards -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+                        <div class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow card-hover">
+                            <div class="flex items-center justify-between">
+                                <div>
+                                    <p class="text-sm text-grey-olive">Total Obat</p>
+                                    <p id="stat-total-obat" class="text-3xl font-bold text-dusk-blue">0</p>
+                                </div>
+                                <div class="w-14 h-14 bg-icy-blue/20 rounded-xl flex items-center justify-center">
+                                    <svg class="w-8 h-8 text-dusk-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path></svg>
+                                </div>
+                            </div>
+                            <p class="text-xs text-grey-olive mt-2">Di database</p>
+                        </div>
+                        
+                        <div class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow card-hover">
+                            <div class="flex items-center justify-between">
+                                <div>
+                                    <p class="text-sm text-grey-olive">Stok Rendah</p>
+                                    <p id="stat-stok-rendah" class="text-3xl font-bold text-red-500">0</p>
+                                </div>
+                                <div class="w-14 h-14 bg-red-100 rounded-xl flex items-center justify-center">
+                                    <svg class="w-8 h-8 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+                                </div>
+                            </div>
+                            <p class="text-xs text-grey-olive mt-2">Stok kurang dari 10</p>
+                        </div>
+                        
+                        <div class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow card-hover">
+                            <div class="flex items-center justify-between">
+                                <div>
+                                    <p class="text-sm text-grey-olive">Akan Expired</p>
+                                    <p id="stat-akan-expired" class="text-3xl font-bold text-amber-500">0</p>
+                                </div>
+                                <div class="w-14 h-14 bg-amber-100 rounded-xl flex items-center justify-center">
+                                    <svg class="w-8 h-8 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                                </div>
+                            </div>
+                            <p class="text-xs text-grey-olive mt-2">Dalam 30 hari</p>
+                        </div>
+                        
+                        <div class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow card-hover">
+                            <div class="flex items-center justify-between">
+                                <div>
+                                    <p class="text-sm text-grey-olive">Resep Hari Ini</p>
+                                    <p id="stat-resep-hari" class="text-3xl font-bold text-steel-blue">0</p>
+                                </div>
+                                <div class="w-14 h-14 bg-steel-blue/20 rounded-xl flex items-center justify-center">
+                                    <svg class="w-8 h-8 text-steel-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                                </div>
+                            </div>
+                            <p class="text-xs text-grey-olive mt-2">Resep masuk hari ini</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Charts & Activity -->
+                    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
+                        <div class="bg-white rounded-2xl p-6 shadow-sm lg:col-span-2">
+                            <h3 class="text-lg font-semibold text-dusk-blue mb-4">Distribusi Kategori Obat</h3>
+                            <div class="h-64">
+                                <canvas id="category-chart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="bg-white rounded-2xl p-6 shadow-sm">
+                            <h3 class="text-lg font-semibold text-dusk-blue mb-4">Aktivitas Terbaru</h3>
+                            <div id="recent-activity" class="space-y-3 max-h-64 overflow-y-auto">
+                                <p class="text-sm text-grey-olive text-center py-4">Belum ada aktivitas</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Low Stock & Expiring Soon -->
+                    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                        <div class="bg-white rounded-2xl p-6 shadow-sm">
+                            <h3 class="text-lg font-semibold text-dusk-blue mb-4 flex items-center gap-2">
+                                <svg class="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+                                Stok Rendah
+                            </h3>
+                            <div id="low-stock-list" class="space-y-2 max-h-48 overflow-y-auto">
+                                <p class="text-sm text-grey-olive text-center py-4">Tidak ada obat dengan stok rendah</p>
+                            </div>
+                        </div>
+                        
+                        <div class="bg-white rounded-2xl p-6 shadow-sm">
+                            <h3 class="text-lg font-semibold text-dusk-blue mb-4 flex items-center gap-2">
+                                <svg class="w-5 h-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                                Akan Expired
+                            </h3>
+                            <div id="expiring-list" class="space-y-2 max-h-48 overflow-y-auto">
+                                <p class="text-sm text-grey-olive text-center py-4">Tidak ada obat akan expired</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Stok Obat Page -->
+                <div id="page-stok" class="page-content hidden">
+                    <div class="bg-white rounded-2xl shadow-sm">
+                        <div class="p-6 border-b border-grey-olive/20">
+                            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                                <button onclick="showModal('obat')" class="px-4 py-2 bg-dusk-blue text-white rounded-lg hover:bg-steel-blue transition-colors flex items-center gap-2">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
+                                    Tambah Obat
+                                </button>
+                                <div class="flex flex-col md:flex-row gap-3">
+                                    <div class="relative">
+                                        <input type="text" id="stok-search" placeholder="Cari obat..." class="pl-10 pr-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue w-full md:w-64">
+                                        <svg class="w-5 h-5 text-grey-olive absolute left-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                                    </div>
+                                    <select id="stok-kategori-filter" class="px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue">
+                                        <option value="">Semua Kategori</option>
+                                        <option value="Analgesik">Analgesik</option>
+                                        <option value="Antibiotik">Antibiotik</option>
+                                        <option value="Vitamin">Vitamin</option>
+                                        <option value="Antasida">Antasida</option>
+                                        <option value="Lainnya">Lainnya</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="overflow-x-auto">
+                            <table class="w-full">
+                                <thead class="bg-platinum">
+                                    <tr>
+                                        <th class="px-6 py-3 text-left text-xs font-semibold text-dusk-blue uppercase tracking-wider">Nama Obat</th>
+                                        <th class="px-6 py-3 text-left text-xs font-semibold text-dusk-blue uppercase tracking-wider">Kategori</th>
+                                        <th class="px-6 py-3 text-left text-xs font-semibold text-dusk-blue uppercase tracking-wider">Stok</th>
+                                        <th class="px-6 py-3 text-left text-xs font-semibold text-dusk-blue uppercase tracking-wider">Harga</th>
+                                        <th class="px-6 py-3 text-left text-xs font-semibold text-dusk-blue uppercase tracking-wider">Expired</th>
+                                        <th class="px-6 py-3 text-left text-xs font-semibold text-dusk-blue uppercase tracking-wider">Aksi</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="stok-table-body" class="divide-y divide-grey-olive/20">
+                                    <tr><td colspan="6" class="px-6 py-8 text-center text-grey-olive">Belum ada data obat</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <div id="stok-pagination" class="p-4 border-t border-grey-olive/20 flex justify-center"></div>
+                    </div>
+                </div>
+
+                <!-- Resep Page -->
+                <div id="page-resep" class="page-content hidden">
+                    <div class="bg-white rounded-2xl shadow-sm">
+                        <div class="p-6 border-b border-grey-olive/20">
+                            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                                <button onclick="showModal('resep')" class="px-4 py-2 bg-dusk-blue text-white rounded-lg hover:bg-steel-blue transition-colors flex items-center gap-2">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
+                                    Input Resep Baru
+                                </button>
+                                <div class="flex gap-2">
+                                    <button onclick="filterResep('semua')" class="resep-filter-btn px-4 py-2 rounded-lg bg-platinum text-dusk-blue hover:bg-icy-blue/30 transition-colors text-sm font-medium" data-filter="semua">Semua</button>
+                                    <button onclick="filterResep('baru')" class="resep-filter-btn px-4 py-2 rounded-lg text-grey-olive hover:bg-platinum transition-colors text-sm font-medium" data-filter="baru">Baru</button>
+                                    <button onclick="filterResep('diproses')" class="resep-filter-btn px-4 py-2 rounded-lg text-grey-olive hover:bg-platinum transition-colors text-sm font-medium" data-filter="diproses">Diproses</button>
+                                    <button onclick="filterResep('selesai')" class="resep-filter-btn px-4 py-2 rounded-lg text-grey-olive hover:bg-platinum transition-colors text-sm font-medium" data-filter="selesai">Selesai</button>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div id="resep-list" class="p-6 space-y-4">
+                            <p class="text-center text-grey-olive py-8">Belum ada resep</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Laporan Page -->
+                <div id="page-laporan" class="page-content hidden">
+                    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                        <div class="bg-white rounded-2xl p-6 shadow-sm">
+                            <h3 class="text-lg font-semibold text-dusk-blue mb-4">Ringkasan Data</h3>
+                            <div class="space-y-4">
+                                <div class="flex justify-between items-center py-2 border-b border-grey-olive/10">
+                                    <span class="text-grey-olive">Total Obat</span>
+                                    <span id="laporan-total-obat" class="font-semibold text-dusk-blue">0</span>
+                                </div>
+                                <div class="flex justify-between items-center py-2 border-b border-grey-olive/10">
+                                    <span class="text-grey-olive">Total Resep</span>
+                                    <span id="laporan-total-resep" class="font-semibold text-dusk-blue">0</span>
+                                </div>
+                                <div class="flex justify-between items-center py-2 border-b border-grey-olive/10">
+                                    <span class="text-grey-olive">Total Nilai Stok</span>
+                                    <span id="laporan-nilai-stok" class="font-semibold text-dusk-blue">Rp 0</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="bg-white rounded-2xl p-6 shadow-sm">
+                            <h3 class="text-lg font-semibold text-dusk-blue mb-4">Opsi Export</h3>
+                            <div class="space-y-3">
+                                <button onclick="exportData('obat')" class="w-full px-4 py-3 bg-platinum hover:bg-icy-blue/30 rounded-lg transition-colors flex items-center gap-3">
+                                    <svg class="w-5 h-5 text-dusk-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                                    Export Data Obat (CSV)
+                                </button>
+                                <button onclick="exportData('resep')" class="w-full px-4 py-3 bg-platinum hover:bg-icy-blue/30 rounded-lg transition-colors flex items-center gap-3">
+                                    <svg class="w-5 h-5 text-dusk-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                                    Export Data Resep (CSV)
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal: Tambah/Edit Obat -->
+    <div id="modal-obat" class="fixed inset-0 bg-black/50 z-50 hidden items-center justify-center p-4">
+        <div class="bg-white rounded-2xl w-full max-w-lg max-h-[90vh] overflow-y-auto">
+            <div class="p-6 border-b border-grey-olive/20">
+                <h3 id="modal-obat-title" class="text-xl font-bold text-dusk-blue">Tambah Obat Baru</h3>
+            </div>
+            <form id="form-obat" class="p-6 space-y-4">
+                <input type="hidden" id="obat-id">
+                <div>
+                    <label class="block text-sm font-medium text-dusk-blue mb-1">Nama Obat *</label>
+                    <input type="text" id="obat-nama" required class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue" placeholder="Contoh: Paracetamol 500mg">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-dusk-blue mb-1">Kategori *</label>
+                    <select id="obat-kategori" required class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue">
+                        <option value="">Pilih Kategori</option>
+                        <option value="Analgesik">Analgesik</option>
+                        <option value="Antibiotik">Antibiotik</option>
+                        <option value="Vitamin">Vitamin</option>
+                        <option value="Antasida">Antasida</option>
+                        <option value="Lainnya">Lainnya</option>
+                    </select>
+                </div>
+                <div class="grid grid-cols-2 gap-4">
+                    <div>
+                        <label class="block text                        <label class="block text-sm font-medium text-dusk-blue mb-1">Stok *</label>
+                        <input type="number" id="obat-stok" required min="0" class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue" placeholder="0">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-dusk-blue mb-1">Harga (Rp) *</label>
+                        <input type="number" id="obat-harga" required min="0" class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue" placeholder="0">
+                    </div>
+                </div>
+                <div class="grid grid-cols-2 gap-4">
+                    <div>
+                        <label class="block text-sm font-medium text-dusk-blue mb-1">Satuan *</label>
+                        <select id="obat-satuan" required class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue">
+                            <option value="Tablet">Tablet</option>
+                            <option value="Kapsul">Kapsul</option>
+                            <option value="Botol">Botol</option>
+                            <option value="Strip">Strip</option>
+                            <option value="Box">Box</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-dusk-blue mb-1">Tanggal Expired *</label>
+                        <input type="date" id="obat-expired" required class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue">
+                    </div>
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-dusk-blue mb-1">Catatan</label>
+                    <textarea id="obat-catatan" rows="2" class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue" placeholder="Opsional..."></textarea>
+                </div>
+                <div class="flex gap-3 pt-4">
+                    <button type="button" onclick="closeModal('obat')" class="flex-1 px-4 py-2 border border-grey-olive/30 rounded-lg hover:bg-platinum transition-colors">Batal</button>
+                    <button type="submit" class="flex-1 px-4 py-2 bg-dusk-blue text-white rounded-lg hover:bg-steel-blue transition-colors">Simpan</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal: Input Resep -->
+    <div id="modal-resep" class="fixed inset-0 bg-black/50 z-50 hidden items-center justify-center p-4">
+        <div class="bg-white rounded-2xl w-full max-w-2xl max-h-[90vh] overflow-y-auto">
+            <div class="p-6 border-b border-grey-olive/20">
+                <h3 class="text-xl font-bold text-dusk-blue">Input Resep Baru</h3>
+            </div>
+            <form id="form-resep" class="p-6 space-y-4">
+                <input type="hidden" id="resep-id">
+                <div class="grid grid-cols-2 gap-4">
+                    <div>
+                        <label class="block text-sm font-medium text-dusk-blue mb-1">Nama Dokter *</label>
+                        <input type="text" id="resep-dokter" required class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue" placeholder="Dr. Nama">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-dusk-blue mb-1">Nama Pasien *</label>
+                        <input type="text" id="resep-pasien" required class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue" placeholder="Nama Pasien">
+                    </div>
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-dusk-blue mb-1">Tanggal</label>
+                    <input type="date" id="resep-tanggal" class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue">
+                </div>
+                
+                <!-- Daftar Obat -->
+                <div>
+                    <label class="block text-sm font-medium text-dusk-blue mb-2">Daftar Obat</label>
+                    <div id="resep-obat-list" class="space-y-2 mb-3"></div>
+                    <button type="button" onclick="addResepObat()" class="text-sm text-steel-blue hover:text-dusk-blue flex items-center gap-1">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
+                        Tambah Obat
+                    </button>
+                </div>
+                
+                <div>
+                    <label class="block text-sm font-medium text-dusk-blue mb-1">Catatan</label>
+                    <textarea id="resep-catatan" rows="2" class="w-full px-4 py-2 border border-grey-olive/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-steel-blue" placeholder="Opsional..."></textarea>
+                </div>
+                <div class="flex gap-3 pt-4">
+                    <button type="button" onclick="closeModal('resep')" class="flex-1 px-4 py-2 border border-grey-olive/30 rounded-lg hover:bg-platinum transition-colors">Batal</button>
+                    <button type="submit" class="flex-1 px-4 py-2 bg-dusk-blue text-white rounded-lg hover:bg-steel-blue transition-colors">Simpan</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal: Confirm Delete -->
+    <div id="modal-confirm" class="fixed inset-0 bg-black/50 z-50 hidden items-center justify-center p-4">
+        <div class="bg-white rounded-2xl w-full max-w-sm">
+            <div class="p-6 text-center">
+                <div class="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <svg class="w-8 h-8 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                </div>
+                <h3 class="text-lg font-bold text-dusk-blue mb-2">Konfirmasi Hapus</h3>
+                <p id="confirm-message" class="text-grey-olive mb-6">Apakah Anda yakin ingin menghapus data ini?</p>
+                <div class="flex gap-3">
+                    <button onclick="closeModal('confirm')" class="flex-1 px-4 py-2 border border-grey-olive/30 rounded-lg hover:bg-platinum transition-colors">Batal</button>
+                    <button id="confirm-yes" class="flex-1 px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors">Hapus</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/app.js"></script>
+</body>
+</html>
