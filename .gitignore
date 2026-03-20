@@ -1,7 +1,5 @@
 # Sensitive
 token.json
-*.env
-.env*
 
 # OS
 .DS_Store
@@ -11,6 +9,4 @@ Thumbs.db
 .idea/
 .vscode/
 
-# OpenClaw
-.openclaw/
-.watermark/
+# 
